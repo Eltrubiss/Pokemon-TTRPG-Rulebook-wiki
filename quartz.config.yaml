@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Eltrubiss.github.io/PokemonTTRPG-Rulebook
+  baseUrl: eltrubiss.github.io/Pokemon-TTRPG-Rulebook-wiki
   ignorePatterns:
     - private
     - templates
