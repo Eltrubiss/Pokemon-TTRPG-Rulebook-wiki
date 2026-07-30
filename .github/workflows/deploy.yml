@@ -39,7 +39,7 @@ jobs:
         run: npm run install-plugins
 
       - name: Build Quartz
-        run: npx quartz build -d content -v
+        run: npx quartz build -v
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
