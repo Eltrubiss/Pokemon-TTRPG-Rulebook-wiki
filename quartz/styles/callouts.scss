@@ -118,6 +118,16 @@
     --callout-icon: var(--callout-icon-quote);
   }
 
+  &[data-callout="infobox"] {
+    float: right;
+    width: 320px;
+    margin: 0 0 1rem 1rem;
+
+    --color: var(--secondary);
+    --border: var(--lightgray);
+    --bg: var(--light);
+  }
+
   &.is-collapsed {
     & > .callout-title > .fold-callout-icon {
       transform: rotateZ(-90deg);

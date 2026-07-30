@@ -1,0 +1,12 @@
+---
+tags:
+  - Ataques
+tipo1: "Normal"
+---
+
+| TIPO | Potencia | Precisión | Clase |
+| ---- | -------- | --------- | --------- |
+| Normal | -- | 100 | Status |
+___
+### Descripción
+Lowers the target's Attack and Defense by one stage.

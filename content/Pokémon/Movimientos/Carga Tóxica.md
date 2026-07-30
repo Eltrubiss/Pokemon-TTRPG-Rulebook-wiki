@@ -1,0 +1,17 @@
+---
+tags:
+  - Ataques
+  - Especial
+  - Veneno
+tipo1: Veneno
+slug: venoshock
+---
+
+| TIPO       | PP | POTENCIA                  | PRECISION | CLASE        |
+| ---------- | ---- |------------------------- | --------- | ------------ |
+| [[Veneno]] | 5 | 1d6 + [[SpAtk]] | 100       | [[Especial]] |
+___
+### Descripción
+El Pokémon usuario rocía al objetivo con un fluido tóxico especial. Si el oponente ya se encuentra bajo los efectos del [[Envenenado|veneno]], esta sustancia reacciona violentamente con las toxinas presentes en su organismo, provocando un daño devastador.
+
+Carga Tóxica hace daño, si el objetivo está [[Envenenado]], el **Dado de daño** pasa a ser 1d12.

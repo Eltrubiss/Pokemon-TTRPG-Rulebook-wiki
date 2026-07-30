@@ -1,0 +1,30 @@
+---
+tags:
+  - Pokemon
+num_pokedex: 0005
+tipo1: "Tipo fuego"
+---
+
+>[!infobox]
+>#### **Charmeleon**
+>|  |
+>|-|
+>| ![[{row.get('nombre')} .png]] |
+>___
+>**Peso:** 19,0 kg
+>**Altura:** 1,1 m
+>___
+>|  Nombre  | stats |
+>| ----------- | ----- |
+>| hp          | 58    |
+>| ataque      | 64    |
+>| defensa     | 58    |
+>| ataque.esp  | 80    |
+>| defensa.esp | 65    |
+>| velocidad   | 80    |
+>___
+> **[[Habilidades]]:**
+> - [[Mar Llamas]]
+>
+> **[[Habilidad Oculta]]:**
+> - [[Poder solar]]
