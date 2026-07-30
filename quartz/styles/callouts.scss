@@ -122,10 +122,15 @@
     float: right;
     width: 320px;
     margin: 0 0 1rem 1rem;
+    padding: .5rem;
 
     --color: var(--secondary);
     --border: var(--lightgray);
     --bg: var(--light);
+
+    > .callout-title {
+      display: none;
+    }
   }
 
   &.is-collapsed {

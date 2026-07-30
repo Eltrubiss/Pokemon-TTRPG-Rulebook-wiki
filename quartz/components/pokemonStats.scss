@@ -1,0 +1,19 @@
+.stat-bar-container {
+  width: 100%;
+  min-width: 120px;
+  height: 12px;
+
+  background-color: var(--background-secondary-alt);
+
+  border-radius: 6px;
+  overflow: hidden;
+
+  border: 1px solid var(--background-modifier-border);
+}
+
+.stat-bar-fill {
+  height: 100%;
+  border-radius: 6px;
+
+  transition: width .3s ease-in-out;
+}

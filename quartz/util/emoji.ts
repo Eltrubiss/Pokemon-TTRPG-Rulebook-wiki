@@ -33,8 +33,8 @@ type EmojiMap = {
 let emojimap: EmojiMap | undefined = undefined
 export async function loadEmoji(code: string) {
   if (!emojimap) {
-    const data = await import("./emojimap.json")
-    emojimap = data
+    const data = (await import("./emojimap.json")) as { default: EmojiMap }
+    emojimap = data.default
   }
 
   const name = emojimap.codePointToName[`${code.toUpperCase()}`]
