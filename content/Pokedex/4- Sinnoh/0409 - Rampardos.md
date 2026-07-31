@@ -24,7 +24,7 @@ tipo1: "Tipo roca"
 >| velocidad   | 58    |
 >___
 > **[[Habilidades]]:**
-> - [[Rompemoldes]]
+> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Potencia bruta]]

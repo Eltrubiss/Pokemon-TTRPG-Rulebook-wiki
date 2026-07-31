@@ -24,7 +24,7 @@ tipo1: "Tipo hada"
 >| velocidad   | 65    |
 >___
 > **[[Habilidades]]:**
-> - [[Ritmo Propio]]
+> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Zoquete]]

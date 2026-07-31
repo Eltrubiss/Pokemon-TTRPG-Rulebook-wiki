@@ -24,7 +24,7 @@ tipo1: "Tipo agua"
 >| velocidad   | 50    |
 >___
 > **[[Habilidades]]:**
-> - [[Torrente]]
+> - [[Pokémon/Habilidades/Torrente\|Torrente]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Autoestima]]
+> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]

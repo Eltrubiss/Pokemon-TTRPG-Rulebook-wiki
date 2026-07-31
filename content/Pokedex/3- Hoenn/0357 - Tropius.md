@@ -25,8 +25,8 @@ tipo2: "Tipo volador"
 >| velocidad   | 51    |
 >___
 > **[[Habilidades]]:**
-> - [[Clorofila]]
+> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
 > - [[Poder solar]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Cosecha]]
+> - [[Pokémon/Habilidades/Cosecha\|Cosecha]]

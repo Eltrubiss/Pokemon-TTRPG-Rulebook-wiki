@@ -24,8 +24,8 @@ tipo1: "Tipo hielo"
 >| velocidad   | 28    |
 >___
 > **[[Habilidades]]:**
-> - [[Ritmo Propio]]
-> - [[Cuerpo de Hielo]]
+> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
+> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Robustez]]

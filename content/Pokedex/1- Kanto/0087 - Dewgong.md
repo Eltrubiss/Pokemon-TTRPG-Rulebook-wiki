@@ -26,7 +26,7 @@ tipo2: "Tipo hielo"
 >___
 > **[[Habilidades]]:**
 > - [[Sebo]]
-> - [[Hidratación]]
+> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Cuerpo de Hielo]]
+> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]

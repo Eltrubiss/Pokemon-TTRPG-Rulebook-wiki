@@ -25,7 +25,7 @@ tipo1: "Tipo lucha"
 >___
 > **[[Habilidades]]:**
 > - [[Impasible]]
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Bromista]]

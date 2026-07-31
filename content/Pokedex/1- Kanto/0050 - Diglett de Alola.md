@@ -25,7 +25,7 @@ tipo2: "Tipo acero"
 >| velocidad   | 90    |
 >___
 > **[[Habilidades]]:**
-> - [[Velo de Arena]]
+> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
 > - [[Rizos rebeldes]]
 >
 > **[[Habilidad Oculta]]:**

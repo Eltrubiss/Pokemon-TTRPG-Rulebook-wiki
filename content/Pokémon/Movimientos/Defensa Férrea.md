@@ -9,12 +9,12 @@ slug: iron-defense
 
 | TIPO      | PP  | POTENCIA | PRESICION | CLASE      |
 | --------- | --- | -------- | --------- | ---------- |
-| [[Acero]] | 6   | --       | --        | [[Estado]] |
+| [[Pokémon/Tipos/Acero\|Acero]] | 6   | --       | --        | [[Estado]] |
 ___
 ### Descripción
 Endurece el cuerpo, volviéndolo tan resistente como el acero 
 
-Defensa de Hierro aumenta en dos niveles la [[Def|Defensa Física]] del usuario.
+Defensa de Hierro aumenta en dos niveles la [[Pokémon/Características Pokémon/Características/Def\|Defensa Física]] del usuario.
 ___
 **Notas Relacionadas:**
-- [[Cambios de Características]]
+- [[Pokémon/Características Pokémon/Cambios de Características\|Cambios de Características]]

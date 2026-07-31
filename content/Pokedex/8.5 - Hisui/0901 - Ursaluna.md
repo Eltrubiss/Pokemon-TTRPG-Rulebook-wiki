@@ -25,7 +25,7 @@ tipo2: "Tipo normal"
 >| velocidad   | 50    |
 >___
 > **[[Habilidades]]:**
-> - [[Agallas]]
+> - [[Pokémon/Habilidades/Agallas\|Agallas]]
 > - [[Antibalas]]
 >
 > **[[Habilidad Oculta]]:**

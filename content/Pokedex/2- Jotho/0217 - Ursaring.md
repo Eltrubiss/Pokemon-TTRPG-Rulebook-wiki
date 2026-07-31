@@ -24,7 +24,7 @@ tipo1: "Tipo normal"
 >| velocidad   | 55    |
 >___
 > **[[Habilidades]]:**
-> - [[Agallas]]
+> - [[Pokémon/Habilidades/Agallas\|Agallas]]
 > - [[Pies rápidos]]
 >
 > **[[Habilidad Oculta]]:**

@@ -27,4 +27,4 @@ tipo1: "Tipo dragón"
 > - [[Cabeza roca]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]

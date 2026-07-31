@@ -28,4 +28,4 @@ tipo1: "Tipo tierra"
 > - [[Mudar]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Velo de Arena]]
+> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]

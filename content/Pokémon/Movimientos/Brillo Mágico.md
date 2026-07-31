@@ -9,7 +9,7 @@ slug: dazzling-gleam
 
 | TIPO     | POTENCIA | PPs | PRECISIÓN | CLASE   |
 | -------- | -------- | --- | --------- | ------- |
-| [[Hada]] | 80       | 5   | 100       | Special |
+| [[Pokémon/Tipos/Hada\|Hada]] | 80       | 5   | 100       | Special |
 ___
 ### Descripción
 Brillo Mágico causa daño a todos los oponentes y no tiene ningún efecto secundario.

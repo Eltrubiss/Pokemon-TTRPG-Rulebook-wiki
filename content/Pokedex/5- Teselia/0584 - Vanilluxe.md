@@ -24,7 +24,7 @@ tipo1: "Tipo hielo"
 >| velocidad   | 79    |
 >___
 > **[[Habilidades]]:**
-> - [[Cuerpo de Hielo]]
+> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
 > - [[Nevada]]
 >
 > **[[Habilidad Oculta]]:**

@@ -24,7 +24,7 @@ tipo1: "Tipo lucha"
 >| velocidad   | 105    |
 >___
 > **[[Habilidades]]:**
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 > - [[Regeneración]]
 >
 > **[[Habilidad Oculta]]:**

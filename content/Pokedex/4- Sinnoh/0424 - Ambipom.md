@@ -28,4 +28,4 @@ tipo1: "Tipo normal"
 > - [[Recogida]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Encadenado]]
+> - [[Pokémon/Habilidades/Encadenado\|Encadenado]]

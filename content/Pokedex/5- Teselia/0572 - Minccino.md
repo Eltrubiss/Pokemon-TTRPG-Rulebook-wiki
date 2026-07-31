@@ -28,4 +28,4 @@ tipo1: "Tipo normal"
 > - [[Experto]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Encadenado]]
+> - [[Pokémon/Habilidades/Encadenado\|Encadenado]]

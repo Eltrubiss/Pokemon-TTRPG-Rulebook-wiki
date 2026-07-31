@@ -27,4 +27,4 @@ tipo1: "Tipo tierra"
 > - [[Recogida]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Velo de Arena]]
+> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]

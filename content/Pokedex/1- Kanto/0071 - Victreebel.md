@@ -25,7 +25,7 @@ tipo2: "Tipo veneno"
 >| velocidad   | 70    |
 >___
 > **[[Habilidades]]:**
-> - [[Clorofila]]
+> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Gula]]

@@ -28,4 +28,4 @@ tipo2: "Tipo normal"
 > - [[Madrugar]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Cosecha]]
+> - [[Pokémon/Habilidades/Cosecha\|Cosecha]]

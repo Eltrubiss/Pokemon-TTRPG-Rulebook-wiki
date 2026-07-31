@@ -29,4 +29,4 @@ tipo2: "Tipo volador"
 > - [[Afortunado]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Autoestima]]
+> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]

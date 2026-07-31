@@ -24,7 +24,7 @@ tipo1: "Tipo planta"
 >| velocidad   | 35    |
 >___
 > **[[Habilidades]]:**
-> - [[Velo de Arena]]
+> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Absorbe agua]]

@@ -25,7 +25,7 @@ tipo1: "Tipo lucha"
 >___
 > **[[Habilidades]]:**
 > - [[Puño férreo]]
-> - [[Rompemoldes]]
+> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Intrépido]]

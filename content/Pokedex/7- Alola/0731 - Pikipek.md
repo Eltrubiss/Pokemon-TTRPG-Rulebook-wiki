@@ -26,7 +26,7 @@ tipo2: "Tipo volador"
 >___
 > **[[Habilidades]]:**
 > - [[Vista lince]]
-> - [[Encadenado]]
+> - [[Pokémon/Habilidades/Encadenado\|Encadenado]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Recogida]]

@@ -28,4 +28,4 @@ tipo2: "Tipo volador"
 > - [[Intimidación]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Autoestima]]
+> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]

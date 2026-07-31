@@ -28,4 +28,4 @@ tipo1: "Tipo psíquico"
 > - [[Alerta]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]

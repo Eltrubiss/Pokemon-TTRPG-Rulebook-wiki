@@ -25,4 +25,4 @@ tipo2: "Tipo dragón"
 >| velocidad   | 109    |
 >___
 > **[[Habilidades]]:**
-> - [[Paleosíntesis]]
+> - [[Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]

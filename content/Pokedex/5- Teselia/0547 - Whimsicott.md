@@ -29,4 +29,4 @@ tipo2: "Tipo hada"
 > - [[Allanamiento]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Clorofila]]
+> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]

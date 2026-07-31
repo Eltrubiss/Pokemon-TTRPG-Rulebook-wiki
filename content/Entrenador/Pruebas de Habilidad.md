@@ -45,12 +45,12 @@ En algunas situaciones, una misma acción puede resolverse mediante distintas Ha
 
 | Acción                                                             | Habilidad             | Motivo                                                 |
 | ------------------------------------------------------------------ | --------------------- | ------------------------------------------------------ |
-| Escalar un muro utilizando la fuerza para sostener el propio peso. | **[[Fortaleza]]**     | El desafío depende del esfuerzo físico.                |
-| Escalar un árbol aprovechando ramas y puntos de apoyo.             | **[[Destreza]]**      | El desafío depende de la coordinación y el equilibrio. |
-| Localizar el campamento de un Pokémon salvaje siguiendo huellas.   | **[[Supervivencia]]** | Se utilizan conocimientos del entorno natural.         |
-| Localizar un escondite examinando una habitación.                  | **[[Investigación]]** | La información se obtiene mediante la observación.     |
-| Identificar un Pokémon por sus características.                    | **[[Academicismo]]**  | El personaje recuerda conocimientos estudiados.        |
-| Diagnosticar una enfermedad.                                       | **[[Medicina]]**      | El problema pertenece al ámbito de la salud.           |
+| Escalar un muro utilizando la fuerza para sostener el propio peso. | **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Fortaleza\|Fortaleza]]**     | El desafío depende del esfuerzo físico.                |
+| Escalar un árbol aprovechando ramas y puntos de apoyo.             | **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]]**      | El desafío depende de la coordinación y el equilibrio. |
+| Localizar el campamento de un Pokémon salvaje siguiendo huellas.   | **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]]** | Se utilizan conocimientos del entorno natural.         |
+| Localizar un escondite examinando una habitación.                  | **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Investigación\|Investigación]]** | La información se obtiene mediante la observación.     |
+| Identificar un Pokémon por sus características.                    | **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]]**  | El personaje recuerda conocimientos estudiados.        |
+| Diagnosticar una enfermedad.                                       | **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]]**      | El problema pertenece al ámbito de la salud.           |
 En ocasiones, varias Habilidades podrían parecer apropiadas para resolver una misma situación. En estos casos, el Director de Juego elegirá la Habilidad que mejor represente el enfoque descrito por el jugador.
 
 Si una propuesta resulta razonable y coherente con la narración, es recomendable favorecer soluciones creativas siempre que respeten la identidad de cada Habilidad.
@@ -69,7 +69,7 @@ $$
 Cada uno de estos elementos representa un aspecto distinto del personaje o de la situación.
 
 - **Característica Base:** Es la Característica asociada a la Habilidad elegida (**[[Cuerpo]]**, **[[Saber]]** o **[[Carisma]]**).
-- **Bonos:** Representan el entrenamiento y la experiencia del personaje, como el **Bono de competencia** en una [[Habilidades de Entrenador|Habilidad]] o el **Bono de Especialización** en una [[Habilidades Especializas|Habilidad Especializada]] aplicable.
+- **Bonos:** Representan el entrenamiento y la experiencia del personaje, como el **Bono de competencia** en una [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades de Entrenador\|Habilidad]] o el **Bono de Especialización** en una [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades Especializas\|Habilidad Especializada]] aplicable.
 - **Modificadores:** Representan las circunstancias particulares de la acción, como la dificultad, el equipo utilizado, el entorno, los efectos de Rasgos, Estados u otras reglas especiales.
 
 Una vez calculado el Valor Objetivo, el personaje estará listo para realizar la **Prueba de Habilidad**.
@@ -77,12 +77,12 @@ Una vez calculado el Valor Objetivo, el personaje estará listo para realizar la
 > [!Example] Ejemplo
 > Sofía intenta identificar el origen de unas antiguas ruinas Pokémon.
 > 
-> El Director de Juego determina que debe realizar una Prueba de **[[Academicismo]]**, una Habilidad asociada a **[[Saber]]**.
+> El Director de Juego determina que debe realizar una Prueba de **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]]**, una Habilidad asociada a **[[Saber]]**.
 > Sofía posee:
 >
 >- **[[Saber]]:** 42
->- **[[Academicismo]] Entrenado:** +15
->- **[[Habilidades Especializas|Habilidad Especializada]] (Arqueología):** +15
+>- **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]] Entrenado:** +15
+>- **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades Especializas\|Habilidad Especializada]] (Arqueología):** +15
 >
 >No existen modificadores adicionales.
 >
@@ -169,8 +169,8 @@ Una vez obtenidos los resultados, se comparan siguiendo las siguientes reglas.
 Esta regla representa que el vencedor logró imponerse por un margen más ajustado, aprovechando al máximo sus capacidades.
 
 > [!Example] Ejemplo
->Marina intenta convencer a un investigador para que le permita acceder a un laboratorio restringido mediante una Prueba de **[[Diplomacia]]**.
-> El investigador intenta mantenerse firme utilizando **[[Perspicacia]]** para detectar posibles manipulaciones.
+>Marina intenta convencer a un investigador para que le permita acceder a un laboratorio restringido mediante una Prueba de **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]]**.
+> El investigador intenta mantenerse firme utilizando **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]]** para detectar posibles manipulaciones.
 > - Marina posee un **Valor Objetivo** de **65** y obtiene **58**.
 > - El investigador posee un **Valor Objetivo** de **45** y obtiene **41**.
 >

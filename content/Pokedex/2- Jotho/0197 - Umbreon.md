@@ -27,4 +27,4 @@ tipo1: "Tipo siniestro"
 > - [[Sincronía]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]

@@ -25,7 +25,7 @@ tipo2: "Tipo siniestro"
 >| velocidad   | 60    |
 >___
 > **[[Habilidades]]:**
-> - [[Mar Llamas]]
+> - [[Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Intimidación]]

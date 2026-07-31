@@ -25,7 +25,7 @@ tipo2: "Tipo tierra"
 >| velocidad   | 50    |
 >___
 > **[[Habilidades]]:**
-> - [[Torrente]]
+> - [[Pokémon/Habilidades/Torrente\|Torrente]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Humedad]]

@@ -24,8 +24,8 @@ tipo1: "Tipo bicho"
 >| velocidad   | 25    |
 >___
 > **[[Habilidades]]:**
-> - [[Hidratación]]
+> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
 > - [[Caparazón]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]

@@ -422,21 +422,17 @@ function buildTarget(parsed, absoluteTarget) {
     if (parsed.heading)
         result += "#" + parsed.heading;
 
-    // Alias escrito por el usuario
+    // Si el usuario ya escribió un alias, lo conservamos.
     if (parsed.alias !== null) {
 
-        result += "|" + escapeAlias(parsed.alias);
+        result += "\\|" + escapeAlias(parsed.alias);
 
         return `[[${result}]]`;
 
     }
 
-    // Si el destino visible coincide con el nombre del archivo,
-    // no hace falta escribir alias.
-    if (displayName(absoluteTarget) === parsed.target)
-        return `[[${result}]]`;
-
-    result += "|" + escapeAlias(parsed.target);
+    // Si no había alias, usamos el nombre original del enlace.
+    result += "\\|" + escapeAlias(parsed.target);
 
     return `[[${result}]]`;
 

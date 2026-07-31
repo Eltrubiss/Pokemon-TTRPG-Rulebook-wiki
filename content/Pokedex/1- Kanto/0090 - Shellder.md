@@ -25,7 +25,7 @@ tipo1: "Tipo agua"
 >___
 > **[[Habilidades]]:**
 > - [[Caparazón]]
-> - [[Encadenado]]
+> - [[Pokémon/Habilidades/Encadenado\|Encadenado]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]

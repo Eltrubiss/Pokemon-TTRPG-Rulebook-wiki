@@ -26,7 +26,7 @@ tipo2: "Tipo psíquico"
 >___
 > **[[Habilidades]]:**
 > - [[Mano rápida]]
-> - [[Ritmo Propio]]
+> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Regeneración]]

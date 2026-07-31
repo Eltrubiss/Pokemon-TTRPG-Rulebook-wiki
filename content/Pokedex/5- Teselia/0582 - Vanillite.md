@@ -24,7 +24,7 @@ tipo1: "Tipo hielo"
 >| velocidad   | 44    |
 >___
 > **[[Habilidades]]:**
-> - [[Cuerpo de Hielo]]
+> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
 > - [[Manto níveo]]
 >
 > **[[Habilidad Oculta]]:**

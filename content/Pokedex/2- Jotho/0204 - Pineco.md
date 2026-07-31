@@ -27,4 +27,4 @@ tipo1: "Tipo bicho"
 > - [[Robustez]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]

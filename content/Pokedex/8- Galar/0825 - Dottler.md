@@ -25,7 +25,7 @@ tipo2: "Tipo psíquico"
 >| velocidad   | 30    |
 >___
 > **[[Habilidades]]:**
-> - [[Enjambre]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
 > - [[Ojo compuesto]]
 >
 > **[[Habilidad Oculta]]:**

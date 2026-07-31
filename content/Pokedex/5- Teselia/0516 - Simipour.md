@@ -27,4 +27,4 @@ tipo1: "Tipo agua"
 > - [[Gula]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Torrente]]
+> - [[Pokémon/Habilidades/Torrente\|Torrente]]

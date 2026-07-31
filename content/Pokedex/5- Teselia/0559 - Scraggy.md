@@ -26,7 +26,7 @@ tipo2: "Tipo lucha"
 >___
 > **[[Habilidades]]:**
 > - [[Mudar]]
-> - [[Autoestima]]
+> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Intimidación]]

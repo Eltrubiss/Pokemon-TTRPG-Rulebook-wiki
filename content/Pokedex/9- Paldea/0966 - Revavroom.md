@@ -25,7 +25,7 @@ tipo2: "Tipo veneno"
 >| velocidad   | 90    |
 >___
 > **[[Habilidades]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Filtro]]

@@ -25,7 +25,7 @@ tipo2: "Tipo volador"
 >| velocidad   | 42    |
 >___
 > **[[Habilidades]]:**
-> - [[Espesura]]
+> - [[Pokémon/Habilidades/Espesura\|Espesura]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Remoto]]

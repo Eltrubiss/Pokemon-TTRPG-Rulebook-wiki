@@ -25,7 +25,7 @@ tipo2: "Tipo lucha"
 >| velocidad   | 64    |
 >___
 > **[[Habilidades]]:**
-> - [[Espesura]]
+> - [[Pokémon/Habilidades/Espesura\|Espesura]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Antibalas]]

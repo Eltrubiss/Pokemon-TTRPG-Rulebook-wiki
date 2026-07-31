@@ -28,4 +28,4 @@ tipo2: "Tipo acero"
 > - [[Manto níveo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Quitanieves]]
+> - [[Pokémon/Habilidades/Quitanieves\|Quitanieves]]

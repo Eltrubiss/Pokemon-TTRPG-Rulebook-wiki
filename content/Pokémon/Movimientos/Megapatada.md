@@ -8,7 +8,7 @@ tipo1: Normal
 
 | TIPO       | POTENCIA                 | PRECISION | CLASE      |
 | ---------- | ------------------------ | --------- | ---------- |
-| [[Normal]] | 1d12 + [[Atk]] | 75        | [[Físico]] |
+| [[Pokémon/Tipos/Normal\|Normal]] | 1d12 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 75        | [[Físico]] |
 ___
 ### Descripción
 Patada poco precisa pero con gran poder.

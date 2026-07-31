@@ -26,7 +26,7 @@ tipo2: "Tipo volador"
 >___
 > **[[Habilidades]]:**
 > - [[Vista lince]]
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Competitivo]]

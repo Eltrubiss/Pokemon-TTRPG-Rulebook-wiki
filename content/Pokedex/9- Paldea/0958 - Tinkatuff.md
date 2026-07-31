@@ -25,8 +25,8 @@ tipo2: "Tipo acero"
 >| velocidad   | 78    |
 >___
 > **[[Habilidades]]:**
-> - [[Rompemoldes]]
-> - [[Ritmo Propio]]
+> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
+> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Hurto]]

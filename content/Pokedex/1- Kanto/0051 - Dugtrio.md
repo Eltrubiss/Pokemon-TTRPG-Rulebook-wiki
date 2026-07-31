@@ -24,7 +24,7 @@ tipo1: "Tipo tierra"
 >| velocidad   | 120    |
 >___
 > **[[Habilidades]]:**
-> - [[Velo de Arena]]
+> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
 > - [[Trampa arena]]
 >
 > **[[Habilidad Oculta]]:**

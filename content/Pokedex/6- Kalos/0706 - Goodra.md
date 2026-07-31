@@ -25,7 +25,7 @@ tipo1: "Tipo dragón"
 >___
 > **[[Habilidades]]:**
 > - [[Herbívoro]]
-> - [[Hidratación]]
+> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Baba]]

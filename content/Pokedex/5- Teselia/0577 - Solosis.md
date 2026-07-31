@@ -24,7 +24,7 @@ tipo1: "Tipo psíquico"
 >| velocidad   | 20    |
 >___
 > **[[Habilidades]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]
 > - [[Muro mágico]]
 >
 > **[[Habilidad Oculta]]:**

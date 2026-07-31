@@ -8,9 +8,9 @@ El **clima del entorno** representa las condiciones meteorológicas generales de
 
 Cuando comienza un combate, el **clima del combate** es, por defecto, el mismo que el del entorno. Si está lloviendo, el combate comenzará bajo la lluvia; si la escena transcurre durante una intensa tormenta de arena, ese será también el clima inicial del enfrentamiento.
 
-Sin embargo, el clima del combate puede alterarse por los Pokémon mediante [[Movimientos]], [[habilidades]] u otros efectos. Cuando esto ocurre, el cambio no transforma el clima de toda la zona, sino que genera un fenómeno meteorológico localizado alrededor del campo de batalla. Visualmente, este efecto se percibe como una alteración claramente delimitada del entorno: un claro de sol entre las nubes, una lluvia intensa que solo cae sobre el área del combate o una tormenta de arena que envuelve exclusivamente a los participantes mientras, a escasos metros, el clima original permanece inalterado.
+Sin embargo, el clima del combate puede alterarse por los Pokémon mediante [[Pokémon/Movimientos/Movimientos\|Movimientos]], [[habilidades]] u otros efectos. Cuando esto ocurre, el cambio no transforma el clima de toda la zona, sino que genera un fenómeno meteorológico localizado alrededor del campo de batalla. Visualmente, este efecto se percibe como una alteración claramente delimitada del entorno: un claro de sol entre las nubes, una lluvia intensa que solo cae sobre el área del combate o una tormenta de arena que envuelve exclusivamente a los participantes mientras, a escasos metros, el clima original permanece inalterado.
 
-De este modo, es perfectamente posible que un combate se desarrolle bajo el clima **[[Soleado]]** mientras continúa lloviendo en el resto de la ruta, o que el clima **[[Lluvioso]]** cree un aguacero sobre el campo de batalla en mitad de un desierto sin alterar la tormenta de arena que azota el paisaje circundante.
+De este modo, es perfectamente posible que un combate se desarrolle bajo el clima **[[Reglas/Clima/Soleado\|Soleado]]** mientras continúa lloviendo en el resto de la ruta, o que el clima **[[Reglas/Clima/Lluvioso\|Lluvioso]]** cree un aguacero sobre el campo de batalla en mitad de un desierto sin alterar la tormenta de arena que azota el paisaje circundante.
 
 Salvo que una regla indique lo contrario, cualquier referencia al **clima** se entenderá como una referencia al **clima del combate**. El clima del entorno solo se tendrá en cuenta cuando una regla o efecto mencione explícitamente las condiciones ambientales de la escena.
 
@@ -25,9 +25,9 @@ Si un nuevo clima es invocado mientras otro permanece activo, el nuevo clima ree
 Algunos rasgos, objetos, habilidades o efectos especiales pueden aumentar la duración de un clima, impedir que finalice o modificar su funcionamiento. En esos casos, prevalecerá siempre la descripción del efecto específico.
 
 En las siguientes secciones se describen los distintos climas disponibles y los efectos que producen durante un combate.
-- [[Despejado]]
-- [[Soleado]]
-- [[Lluvioso]]
+- [[Reglas/Clima/Despejado\|Despejado]]
+- [[Reglas/Clima/Soleado\|Soleado]]
+- [[Reglas/Clima/Lluvioso\|Lluvioso]]
 - [[Reglas/Clima/Tormenta de Arena|Tormenta de Arena]]
-- [[Granizo]]
-- [[Nevado]]
+- [[Reglas/Clima/Granizo\|Granizo]]
+- [[Reglas/Clima/Nevado\|Nevado]]

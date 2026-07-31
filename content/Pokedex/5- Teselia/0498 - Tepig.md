@@ -24,7 +24,7 @@ tipo1: "Tipo fuego"
 >| velocidad   | 45    |
 >___
 > **[[Habilidades]]:**
-> - [[Mar Llamas]]
+> - [[Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Sebo]]

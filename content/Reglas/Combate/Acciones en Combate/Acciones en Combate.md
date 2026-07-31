@@ -5,7 +5,7 @@ tags:
 Un combate Pokémon siempre será de lo más Caótico. Cada ronda se separa en dos fases: La **Fase de Preparación** y la **Fase de Acción**
 
 ### Fase de Preparación
-Ya conocemos las [[Cartas de Movimiento]] (Véase [[Movimientos]]) que representan cada uno de los movimientos de los Pokémon, pero además de estas, existen [[Cartas de Entrenador]] llamadas: *Intervenir* y *Protegerse*.
+Ya conocemos las [[Cartas de Movimiento]] (Véase [[Pokémon/Movimientos/Movimientos\|Movimientos]]) que representan cada uno de los movimientos de los Pokémon, pero además de estas, existen [[Cartas de Entrenador]] llamadas: *Intervenir* y *Protegerse*.
 
 Con *Intervenir* carta puede ocurrir una de las siguientes acciones:
 - [[Lanzar una Pokebola]]
@@ -17,10 +17,10 @@ Durante la **Fase de Preparación** escogerás una **[[Cartas de Movimiento|Cart
 Cuando se dé la orden, todos los combatientes deberán voltear la Carta que seleccionaron al mismo tiempo y señalar su objetivo. Si el Director de Juego está controlando algún Pokémon, puede escoger no revelar sus cartas ni sus objetivos.
 
 ### Fase de Acción
-Para la Fase de Acción, los turnos ocurren según el [[Orden de Iniciativa]] de los Pokémon. Durante tu turno, con la **Carta** que hayas seleccionado, deberás actuar según lo que describe la misma. Puedes plantear cómo utilizarás la **Carta** que escogiste, permitiendo generar otros efectos a discreción del Director de Juego.
+Para la Fase de Acción, los turnos ocurren según el [[Reglas/Combate/Orden de Iniciativa\|Orden de Iniciativa]] de los Pokémon. Durante tu turno, con la **Carta** que hayas seleccionado, deberás actuar según lo que describe la misma. Puedes plantear cómo utilizarás la **Carta** que escogiste, permitiendo generar otros efectos a discreción del Director de Juego.
 
 ___
 **Notas relacionadas:**
-- [[Movimientos]]
-- [[Movimientos de Prioridad]]
-- [[Movimientos de Repetición]]
+- [[Pokémon/Movimientos/Movimientos\|Movimientos]]
+- [[Pokémon/Movimientos/Movimientos de Prioridad/Movimientos de Prioridad\|Movimientos de Prioridad]]
+- [[Pokémon/Movimientos/Movimientos de Repetición/Movimientos de Repetición\|Movimientos de Repetición]]

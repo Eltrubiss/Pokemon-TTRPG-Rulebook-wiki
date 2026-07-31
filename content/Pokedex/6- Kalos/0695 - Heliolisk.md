@@ -26,7 +26,7 @@ tipo2: "Tipo normal"
 >___
 > **[[Habilidades]]:**
 > - [[Piel seca]]
-> - [[Velo de Arena]]
+> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Poder solar]]

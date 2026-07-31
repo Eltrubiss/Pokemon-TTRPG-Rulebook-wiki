@@ -26,7 +26,7 @@ tipo2: "Tipo volador"
 >___
 > **[[Habilidades]]:**
 > - [[Corte fuerte]]
-> - [[Velo de Arena]]
+> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Inmunidad]]

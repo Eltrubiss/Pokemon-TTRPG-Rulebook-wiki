@@ -25,8 +25,8 @@ tipo2: "Tipo acero"
 >| velocidad   | 20    |
 >___
 > **[[Habilidades]]:**
-> - [[Enjambre]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
 > - [[Caparazón]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]

@@ -25,7 +25,7 @@ tipo2: "Tipo acero"
 >| velocidad   | 60    |
 >___
 > **[[Habilidades]]:**
-> - [[Torrente]]
+> - [[Pokémon/Habilidades/Torrente\|Torrente]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Tenacidad1]]

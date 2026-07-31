@@ -8,8 +8,8 @@ slug: wildbolt-storm
 
 | TIPO          | POTENCIA         | PPs | PRECISION | CLASE        |
 | ------------- | ---------------- | --- | --------- | ------------ |
-| [[Eléctrico]] | 1d10 + [[SpAtk]] | 5   | 80        | [[Especial]] |
+| [[Pokémon/Tipos/Eléctrico\|Eléctrico]] | 1d10 + [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]] | 5   | 80        | [[Especial]] |
 ___
-Electormenta impacta a todos los Pokémon enemigos. Con un valor de 01-20 [[Paralizado|Paraliza]] a los objetivos.
+Electormenta impacta a todos los Pokémon enemigos. Con un valor de 01-20 [[Pokémon/Características Pokémon/Problemas de Estado/Problemas de Estado Mayores/Paralizado\|Paraliza]] a los objetivos.
 
-Electormenta nunca fallará si el [[Clima]] es [[Lluvioso]], independientemente de la [[precisión]] del usuario o la [[evasión]] del objetivo.
+Electormenta nunca fallará si el [[Reglas/Clima/Clima\|Clima]] es [[Reglas/Clima/Lluvioso\|Lluvioso]], independientemente de la [[precisión]] del usuario o la [[evasión]] del objetivo.

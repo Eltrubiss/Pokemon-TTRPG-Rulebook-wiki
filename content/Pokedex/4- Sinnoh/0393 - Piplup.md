@@ -24,7 +24,7 @@ tipo1: "Tipo agua"
 >| velocidad   | 40    |
 >___
 > **[[Habilidades]]:**
-> - [[Torrente]]
+> - [[Pokémon/Habilidades/Torrente\|Torrente]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Tenacidad3]]

@@ -7,7 +7,7 @@ A lo largo de sus aventuras, los entrenadores se enfrentarán a peligros que no 
 Las **Tiradas de Salvación** se realizan cuando un entrenador debe resistir un peligro que actúa directamente sobre él. A diferencia de las Pruebas de Habilidad, el entrenador no intenta conseguir un objetivo, sino soportar los efectos de una amenaza externa.
 
 ### Bonificadores a las Salvaciones
-Las **Tiradas de Salvación** representan la experiencia del entrenador para reaccionar ante situaciones de peligro. Por este motivo, todas las Salvaciones reciben un bonificador igual al **doble del [[Bonificador de Experiencia]]**, el cual se suma al **Valor Objetivo** de la tirada.
+Las **Tiradas de Salvación** representan la experiencia del entrenador para reaccionar ante situaciones de peligro. Por este motivo, todas las Salvaciones reciben un bonificador igual al **doble del [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]**, el cual se suma al **Valor Objetivo** de la tirada.
 
 Además, algunos **Rasgos**, **Profesiones** u otros efectos pueden otorgar bonificadores adicionales a una o más Tiradas de Salvación específicas.
 

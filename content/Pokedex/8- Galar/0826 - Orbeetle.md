@@ -25,7 +25,7 @@ tipo2: "Tipo psíquico"
 >| velocidad   | 90    |
 >___
 > **[[Habilidades]]:**
-> - [[Enjambre]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
 > - [[Cacheo]]
 >
 > **[[Habilidad Oculta]]:**

@@ -25,7 +25,7 @@ tipo2: "Tipo volador"
 >| velocidad   | 100    |
 >___
 > **[[Habilidades]]:**
-> - [[Mar Llamas]]
+> - [[Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Poder solar]]

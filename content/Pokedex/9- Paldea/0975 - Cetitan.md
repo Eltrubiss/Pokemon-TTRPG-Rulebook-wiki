@@ -25,7 +25,7 @@ tipo1: "Tipo hielo"
 >___
 > **[[Habilidades]]:**
 > - [[Sebo]]
-> - [[Quitanieves]]
+> - [[Pokémon/Habilidades/Quitanieves\|Quitanieves]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Potencia bruta]]

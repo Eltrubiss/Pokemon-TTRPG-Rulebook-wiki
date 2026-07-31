@@ -25,7 +25,7 @@ tipo1: "Tipo normal"
 >___
 > **[[Habilidades]]:**
 > - [[Despiste]]
-> - [[Ritmo Propio]]
+> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Aclimatación]]

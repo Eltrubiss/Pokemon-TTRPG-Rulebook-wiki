@@ -9,12 +9,12 @@ slug: close-combat
 
 | TIPO      | PP | POTENCIA                 | PRECISION | CLASE      |
 | --------- | ---- |------------------------ | --------- | ---------- |
-| [[Lucha]] | 3 | 1d12 + [[Atk]] | 100       | [[Físico]] |
+| [[Pokémon/Tipos/Lucha\|Lucha]] | 3 | 1d12 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
 ___
 ### Descripción
 El Pokémon usuario arremete contra el objetivo, escogiendo abandonar sus defensas a cambio de una lluvia de golpes fulminantes.
 
- Combate Cerrado causa daño y no tiene ningún efecto secundario, pero reduce en un nivel la [[Def|Defensa Física]] y la [[SpDef|Defensa Especial]] del usuario.
+ Combate Cerrado causa daño y no tiene ningún efecto secundario, pero reduce en un nivel la [[Pokémon/Características Pokémon/Características/Def\|Defensa Física]] y la [[Pokémon/Características Pokémon/Características/SpDef\|Defensa Especial]] del usuario.
  ___
  **Notas Relacionadas:**
- - [[Cambios de Características]]
+ - [[Pokémon/Características Pokémon/Cambios de Características\|Cambios de Características]]

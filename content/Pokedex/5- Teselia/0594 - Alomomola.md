@@ -25,7 +25,7 @@ tipo1: "Tipo agua"
 >___
 > **[[Habilidades]]:**
 > - [[Alma cura]]
-> - [[Hidratación]]
+> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Regeneración]]

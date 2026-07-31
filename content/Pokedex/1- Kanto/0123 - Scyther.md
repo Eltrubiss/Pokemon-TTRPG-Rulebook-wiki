@@ -25,7 +25,7 @@ tipo2: "Tipo volador"
 >| velocidad   | 105    |
 >___
 > **[[Habilidades]]:**
-> - [[Enjambre]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
 > - [[Experto]]
 >
 > **[[Habilidad Oculta]]:**

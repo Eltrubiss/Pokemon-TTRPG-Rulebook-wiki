@@ -24,4 +24,4 @@ tipo1: "Tipo normal"
 >| velocidad   | 70    |
 >___
 > **[[Habilidades]]:**
-> - [[Predicción]]
+> - [[Pokémon/Habilidades/Predicción\|Predicción]]

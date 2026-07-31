@@ -25,7 +25,7 @@ tipo2: "Tipo volador"
 >| velocidad   | 50    |
 >___
 > **[[Habilidades]]:**
-> - [[Clorofila]]
+> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
 > - [[Defensa hoja]]
 >
 > **[[Habilidad Oculta]]:**

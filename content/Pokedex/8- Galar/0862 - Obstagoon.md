@@ -26,7 +26,7 @@ tipo2: "Tipo normal"
 >___
 > **[[Habilidades]]:**
 > - [[Audaz]]
-> - [[Agallas]]
+> - [[Pokémon/Habilidades/Agallas\|Agallas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Competitivo]]

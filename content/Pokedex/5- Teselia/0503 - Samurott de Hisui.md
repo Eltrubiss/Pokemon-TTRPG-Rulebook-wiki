@@ -25,7 +25,7 @@ tipo2: "Tipo siniestro"
 >| velocidad   | 85    |
 >___
 > **[[Habilidades]]:**
-> - [[Torrente]]
+> - [[Pokémon/Habilidades/Torrente\|Torrente]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Cortante1]]

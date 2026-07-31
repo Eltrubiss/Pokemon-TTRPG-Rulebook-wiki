@@ -25,7 +25,7 @@ tipo2: "Tipo tierra"
 >| velocidad   | 42    |
 >___
 > **[[Habilidades]]:**
-> - [[Velo de Arena]]
+> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Piel tosca]]

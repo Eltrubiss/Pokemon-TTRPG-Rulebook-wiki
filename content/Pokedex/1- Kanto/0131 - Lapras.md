@@ -29,4 +29,4 @@ tipo2: "Tipo hielo"
 > - [[Caparazón]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Hidratación]]
+> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]

@@ -28,4 +28,4 @@ tipo2: "Tipo hielo"
 > - [[Termoconversión]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Cuerpo de Hielo]]
+> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]

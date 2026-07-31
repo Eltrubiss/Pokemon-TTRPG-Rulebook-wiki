@@ -25,7 +25,7 @@ tipo2: "Tipo psíquico"
 >| velocidad   | 60    |
 >___
 > **[[Habilidades]]:**
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 > - [[Telepatía]]
 >
 > **[[Habilidad Oculta]]:**

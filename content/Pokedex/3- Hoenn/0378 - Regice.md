@@ -27,4 +27,4 @@ tipo1: "Tipo hielo"
 > - [[Cuerpo puro]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Cuerpo de Hielo]]
+> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]

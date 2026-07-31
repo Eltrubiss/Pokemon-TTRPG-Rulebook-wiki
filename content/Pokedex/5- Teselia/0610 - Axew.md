@@ -25,7 +25,7 @@ tipo1: "Tipo dragón"
 >___
 > **[[Habilidades]]:**
 > - [[Rivalidad]]
-> - [[Rompemoldes]]
+> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Nerviosismo]]

@@ -25,7 +25,7 @@ tipo1: "Tipo psíquico"
 >___
 > **[[Habilidades]]:**
 > - [[Sebo]]
-> - [[Ritmo Propio]]
+> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Gula]]

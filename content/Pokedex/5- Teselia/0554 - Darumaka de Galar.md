@@ -27,4 +27,4 @@ tipo1: "Tipo hielo"
 > - [[Entusiasmo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]

@@ -25,7 +25,7 @@ tipo2: "Tipo volador"
 >| velocidad   | 85    |
 >___
 > **[[Habilidades]]:**
-> - [[Agallas]]
+> - [[Pokémon/Habilidades/Agallas\|Agallas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Intrépido]]

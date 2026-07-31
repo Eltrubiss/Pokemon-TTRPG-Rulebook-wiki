@@ -25,7 +25,7 @@ tipo2: "Tipo planta"
 >| velocidad   | 75    |
 >___
 > **[[Habilidades]]:**
-> - [[Clorofila]]
+> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
 > - [[Herbívoro]]
 >
 > **[[Habilidad Oculta]]:**

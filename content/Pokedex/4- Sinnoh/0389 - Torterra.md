@@ -25,7 +25,7 @@ tipo2: "Tipo tierra"
 >| velocidad   | 56    |
 >___
 > **[[Habilidades]]:**
-> - [[Espesura]]
+> - [[Pokémon/Habilidades/Espesura\|Espesura]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Caparazón]]

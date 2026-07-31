@@ -28,4 +28,4 @@ tipo2: "Tipo fuego"
 > - [[Cuerpo llama]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Enjambre]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]

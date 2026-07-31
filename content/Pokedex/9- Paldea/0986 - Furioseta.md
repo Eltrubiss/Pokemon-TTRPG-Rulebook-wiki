@@ -25,4 +25,4 @@ tipo2: "Tipo siniestro"
 >| velocidad   | 55    |
 >___
 > **[[Habilidades]]:**
-> - [[Paleosíntesis]]
+> - [[Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]

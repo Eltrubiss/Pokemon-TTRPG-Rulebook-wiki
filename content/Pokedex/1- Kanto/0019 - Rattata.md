@@ -25,7 +25,7 @@ tipo1: "Tipo normal"
 >___
 > **[[Habilidades]]:**
 > - [[Fuga]]
-> - [[Agallas]]
+> - [[Pokémon/Habilidades/Agallas\|Agallas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Entusiasmo]]

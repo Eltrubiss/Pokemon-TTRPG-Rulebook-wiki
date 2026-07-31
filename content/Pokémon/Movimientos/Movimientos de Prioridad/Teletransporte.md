@@ -9,12 +9,12 @@ slug: teleport
 
 | TIPO         | PP | POTENCIA | PRECISION | CLASE      |
 | ------------ | ---- | -------- | --------- | ---------- |
-| [[Psíquico]] | 5 | --       | --        | [[Estado]] |
+| [[Pokémon/Tipos/Psíquico\|Psíquico]] | 5 | --       | --        | [[Estado]] |
 ___
 ### Descripción
 El Pokémon usuario entra en un estado de concentración absoluto, ignorando su entorno para buscar un punto para aparecer hasta que finalmente teletransporta su cuerpo al lugar que desea.
 
-Teletransporte es un movimiento de [[Movimientos de Prioridad|Prioridad Negativa]] (-6) que fuerza el cambio del Pokémon usuario por otro Pokémon del equipo, pudiéndose elegir qué Pokémon sale al combate en su lugar.
+Teletransporte es un movimiento de [[Pokémon/Movimientos/Movimientos de Prioridad/Movimientos de Prioridad\|Prioridad Negativa]] (-6) que fuerza el cambio del Pokémon usuario por otro Pokémon del equipo, pudiéndose elegir qué Pokémon sale al combate en su lugar.
 
 En el caso de que el usuario sea el único del equipo o el último miembro no debilitado el movimiento fallará. Si es usado por un Pokémon salvaje, este huirá del combate. Este movimiento permite al usuario cambiarse incluso cuando esté atrapado por movimientos como [[Infestación]] y [[Anclaje]], o habilidades como [[Sombra Trampa]].
 ___

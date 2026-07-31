@@ -25,7 +25,7 @@ tipo2: "Tipo acero"
 >| velocidad   | 65    |
 >___
 > **[[Habilidades]]:**
-> - [[Enjambre]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
 > - [[Experto]]
 >
 > **[[Habilidad Oculta]]:**

@@ -25,7 +25,7 @@ tipo2: "Tipo siniestro"
 >| velocidad   | 123    |
 >___
 > **[[Habilidades]]:**
-> - [[Espesura]]
+> - [[Pokémon/Habilidades/Espesura\|Espesura]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Mutatipo]]

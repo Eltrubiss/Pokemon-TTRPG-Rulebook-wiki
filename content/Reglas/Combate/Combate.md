@@ -9,5 +9,5 @@ Cuando inicia un combate, todos los entrenadores deben escoger uno de sus Pokém
 Todos los Pokémon salvajes que escogiesen participar en en combate, participan del mismo.
 
 ### ¿Qué debes saber del Combate?
-- [[Orden de Iniciativa]]
-- [[Acciones en Combate]]
+- [[Reglas/Combate/Orden de Iniciativa\|Orden de Iniciativa]]
+- [[Reglas/Combate/Acciones en Combate/Acciones en Combate\|Acciones en Combate]]

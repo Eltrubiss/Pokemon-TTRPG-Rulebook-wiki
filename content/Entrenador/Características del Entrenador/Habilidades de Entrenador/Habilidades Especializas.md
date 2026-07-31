@@ -4,7 +4,7 @@ tags:
 ---
 Algunas disciplinas abarcan un campo de conocimiento demasiado amplio para representarse mediante una única Habilidad. Las **Habilidades Especializadas** representan una formación, profesión o experiencia mucho más específica dentro de una Habilidad.
 
-Cuando una Habilidad Especializada resulte aplicable a una **[[Pruebas de Habilidad|Prueba de Habilidad]]**, el Entrenador obtiene un **bono de Especialización de +15** a la tirada, además de cualquier beneficio otorgado por su grado de competencia en la Habilidad principal.
+Cuando una Habilidad Especializada resulte aplicable a una **[[Entrenador/Pruebas de Habilidad\|Prueba de Habilidad]]**, el Entrenador obtiene un **bono de Especialización de +15** a la tirada, además de cualquier beneficio otorgado por su grado de competencia en la Habilidad principal.
 
 Cada Habilidad Especializada pertenece siempre a una única Habilidad y nunca puede utilizarse de forma independiente. Si una situación no está cubierta por una Especialización, la Prueba se resuelve utilizando únicamente la Habilidad principal.
 
@@ -18,11 +18,11 @@ A diferencia del resto de las Habilidades, **Oficio** no puede utilizarse por s�
 
 Algunos ejemplos incluyen:
 
-- [[Oficio]] (Cocina)
-- [[Oficio]] (Mecánica)
-- [[Oficio]] (Fotografía)
-- [[Oficio]] (Cerrajería)
-- [[Oficio]] (Apricorns)
+- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Cocina)
+- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Mecánica)
+- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Fotografía)
+- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Cerrajería)
+- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Apricorns)
 
 Cada Especialización de **Oficio** representa una profesión independiente y posee sus propias aplicaciones dentro del juego.
 
@@ -34,8 +34,8 @@ Algunos ejemplos incluyen:
 
 | Habilidad         | Especializaciones                                  |
 | ----------------- | -------------------------------------------------- |
-| [[Academicismo]]  | Historia, Mitología, Biología Pokémon, Arqueología |
-| [[Medicina]]      | Cirugía, Veterinaria Pokémon, Farmacología         |
-| [[Supervivencia]] | Montañismo, Navegación, Espeleología               |
-| [[Oficio]]        | Cocina, Mecánica, Fotografía, Cerrajería           |
+| [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]]  | Historia, Mitología, Biología Pokémon, Arqueología |
+| [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]]      | Cirugía, Veterinaria Pokémon, Farmacología         |
+| [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]] | Montañismo, Navegación, Espeleología               |
+| [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]]        | Cocina, Mecánica, Fotografía, Cerrajería           |
 La disponibilidad de cada Habilidad Especializada dependerá de las opciones ofrecidas por las distintas reglas del juego.

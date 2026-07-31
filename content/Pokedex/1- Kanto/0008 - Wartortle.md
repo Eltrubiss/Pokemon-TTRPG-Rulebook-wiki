@@ -24,7 +24,7 @@ tipo1: "Tipo agua"
 >| velocidad   | 58    |
 >___
 > **[[Habilidades]]:**
-> - [[Torrente]]
+> - [[Pokémon/Habilidades/Torrente\|Torrente]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Cura lluvia]]

@@ -24,7 +24,7 @@ tipo1: "Tipo planta"
 >| velocidad   | 85    |
 >___
 > **[[Habilidades]]:**
-> - [[Espesura]]
+> - [[Pokémon/Habilidades/Espesura\|Espesura]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Herbogénesis]]

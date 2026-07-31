@@ -27,4 +27,4 @@ tipo1: "Tipo tierra"
 > - [[Robustez]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Velo de Arena]]
+> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]

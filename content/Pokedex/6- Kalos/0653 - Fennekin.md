@@ -24,7 +24,7 @@ tipo1: "Tipo fuego"
 >| velocidad   | 60    |
 >___
 > **[[Habilidades]]:**
-> - [[Mar Llamas]]
+> - [[Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Prestidigitador]]

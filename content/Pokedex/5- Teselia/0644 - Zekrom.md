@@ -25,4 +25,4 @@ tipo2: "Tipo eléctrico"
 >| velocidad   | 90    |
 >___
 > **[[Habilidades]]:**
-> - [[Terravoltaje]]
+> - [[Pokémon/Habilidades/Terravoltaje\|Terravoltaje]]

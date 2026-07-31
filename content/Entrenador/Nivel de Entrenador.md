@@ -41,6 +41,6 @@ El **Bonificador de Experiencia** es un valor numérico que refleja la veteraní
 ### Sincronía de Nivel y Captura
 El Nivel de Entrenador actúa como un ancla para el poder de los Pokémon que le rodean:
 
-- **Nivel Mínimo de Captura:** Ningún Pokémon capturado por el entrenador puede tener un [[Nivel Pokémon]] inferior al nivel actual del propio entrenador. Si se captura un Pokémon de nivel bajo, su potencial se ajusta inmediatamente al nivel del entrenador debido a su tutela.
+- **Nivel Mínimo de Captura:** Ningún Pokémon capturado por el entrenador puede tener un [[Pokémon/Nivel Pokémon\|Nivel Pokémon]] inferior al nivel actual del propio entrenador. Si se captura un Pokémon de nivel bajo, su potencial se ajusta inmediatamente al nivel del entrenador debido a su tutela.
 - **Límite de Captura:** Un entrenador solo puede capturar Pokémon que sean, como máximo, **3 niveles superiores** al suyo. Los Pokémon que excedan este límite son demasiado salvajes o poderosos para ser contenidos por la técnica actual del entrenador.
 

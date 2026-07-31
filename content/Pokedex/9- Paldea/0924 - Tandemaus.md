@@ -28,4 +28,4 @@ tipo1: "Tipo normal"
 > - [[Fuga]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Ritmo Propio]]
+> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]

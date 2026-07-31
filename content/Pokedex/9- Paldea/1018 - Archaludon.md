@@ -25,7 +25,7 @@ tipo2: "Tipo dragón"
 >| velocidad   | 85    |
 >___
 > **[[Habilidades]]:**
-> - [[Firmeza]]
+> - [[Pokémon/Habilidades/Firmeza\|Firmeza]]
 > - [[Robustez]]
 >
 > **[[Habilidad Oculta]]:**

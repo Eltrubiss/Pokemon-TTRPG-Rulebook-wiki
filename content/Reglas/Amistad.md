@@ -2,7 +2,7 @@
 tags:
   - regla
 ---
-La **Amistad** representa el vínculo que se desarrolla entre un [[Entrenador]] y un [[Pokémon/Pokémon]] a lo largo de sus aventuras. Este vínculo debe construirse mediante experiencias compartidas, confianza y respeto mutuo.
+La **Amistad** representa el vínculo que se desarrolla entre un [[Entrenador/Entrenador\|Entrenador]] y un [[Pokémon/Pokémon]] a lo largo de sus aventuras. Este vínculo debe construirse mediante experiencias compartidas, confianza y respeto mutuo.
 
 Cada Pokémon posee un **Nivel de Amistad** independiente con cada Entrenador. Este valor refleja cómo percibe al Entrenador en un momento determinado, desde una hostilidad absoluta hasta una conexión excepcional.
 
@@ -84,7 +84,7 @@ La captura nunca aumenta la Amistad por encima de **1**.
 
 Los **Puntos de Amistad** representan el crecimiento que un Pokémon alcanza gracias al vínculo desarrollado con su Entrenador. A medida que aumenta su **Nivel de Amistad**, obtiene **Puntos de Amistad** según se indica en la tabla **Progresión del Nivel de Amistad**.
 
-Cada Punto de Amistad puede invertirse de forma permanente para mejorar una **[[Características Pokémon|Característica NVL]]** en **+10**. Una misma Característica NVL puede recibir un máximo de **2 Puntos de Amistad**.
+Cada Punto de Amistad puede invertirse de forma permanente para mejorar una **[[Pokémon/Características Pokémon/Características Pokémon\|Característica NVL]]** en **+10**. Una misma Característica NVL puede recibir un máximo de **2 Puntos de Amistad**.
 
 Una vez asignado, un Punto de Amistad **no puede redistribuirse**.
 

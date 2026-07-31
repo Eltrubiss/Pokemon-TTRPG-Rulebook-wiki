@@ -18,18 +18,18 @@ Cada Característica posee un nivel independiente que puede variar entre **−6*
 
 Cuando un efecto aumente o disminuya una Característica, su nivel se modifica en la cantidad indicada, sin poder superar los límites de **−6** y **+6**.
 
-Cada nivel de una Característica otorga un modificador igual al **[[Bonificador de Experiencia]]** del Pokémon. 
+Cada nivel de una Característica otorga un modificador igual al **[[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]** del Pokémon. 
 
-- **+1 nivel:** +1 × [[Bonificador de Experiencia]]
-- **+2 niveles:** +2 × [[Bonificador de Experiencia]]
+- **+1 nivel:** +1 × [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]
+- **+2 niveles:** +2 × [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]
 - ...
-- **+6 niveles:** +6 × [[Bonificador de Experiencia]]
+- **+6 niveles:** +6 × [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]
 
 Del mismo modo:
 
-- **-1 nivel:** −1 × [[Bonificador de Experiencia]]
+- **-1 nivel:** −1 × [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]
 - ...
-- **-6 niveles:** −6 × [[Bonificador de Experiencia]]
+- **-6 niveles:** −6 × [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]
 
 > [!NOTE]  
 > Cada Característica mantiene su propio nivel de forma independiente. Un Pokémon puede, por ejemplo, tener **+2 niveles en Ataque Físico**, **−1 nivel en Defensa Especial** y **0 niveles en Velocidad** al mismo tiempo.
@@ -37,6 +37,6 @@ Del mismo modo:
 ### Características NvL
 Si el nivel de una **Característica** ha sido modificado y, por cualquier motivo, es necesario utilizar su **Característica NVL**, este mismo nivel también deberá aplicarse sobre ella.
 
-Cada nivel de una Característica equivale a un modificador de **10 × el [[Bonificador de Experiencia]]** cuando se aplica sobre su Característica NVL.
+Cada nivel de una Característica equivale a un modificador de **10 × el [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]** cuando se aplica sobre su Característica NVL.
 
-Por ejemplo, si dos Pokémon empatan en sus **Bonificadores de [[Vel|Velocidad]]** al determinar el **[[Orden de Iniciativa]]**, el desempate puede resolverse comparando sus **Características de [[Vel|Velocidad]] NVL**, teniendo en cuenta cualquier Cambio de Característica que las esté afectando.
+Por ejemplo, si dos Pokémon empatan en sus **Bonificadores de [[Pokémon/Características Pokémon/Características/Vel\|Velocidad]]** al determinar el **[[Reglas/Combate/Orden de Iniciativa\|Orden de Iniciativa]]**, el desempate puede resolverse comparando sus **Características de [[Pokémon/Características Pokémon/Características/Vel\|Velocidad]] NVL**, teniendo en cuenta cualquier Cambio de Característica que las esté afectando.

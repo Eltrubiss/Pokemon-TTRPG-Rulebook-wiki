@@ -28,4 +28,4 @@ tipo2: "Tipo tierra"
 > - [[Hidrorrefuerzo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Velo de Arena]]
+> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]

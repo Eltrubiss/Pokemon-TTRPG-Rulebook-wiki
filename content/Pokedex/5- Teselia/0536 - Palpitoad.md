@@ -26,7 +26,7 @@ tipo2: "Tipo tierra"
 >___
 > **[[Habilidades]]:**
 > - [[Nado rápido]]
-> - [[Hidratación]]
+> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Absorbe agua]]

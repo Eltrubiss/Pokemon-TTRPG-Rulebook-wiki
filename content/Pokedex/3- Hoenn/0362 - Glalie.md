@@ -24,8 +24,8 @@ tipo1: "Tipo hielo"
 >| velocidad   | 80    |
 >___
 > **[[Habilidades]]:**
-> - [[Fuerza Mental]]
-> - [[Cuerpo de Hielo]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
+> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Veleta]]

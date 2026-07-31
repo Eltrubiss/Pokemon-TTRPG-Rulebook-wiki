@@ -27,4 +27,4 @@ tipo1: "Tipo fuego"
 > - [[Absorbe fuego]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Agallas]]
+> - [[Pokémon/Habilidades/Agallas\|Agallas]]

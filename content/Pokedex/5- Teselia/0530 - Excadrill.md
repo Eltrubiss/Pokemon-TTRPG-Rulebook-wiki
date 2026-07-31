@@ -29,4 +29,4 @@ tipo2: "Tipo acero"
 > - [[Poder arena]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Rompemoldes]]
+> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]

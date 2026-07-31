@@ -28,4 +28,4 @@ tipo2: "Tipo dragón"
 > - [[Cacheo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Cosecha]]
+> - [[Pokémon/Habilidades/Cosecha\|Cosecha]]

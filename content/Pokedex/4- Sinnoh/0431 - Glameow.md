@@ -25,7 +25,7 @@ tipo1: "Tipo normal"
 >___
 > **[[Habilidades]]:**
 > - [[Flexibilidad]]
-> - [[Ritmo Propio]]
+> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Vista lince]]

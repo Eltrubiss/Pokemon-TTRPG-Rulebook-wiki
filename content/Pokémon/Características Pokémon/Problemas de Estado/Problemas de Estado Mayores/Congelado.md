@@ -2,7 +2,7 @@
 tags:
   - EstadoAlterado
 ---
-***[[Problemas de Estado Mayores|Problema de Estado Mayor]]***
+***[[Pokémon/Características Pokémon/Problemas de Estado/Problemas de Estado Mayores/Problemas de Estado Mayores\|Problema de Estado Mayor]]***
 
 Un Pokémon Congelado ha quedado atrapado en una gruesa capa de hielo que inmoviliza total o parcialmente su cuerpo. Mientras permanezca en este estado, será incapaz de ejecutar Movimientos por sí mismo, aunque el calor o el paso del tiempo pueden romper el hielo y devolverle la movilidad.
 
@@ -15,5 +15,5 @@ Un Pokémon Congelado ha quedado atrapado en una gruesa capa de hielo que inmovi
 	- Al comienzo de su segundo turno Congelado, existe un **25%** de probabilidad de que se descongele.
 	- El tercer turno, al comienzo de su turno, el Pokémon se descongela automáticamente.
 	
-- Si recibe daño de un **Movimiento de tipo [[Fuego]]**, se descongela inmediatamente antes de resolver el resto de los efectos del ataque.
+- Si recibe daño de un **Movimiento de tipo [[Pokémon/Tipos/Fuego\|Fuego]]**, se descongela inmediatamente antes de resolver el resto de los efectos del ataque.
 - El Pokémon permanece Congelado hasta descongelarse o ser curado por otro efecto.

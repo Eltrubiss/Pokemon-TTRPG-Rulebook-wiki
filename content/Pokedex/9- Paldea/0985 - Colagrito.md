@@ -25,4 +25,4 @@ tipo2: "Tipo psíquico"
 >| velocidad   | 111    |
 >___
 > **[[Habilidades]]:**
-> - [[Paleosíntesis]]
+> - [[Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]

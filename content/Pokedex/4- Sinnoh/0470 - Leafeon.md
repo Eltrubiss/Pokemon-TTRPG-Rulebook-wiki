@@ -27,4 +27,4 @@ tipo1: "Tipo planta"
 > - [[Defensa hoja]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Clorofila]]
+> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]

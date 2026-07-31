@@ -28,4 +28,4 @@ tipo1: "Tipo psíquico"
 > - [[Allanamiento]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Ritmo Propio]]
+> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]

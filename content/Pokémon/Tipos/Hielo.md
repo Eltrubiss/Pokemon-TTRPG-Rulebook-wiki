@@ -4,7 +4,7 @@ tags:
   - Hielo
 tipo: Hielo
 ---
-Destacan por su gran resistencia y adaptación al medio frío o glaciar, como son las cimas de las montañas, las cavernas y cuevas heladas, o incluso los polos. Tienen la capacidad de [[Congelado|congelar]] al enemigo en combate, mientras que ellos no pueden padecer dicho estado. Además, pueden realizar ataques devastadores, como [[frío polar]], al cual son inmunes. No reciben daño por [[Granizo]].
+Destacan por su gran resistencia y adaptación al medio frío o glaciar, como son las cimas de las montañas, las cavernas y cuevas heladas, o incluso los polos. Tienen la capacidad de [[Pokémon/Características Pokémon/Problemas de Estado/Problemas de Estado Mayores/Congelado\|congelar]] al enemigo en combate, mientras que ellos no pueden padecer dicho estado. Además, pueden realizar ataques devastadores, como [[frío polar]], al cual son inmunes. No reciben daño por [[Reglas/Clima/Granizo\|Granizo]].
 
 Muchos Pokémon de este tipo representan seres vivos que se encuentran en regiones y paisajes helados, como lo son: osos polares, focas, leones marinos y morsas.
 
@@ -13,7 +13,7 @@ ___
 
 | Super Efectivo           | Poco Efectivo                                   | Inmune                                   |
 | ------------------------ | ----------------------------------------------- | ---------------------------------------- |
-| [[Dragón]]<br>[[Planta]] | [[Acero]]<br>[[Agua]]<br>[[Fuego]]<br>[[Hielo]] | *No hay tipos inmunes al tipo [[Hielo]]* |
+| [[Pokémon/Tipos/Dragón\|Dragón]]<br>[[Pokémon/Tipos/Planta\|Planta]] | [[Pokémon/Tipos/Acero\|Acero]]<br>[[Pokémon/Tipos/Agua\|Agua]]<br>[[Pokémon/Tipos/Fuego\|Fuego]]<br>[[Pokémon/Tipos/Hielo\|Hielo]] | *No hay tipos inmunes al tipo [[Pokémon/Tipos/Hielo\|Hielo]]* |
 
 ___
 ### Pokémon de tipo Hielo
@@ -21,4 +21,4 @@ ___
 
 | Débil a:                                        | Resistente a: | Inmune a:                                      |
 | ----------------------------------------------- | ------------- | ---------------------------------------------- |
-| [[Acero]]<br>[[Fuego]]<br>[[Lucha]]<br>[[Roca]] | [[Hielo]]     | *El tipo [[Hielo]] no es inmune a otros tipos* |
+| [[Pokémon/Tipos/Acero\|Acero]]<br>[[Pokémon/Tipos/Fuego\|Fuego]]<br>[[Pokémon/Tipos/Lucha\|Lucha]]<br>[[Pokémon/Tipos/Roca\|Roca]] | [[Pokémon/Tipos/Hielo\|Hielo]]     | *El tipo [[Pokémon/Tipos/Hielo\|Hielo]] no es inmune a otros tipos* |

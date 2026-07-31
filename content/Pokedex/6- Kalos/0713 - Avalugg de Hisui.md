@@ -26,7 +26,7 @@ tipo2: "Tipo roca"
 >___
 > **[[Habilidades]]:**
 > - [[Mandíbula fuerte]]
-> - [[Cuerpo de Hielo]]
+> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Robustez]]

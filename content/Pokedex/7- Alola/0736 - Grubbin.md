@@ -24,4 +24,4 @@ tipo1: "Tipo bicho"
 >| velocidad   | 46    |
 >___
 > **[[Habilidades]]:**
-> - [[Enjambre]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]

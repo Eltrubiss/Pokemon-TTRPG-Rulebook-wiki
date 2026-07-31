@@ -9,9 +9,9 @@ slug: pin-missile
 
 | TIPO      | PP |POTENCIA                    | PRECISION | CLASE      |
 | --------- | ---- |--------------------------- | --------- | ---------- |
-| [[Bicho]] | 10 | Xd3 + [[Atk]] | 95        | [[Físico]] |
+| [[Pokémon/Tipos/Bicho\|Bicho]] | 10 | Xd3 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 95        | [[Físico]] |
 ___
 ### Descripción
 El Pokémon usuario dispara al objetivo de dos a cinco aguijones o algún equivalente de su cuerpo.
 
-Pin Misil es un [[Movimientos de Repetición|Movimiento de Repetición]], este lanza X **Dados de Ataque**, donde X es una cantidad Golpes.
+Pin Misil es un [[Pokémon/Movimientos/Movimientos de Repetición/Movimientos de Repetición\|Movimiento de Repetición]], este lanza X **Dados de Ataque**, donde X es una cantidad Golpes.

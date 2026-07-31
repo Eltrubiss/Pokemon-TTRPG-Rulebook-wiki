@@ -27,4 +27,4 @@ tipo1: "Tipo fuego"
 > - [[Gula]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Mar Llamas]]
+> - [[Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]

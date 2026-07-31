@@ -24,7 +24,7 @@ tipo1: "Tipo psíquico"
 >| velocidad   | 120    |
 >___
 > **[[Habilidades]]:**
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 > - [[Sincronía]]
 >
 > **[[Habilidad Oculta]]:**

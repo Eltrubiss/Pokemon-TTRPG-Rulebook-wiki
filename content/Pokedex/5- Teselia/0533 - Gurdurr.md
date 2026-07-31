@@ -24,7 +24,7 @@ tipo1: "Tipo lucha"
 >| velocidad   | 40    |
 >___
 > **[[Habilidades]]:**
-> - [[Agallas]]
+> - [[Pokémon/Habilidades/Agallas\|Agallas]]
 > - [[Potencia bruta]]
 >
 > **[[Habilidad Oculta]]:**

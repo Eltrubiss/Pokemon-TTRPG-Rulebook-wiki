@@ -24,7 +24,7 @@ tipo1: "Tipo agua"
 >| velocidad   | 90    |
 >___
 > **[[Habilidades]]:**
-> - [[Torrente]]
+> - [[Pokémon/Habilidades/Torrente\|Torrente]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Francotirador]]

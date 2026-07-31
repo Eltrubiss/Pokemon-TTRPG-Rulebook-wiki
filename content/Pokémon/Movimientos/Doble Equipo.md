@@ -9,10 +9,10 @@ slug: double-team
 
 | TIPO       | POTENCIA | PPs | PRECISIÓN | CLASE      |
 | ---------- | -------- | --- | --------- | ---------- |
-| [[Normal]] | --       | 7   | --        | [[Estado]] |
+| [[Pokémon/Tipos/Normal\|Normal]] | --       | 7   | --        | [[Estado]] |
 ___
 ### Descripción
 Doble Equipo aumenta en un nivel la [[evasión]] del usuario.
 ___
 **Notas Relacionadas**
-- [[Cambios de Características]]
+- [[Pokémon/Características Pokémon/Cambios de Características\|Cambios de Características]]

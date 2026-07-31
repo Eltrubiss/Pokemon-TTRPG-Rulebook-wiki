@@ -9,7 +9,7 @@ slug: sandstorm
 
 | TIPO     | POTENCIA | PPs | PRESICIÓN | CLASE      |
 | -------- | -------- | --- | --------- | ---------- |
-| [[Roca]] | --       | 5   | --        | [[Estado]] |
+| [[Pokémon/Tipos/Roca\|Roca]] | --       | 5   | --        | [[Estado]] |
 ___
 ### Descripción
 Tormenta de Arena es un [[Movimiento de cambio de tiempo atmosférico]] que provoca que el clima cambie a [[Reglas/Clima/Tormenta de Arena|Tormenta de Arena]].

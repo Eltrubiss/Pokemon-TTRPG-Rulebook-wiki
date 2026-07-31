@@ -29,4 +29,4 @@ tipo2: "Tipo lucha"
 > - [[Insonorizar]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]

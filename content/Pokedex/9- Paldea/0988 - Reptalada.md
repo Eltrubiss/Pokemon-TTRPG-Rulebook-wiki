@@ -25,4 +25,4 @@ tipo2: "Tipo lucha"
 >| velocidad   | 81    |
 >___
 > **[[Habilidades]]:**
-> - [[Paleosíntesis]]
+> - [[Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]

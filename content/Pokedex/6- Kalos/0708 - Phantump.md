@@ -29,4 +29,4 @@ tipo2: "Tipo planta"
 > - [[Cacheo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Cosecha]]
+> - [[Pokémon/Habilidades/Cosecha\|Cosecha]]

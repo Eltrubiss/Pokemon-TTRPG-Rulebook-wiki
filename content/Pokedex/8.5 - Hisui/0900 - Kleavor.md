@@ -25,7 +25,7 @@ tipo2: "Tipo roca"
 >| velocidad   | 85    |
 >___
 > **[[Habilidades]]:**
-> - [[Enjambre]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
 > - [[Potencia bruta]]
 >
 > **[[Habilidad Oculta]]:**

@@ -29,4 +29,4 @@ tipo2: "Tipo normal"
 > - [[Nerviosismo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Autoestima]]
+> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]

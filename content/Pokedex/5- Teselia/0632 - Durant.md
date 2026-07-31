@@ -25,7 +25,7 @@ tipo2: "Tipo acero"
 >| velocidad   | 109    |
 >___
 > **[[Habilidades]]:**
-> - [[Enjambre]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
 > - [[Entusiasmo]]
 >
 > **[[Habilidad Oculta]]:**

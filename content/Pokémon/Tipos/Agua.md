@@ -10,7 +10,7 @@ ___
 
 | Super Efectivo | Poco Efectivo | Inmune |
 | -------------- | ------------- | ------ |
-| [[Fuego]] <br>[[Roca]] <br>[[Tierra]] | [[Agua]] <br>[[Dragón]] <br>[[Planta]]| *No hay tipos inmunes al [[Agua]]* |
+| [[Pokémon/Tipos/Fuego\|Fuego]] <br>[[Pokémon/Tipos/Roca\|Roca]] <br>[[Pokémon/Tipos/Tierra\|Tierra]] | [[Pokémon/Tipos/Agua\|Agua]] <br>[[Pokémon/Tipos/Dragón\|Dragón]] <br>[[Pokémon/Tipos/Planta\|Planta]]| *No hay tipos inmunes al [[Pokémon/Tipos/Agua\|Agua]]* |
 
 ___
 ### Pokémon de tipo Agua
@@ -18,4 +18,4 @@ ___
 
 | Débil a: | Resistente a: | Inmune a: |
 | -------- | ------------- | --------- |
-| [[Eléctrico]] <br>[[Planta]] | [[Acero]] <br>[[Agua]] <br>[[Fuego]] <br>[[Hielo]] | *El tipo Agua no es inmune a ningún tipo* |
+| [[Pokémon/Tipos/Eléctrico\|Eléctrico]] <br>[[Pokémon/Tipos/Planta\|Planta]] | [[Pokémon/Tipos/Acero\|Acero]] <br>[[Pokémon/Tipos/Agua\|Agua]] <br>[[Pokémon/Tipos/Fuego\|Fuego]] <br>[[Pokémon/Tipos/Hielo\|Hielo]] | *El tipo Agua no es inmune a ningún tipo* |

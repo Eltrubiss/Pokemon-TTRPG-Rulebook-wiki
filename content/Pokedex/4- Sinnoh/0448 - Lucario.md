@@ -26,7 +26,7 @@ tipo2: "Tipo acero"
 >___
 > **[[Habilidades]]:**
 > - [[Impasible]]
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Justiciero]]

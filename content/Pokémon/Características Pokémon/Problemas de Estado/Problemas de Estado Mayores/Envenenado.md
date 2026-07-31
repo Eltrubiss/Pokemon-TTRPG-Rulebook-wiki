@@ -2,13 +2,13 @@
 tags:
   - EstadoAlterado
 ---
-***[[Problemas de Estado Mayores|Problema de Estado Mayor]]***
+***[[Pokémon/Características Pokémon/Problemas de Estado/Problemas de Estado Mayores/Problemas de Estado Mayores\|Problema de Estado Mayor]]***
 
 Un Pokémon Envenenado ha sido infectado por una toxina que debilita lentamente su organismo. Mientras permanezca fuera de su Poké Ball, el veneno continuará recorriendo su cuerpo, deteriorando su salud hasta que sea tratado o desaparezca por algún efecto.
 
 **Mientras permanezca Envenenado:**
 
-- Al finalizar cada turno, siempre que el Pokémon se encuentre **Activo** (Fuera de su Poké Ball), sufrirá 1d4 de daño por cada nivel de su **[[Bonificador de Experiencia]]**, tanto dentro como fuera de combate.
+- Al finalizar cada turno, siempre que el Pokémon se encuentre **Activo** (Fuera de su Poké Ball), sufrirá 1d4 de daño por cada nivel de su **[[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]**, tanto dentro como fuera de combate.
 - El Pokémon permanece Envenenado hasta ser curado.
 
 ### Envenenamiento Grave

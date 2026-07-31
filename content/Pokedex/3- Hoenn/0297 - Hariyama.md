@@ -25,7 +25,7 @@ tipo1: "Tipo lucha"
 >___
 > **[[Habilidades]]:**
 > - [[Sebo]]
-> - [[Agallas]]
+> - [[Pokémon/Habilidades/Agallas\|Agallas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Potencia bruta]]

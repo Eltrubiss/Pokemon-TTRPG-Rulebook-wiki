@@ -8,4 +8,4 @@ Encadenado permite al poseedor hacer que los movimientos que golpean al objetivo
 
 ___
 **Notas Relacionadas:**
-- [[Movimientos de Repetición]]
+- [[Pokémon/Movimientos/Movimientos de Repetición/Movimientos de Repetición\|Movimientos de Repetición]]

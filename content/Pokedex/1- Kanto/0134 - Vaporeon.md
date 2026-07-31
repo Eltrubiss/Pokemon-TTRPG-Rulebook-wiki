@@ -27,4 +27,4 @@ tipo1: "Tipo agua"
 > - [[Absorbe agua]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Hidratación]]
+> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]

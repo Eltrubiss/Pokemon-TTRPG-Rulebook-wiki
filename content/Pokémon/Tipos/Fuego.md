@@ -10,7 +10,7 @@ ___
 
 | Super Efectivo                                    | Poco Efectivo                       | Inmune                              |
 | ------------------------------------------------- | ----------------------------------- | ----------------------------------- |
-| [[Acero]]<br>[[Bicho]]<br>[[Hielo]]<br>[[Planta]] | [[Agua]]<br>[[Dragón]]<br>[[Fuego]] | *No hay tipos inmunes al [[Fuego]]* |
+| [[Pokémon/Tipos/Acero\|Acero]]<br>[[Pokémon/Tipos/Bicho\|Bicho]]<br>[[Pokémon/Tipos/Hielo\|Hielo]]<br>[[Pokémon/Tipos/Planta\|Planta]] | [[Pokémon/Tipos/Agua\|Agua]]<br>[[Pokémon/Tipos/Dragón\|Dragón]]<br>[[Pokémon/Tipos/Fuego\|Fuego]] | *No hay tipos inmunes al [[Pokémon/Tipos/Fuego\|Fuego]]* |
 
 ___
 ### Pokémon de tipo Fuego
@@ -18,4 +18,4 @@ ___
 
 | Débil a:                           | Resistente a:                                                              | Inmune a:                                      |
 | ---------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------- |
-| [[Agua]]<br>[[Roca]]<br>[[Tierra]] | [[Acero]]<br>[[Bicho]]<br>[[Fuego]]<br>[[Hada]]<br>[[Hielo]]<br>[[Planta]] | *El tipo [[Fuego]] no es inmune a ningún tipo* |
+| [[Pokémon/Tipos/Agua\|Agua]]<br>[[Pokémon/Tipos/Roca\|Roca]]<br>[[Pokémon/Tipos/Tierra\|Tierra]] | [[Pokémon/Tipos/Acero\|Acero]]<br>[[Pokémon/Tipos/Bicho\|Bicho]]<br>[[Pokémon/Tipos/Fuego\|Fuego]]<br>[[Pokémon/Tipos/Hada\|Hada]]<br>[[Pokémon/Tipos/Hielo\|Hielo]]<br>[[Pokémon/Tipos/Planta\|Planta]] | *El tipo [[Pokémon/Tipos/Fuego\|Fuego]] no es inmune a ningún tipo* |

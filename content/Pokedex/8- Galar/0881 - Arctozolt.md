@@ -29,4 +29,4 @@ tipo2: "Tipo hielo"
 > - [[Electricidad estática]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Quitanieves]]
+> - [[Pokémon/Habilidades/Quitanieves\|Quitanieves]]

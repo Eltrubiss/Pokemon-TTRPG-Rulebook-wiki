@@ -26,7 +26,7 @@ tipo2: "Tipo hielo"
 >___
 > **[[Habilidades]]:**
 > - [[Caparazón]]
-> - [[Encadenado]]
+> - [[Pokémon/Habilidades/Encadenado\|Encadenado]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]

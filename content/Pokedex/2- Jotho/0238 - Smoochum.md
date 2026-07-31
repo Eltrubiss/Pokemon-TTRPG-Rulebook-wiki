@@ -29,4 +29,4 @@ tipo2: "Tipo psíquico"
 > - [[Alerta]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Hidratación]]
+> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]

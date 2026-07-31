@@ -28,4 +28,4 @@ tipo1: "Tipo lucha"
 > - [[Puño férreo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]

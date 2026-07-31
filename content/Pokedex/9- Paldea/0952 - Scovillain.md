@@ -25,7 +25,7 @@ tipo2: "Tipo fuego"
 >| velocidad   | 75    |
 >___
 > **[[Habilidades]]:**
-> - [[Clorofila]]
+> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
 > - [[Insomnio]]
 >
 > **[[Habilidad Oculta]]:**

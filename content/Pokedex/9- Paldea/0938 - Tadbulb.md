@@ -24,7 +24,7 @@ tipo1: "Tipo eléctrico"
 >| velocidad   | 45    |
 >___
 > **[[Habilidades]]:**
-> - [[Ritmo Propio]]
+> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 > - [[Electricidad estática]]
 >
 > **[[Habilidad Oculta]]:**

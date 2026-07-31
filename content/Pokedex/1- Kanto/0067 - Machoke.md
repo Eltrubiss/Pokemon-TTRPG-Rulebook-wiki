@@ -24,7 +24,7 @@ tipo1: "Tipo lucha"
 >| velocidad   | 45    |
 >___
 > **[[Habilidades]]:**
-> - [[Agallas]]
+> - [[Pokémon/Habilidades/Agallas\|Agallas]]
 > - [[Indefenso]]
 >
 > **[[Habilidad Oculta]]:**

@@ -25,7 +25,7 @@ tipo2: "Tipo volador"
 >| velocidad   | 80    |
 >___
 > **[[Habilidades]]:**
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Multiescamas]]

@@ -27,4 +27,4 @@ tipo1: "Tipo hielo"
 > - [[Manto níveo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Cuerpo de Hielo]]
+> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]

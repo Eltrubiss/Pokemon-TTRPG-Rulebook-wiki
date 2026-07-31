@@ -25,7 +25,7 @@ tipo2: "Tipo siniestro"
 >| velocidad   | 92    |
 >___
 > **[[Habilidades]]:**
-> - [[Enjambre]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Cromolente]]

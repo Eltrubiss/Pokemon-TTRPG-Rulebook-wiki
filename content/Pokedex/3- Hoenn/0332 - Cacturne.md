@@ -25,7 +25,7 @@ tipo2: "Tipo siniestro"
 >| velocidad   | 55    |
 >___
 > **[[Habilidades]]:**
-> - [[Velo de Arena]]
+> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Absorbe agua]]

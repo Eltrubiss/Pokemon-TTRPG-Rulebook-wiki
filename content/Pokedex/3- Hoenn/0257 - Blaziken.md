@@ -25,7 +25,7 @@ tipo2: "Tipo lucha"
 >| velocidad   | 80    |
 >___
 > **[[Habilidades]]:**
-> - [[Mar Llamas]]
+> - [[Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Impulso]]

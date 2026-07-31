@@ -26,7 +26,7 @@ tipo2: "Tipo siniestro"
 >___
 > **[[Habilidades]]:**
 > - [[Puño férreo]]
-> - [[Rompemoldes]]
+> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Intrépido]]

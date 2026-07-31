@@ -25,7 +25,7 @@ tipo2: "Tipo veneno"
 >| velocidad   | 75    |
 >___
 > **[[Habilidades]]:**
-> - [[Enjambre]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Francotirador]]

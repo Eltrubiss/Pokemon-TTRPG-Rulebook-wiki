@@ -25,7 +25,7 @@ tipo2: "Tipo hielo"
 >| velocidad   | 115    |
 >___
 > **[[Habilidades]]:**
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 > - [[Vista lince]]
 >
 > **[[Habilidad Oculta]]:**

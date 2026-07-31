@@ -25,7 +25,7 @@ tipo2: "Tipo lucha"
 >| velocidad   | 105    |
 >___
 > **[[Habilidades]]:**
-> - [[Clorofila]]
+> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
 > - [[Entusiasmo]]
 >
 > **[[Habilidad Oculta]]:**

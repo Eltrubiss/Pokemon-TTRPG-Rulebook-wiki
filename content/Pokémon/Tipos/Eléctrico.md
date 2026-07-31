@@ -4,7 +4,7 @@ tags:
   - Electrico
 tipo: Electrico
 ---
-Los Pokémon de tipo Eléctrico tienen hábitats variados, desde bosques y praderas, hasta ciudades y centrales eléctricas. Los Pokémon de tipo Dragón, Planta y eléctrico son resistentes a los ataques eléctricos, y aún más los de tipo Tierra, quienes son inmunes a la electricidad. Por consiguiente, los Pokémon eléctricos deben de ser muy precavidos con los ataques de tipo tierra, el cual representa su única debilidad. Los Pokémon de tipo Eléctrico son inmunes a sufrir el problema de estado [[Paralizado]].
+Los Pokémon de tipo Eléctrico tienen hábitats variados, desde bosques y praderas, hasta ciudades y centrales eléctricas. Los Pokémon de tipo Dragón, Planta y eléctrico son resistentes a los ataques eléctricos, y aún más los de tipo Tierra, quienes son inmunes a la electricidad. Por consiguiente, los Pokémon eléctricos deben de ser muy precavidos con los ataques de tipo tierra, el cual representa su única debilidad. Los Pokémon de tipo Eléctrico son inmunes a sufrir el problema de estado [[Pokémon/Características Pokémon/Problemas de Estado/Problemas de Estado Mayores/Paralizado\|Paralizado]].
 
 Los Pokémon de tipo Eléctrico almacenan electricidad estática en sus cuerpos y luego la liberan en forma de rayos por diferentes partes: mejillas, colas, orejas o antenas. Pero, cuando un Pokémon de este tipo absorbe demasiada electricidad (ya sea por tormentas eléctricas o por aparatos que funcionen con electricidad), puede llegar a ser muy peligroso, debido a que tiene demasiada energía contenida en su interior que no puede ser liberada en poco tiempo, haciéndolos enfermar. Cuando eso pasa, hay que quitarles la electricidad en exceso a la mayor brevedad posible antes de que, en el peor de los casos, el Pokémon se sobrecargue y explote.
 ___
@@ -12,11 +12,11 @@ ___
 
 | Super Efectivo          | Poco Efectivo                             | Inmune     |
 | ----------------------- | ----------------------------------------- | ---------- |
-| [[Agua]]<br>[[Volador]] | [[Dragón]]<br>[[Eléctrico]]<br>[[Planta]] | [[Tierra]] |
+| [[Pokémon/Tipos/Agua\|Agua]]<br>[[Pokémon/Tipos/Volador\|Volador]] | [[Pokémon/Tipos/Dragón\|Dragón]]<br>[[Pokémon/Tipos/Eléctrico\|Eléctrico]]<br>[[Pokémon/Tipos/Planta\|Planta]] | [[Pokémon/Tipos/Tierra\|Tierra]] |
 ___
 ### Pokémon de tipo Electrico
 #### Debilidades y Resistencias de los Pokémon de tipo Eléctrico
 
 | Débil a:   | Resistente a:                             | Inmune a:                                          |
 | ---------- | ----------------------------------------- | -------------------------------------------------- |
-| [[Tierra]] | [[Acero]]<br>[[Eléctrico]]<br>[[Volador]] | *El tipo [[Eléctrico]] no es inmune a otros tipos* |
+| [[Pokémon/Tipos/Tierra\|Tierra]] | [[Pokémon/Tipos/Acero\|Acero]]<br>[[Pokémon/Tipos/Eléctrico\|Eléctrico]]<br>[[Pokémon/Tipos/Volador\|Volador]] | *El tipo [[Pokémon/Tipos/Eléctrico\|Eléctrico]] no es inmune a otros tipos* |

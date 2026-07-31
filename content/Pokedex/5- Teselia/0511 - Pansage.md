@@ -27,4 +27,4 @@ tipo1: "Tipo planta"
 > - [[Gula]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Espesura]]
+> - [[Pokémon/Habilidades/Espesura\|Espesura]]

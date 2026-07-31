@@ -28,4 +28,4 @@ tipo1: "Tipo eléctrico"
 > - [[Intimidación]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Agallas]]
+> - [[Pokémon/Habilidades/Agallas\|Agallas]]

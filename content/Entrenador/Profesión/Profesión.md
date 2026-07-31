@@ -6,7 +6,7 @@ Todo entrenador desarrolla su propia forma de afrontar los desafíos del mundo P
 
 Una **Profesión** representa la especialización del entrenador y define las habilidades únicas que adquiere a lo largo de su aventura. Más que un trabajo o una ocupación, una Profesión refleja la experiencia, el entrenamiento y el camino que el personaje ha decidido seguir.
 
-A medida que el **[[Nivel de Entrenador]]** aumenta, el personaje obtiene acceso a nuevos **Grados de Profesión**, permitiéndole profundizar en una especialización existente o comenzar una completamente nueva. De esta forma, cada entrenador construye una identidad propia a partir de las decisiones que toma durante su progreso.
+A medida que el **[[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]** aumenta, el personaje obtiene acceso a nuevos **Grados de Profesión**, permitiéndole profundizar en una especialización existente o comenzar una completamente nueva. De esta forma, cada entrenador construye una identidad propia a partir de las decisiones que toma durante su progreso.
 
 Todas las Profesiones se dividen en **cuatro Grados**, cada uno de los cuales representa un nuevo nivel de dominio sobre esa disciplina. Los primeros Grados proporcionan los fundamentos de la especialización, mientras que los últimos otorgan capacidades que distinguen al entrenador como un verdadero referente en ese campo.
 
@@ -14,7 +14,7 @@ Un entrenador puede dedicar toda su carrera a perfeccionar una única Profesión
 
 A continuación se presentan las Profesiones disponibles para los entrenadores.
 
-#### [[Cazador]]
+#### [[Entrenador/Profesión/Cazador\|Cazador]]
 Especialista en aproximarse a Pokémon salvajes sin ser detectado, estudiando sus comportamientos y aprovechando el terreno para obtener ventaja.
 
 #### [[Rastreador]]

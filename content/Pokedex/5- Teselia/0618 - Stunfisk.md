@@ -29,4 +29,4 @@ tipo2: "Tipo eléctrico"
 > - [[Flexibilidad]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Velo de Arena]]
+> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]

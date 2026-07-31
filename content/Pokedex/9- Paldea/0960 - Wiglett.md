@@ -28,4 +28,4 @@ tipo1: "Tipo agua"
 > - [[Cobardía]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Velo de Arena]]
+> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]

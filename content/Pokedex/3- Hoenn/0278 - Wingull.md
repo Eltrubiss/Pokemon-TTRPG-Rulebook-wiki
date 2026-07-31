@@ -26,7 +26,7 @@ tipo2: "Tipo volador"
 >___
 > **[[Habilidades]]:**
 > - [[Vista lince]]
-> - [[Hidratación]]
+> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Cura lluvia]]

@@ -25,7 +25,7 @@ tipo1: "Tipo bicho"
 >___
 > **[[Habilidades]]:**
 > - [[Corte fuerte]]
-> - [[Rompemoldes]]
+> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Autoestima]]
+> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]

@@ -24,7 +24,7 @@ tipo1: "Tipo planta"
 >| velocidad   | 30    |
 >___
 > **[[Habilidades]]:**
-> - [[Clorofila]]
+> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
 > - [[Poder solar]]
 >
 > **[[Habilidad Oculta]]:**

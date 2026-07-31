@@ -28,4 +28,4 @@ tipo1: "Tipo siniestro"
 > - [[Pies rápidos]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Autoestima]]
+> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]

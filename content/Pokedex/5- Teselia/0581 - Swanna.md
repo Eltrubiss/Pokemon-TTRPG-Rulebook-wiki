@@ -29,4 +29,4 @@ tipo2: "Tipo volador"
 > - [[Sacapecho]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Hidratación]]
+> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]

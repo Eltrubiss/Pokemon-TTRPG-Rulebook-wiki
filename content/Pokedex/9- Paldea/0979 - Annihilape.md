@@ -26,7 +26,7 @@ tipo2: "Tipo fantasma"
 >___
 > **[[Habilidades]]:**
 > - [[Espíritu vital]]
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Competitivo]]

@@ -28,4 +28,4 @@ tipo1: "Tipo normal"
 > - [[Intrépido]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]

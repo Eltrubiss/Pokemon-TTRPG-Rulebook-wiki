@@ -25,7 +25,7 @@ tipo1: "Tipo hielo"
 >___
 > **[[Habilidades]]:**
 > - [[Manto níveo]]
-> - [[Quitanieves]]
+> - [[Pokémon/Habilidades/Quitanieves\|Quitanieves]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Nado rápido]]

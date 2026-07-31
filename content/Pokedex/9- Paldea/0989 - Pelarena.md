@@ -25,4 +25,4 @@ tipo2: "Tipo tierra"
 >| velocidad   | 101    |
 >___
 > **[[Habilidades]]:**
-> - [[Paleosíntesis]]
+> - [[Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]

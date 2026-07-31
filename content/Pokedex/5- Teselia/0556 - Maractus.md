@@ -25,7 +25,7 @@ tipo1: "Tipo planta"
 >___
 > **[[Habilidades]]:**
 > - [[Absorbe agua]]
-> - [[Clorofila]]
+> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Colector]]

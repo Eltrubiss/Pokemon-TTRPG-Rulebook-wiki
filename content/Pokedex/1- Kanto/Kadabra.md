@@ -15,7 +15,7 @@ tipo1: "Tipo psíquico"
 >**Altura:** 1,3 m
 >___
 > **[[Habilidades]]:**
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 > - [[Sincronía]]
 >
 > **[[Habilidad Oculta]]:**
@@ -28,15 +28,15 @@ Utiliza una cuchara torcida para amplificar las ondas de su cerebro y aumentar e
 
 Es capaz de doblar una cuchara de plata haciendo uso de sus poderes, sin embargo, no podrá hacerlo con una de oro. Kadabra duerme suspendido en el aire haciendo uso de sus poderes psíquicos, usando su cola flexible como una almohada. En la estrella de su frente guarda poder psíquico para irse preparando para su evolución. Kadabra vive en ciudades cerca de la actividad humana.
 
-### [[Características Pokémon|Características BASE]]
+### [[Pokémon/Características Pokémon/Características Pokémon\|Características BASE]]
 |   | stats |  |
 | ----------- | ----- | -- |
-| [[PS]]          | 40    |  |
-| [[Atk]]      | 35    |  |
-| [[Def]]     | 30    |  |
-| [[SpAtk]]  | 120    |  |
-| [[SpDef]] | 70    |  |
-| [[Vel]]   | 105    |  |
+| [[Pokémon/Características Pokémon/Características/PS\|PS]]          | 40    |  |
+| [[Pokémon/Características Pokémon/Características/Atk\|Atk]]      | 35    |  |
+| [[Pokémon/Características Pokémon/Características/Def\|Def]]     | 30    |  |
+| [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]]  | 120    |  |
+| [[Pokémon/Características Pokémon/Características/SpDef\|SpDef]] | 70    |  |
+| [[Pokémon/Características Pokémon/Características/Vel\|Vel]]   | 105    |  |
 ___
 ### Evolución
 | [[Abra\|Abra]]  |     Método     | [[Kadabra\|Kadabra]] |       Método       | [[0065 - Alakazam\|Alakazam]] |
@@ -49,58 +49,58 @@ Kadabra Puede aprender los siguientes Movimientos:
 
 | Nivel | Movimiento          | Tipo         | Clase        |
 | :---: | ------------------- | ------------ | ------------ |
-| Evol. | [[Confusión]]       | [[Psíquico]] | [[Especial]] |
-|   1   | [[Confusión]]       | [[Psíquico]] | [[Especial]] |
-|   1   | [[Kinético]]        | [[Psíquico]] | [[Estado]]   |
-|   1   | [[Anulación]]       | [[Normal]]   | [[Estado]]   |
-|   1   | [[Teletransporte]]  | [[Psíquico]] | [[Estado]]   |
-|   1   | [[Psicorrayo]]      | [[Psíquico]] | [[Especial]] |
-|   2   | [[Reflejo]]         | [[Psíquico]] | [[Estado]]   |
-|   3   | [[Cambio de banda]] | [[Normal]]   | [[Estado]]   |
-|   4   | [[Psicocorte]]      | [[Psíquico]] | [[Físico]]   |
-|   5   | [[Recuperación]]    | [[Psíquico]] | [[Estado]]   |
-|   6   | [[Psicocarga]]      | [[Psíquico]] | [[Especial]] |
-|   7   | [[Fuerza Psíquica]] | [[Psíquico]] | [[Especial]] |
-|   8   | [[Imitación]]       | [[Psíquico]] | [[Estado]]   |
-|   9   | [[Premonición]]     | [[Psíquico]] | [[Especial]] |
-|  10   | [[Paz Mental]]      | [[Psíquico]] | [[Estado]]   |
+| Evol. | [[Confusión]]       | [[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Especial]] |
+|   1   | [[Confusión]]       | [[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Especial]] |
+|   1   | [[Kinético]]        | [[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Estado]]   |
+|   1   | [[Anulación]]       | [[Pokémon/Tipos/Normal\|Normal]]   | [[Estado]]   |
+|   1   | [[Pokémon/Movimientos/Movimientos de Prioridad/Teletransporte\|Teletransporte]]  | [[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Estado]]   |
+|   1   | [[Psicorrayo]]      | [[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Especial]] |
+|   2   | [[Pokémon/Movimientos/Reflejo\|Reflejo]]         | [[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Estado]]   |
+|   3   | [[Cambio de banda]] | [[Pokémon/Tipos/Normal\|Normal]]   | [[Estado]]   |
+|   4   | [[Psicocorte]]      | [[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Físico]]   |
+|   5   | [[Recuperación]]    | [[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Estado]]   |
+|   6   | [[Psicocarga]]      | [[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Especial]] |
+|   7   | [[Pokémon/Movimientos/Fuerza Psíquica\|Fuerza Psíquica]] | [[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Especial]] |
+|   8   | [[Imitación]]       | [[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Estado]]   |
+|   9   | [[Premonición]]     | [[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Especial]] |
+|  10   | [[Pokémon/Movimientos/Paz Mental\|Paz Mental]]      | [[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Estado]]   |
 ##### Aprendido por [[Maquinas Técnicas (MT)]]
 
 |  MT  | Movimiento          | Tipo          | Clase |
 | :--: | ------------------- | ------------- | ----- |
-| MT01 | [[Puño certero]]    | [[Lucha]]     |       |
-| MT04 | [[Paz Mental]]      | [[Psíquico]]  |       |
-| MT11 | [[Día Soleado]]     | [[Fuego]]     |       |
-| MT12 | [[Mofa]]            | [[Siniestro]] |       |
-| MT16 | [[Pantalla de Luz]] | [[Psíquico]]  |       |
-| MT17 | [[Protección]]      | [[Normal]]    |       |
-| MT18 | [[Danza Lluvia]]    | [[Agua]]      |       |
-| MT20 | [[Velo Sagrado]]    | [[Normal]]    |       |
-| MT21 | [[Brillo Mágico]]   | [[Hada]]      |       |
-| MT23 | [[Cola Férrea]]     | [[Acero]]     |       |
-| MT29 | [[Fuerza Psíquica]] | [[Psíquico]]  |       |
-| MT30 | [[Bola Sombra]]     | [[Fantasma]]  |       |
-| MT32 | [[Doble Equipo]]    | [[Normal]]    |       |
-| MT33 | [[Reflejo]]         | [[Psíquico]]  |       |
-| MT34 | [[Onda de Choque]]  | [[Eléctrico]] |       |
-| MT41 | [[Tormento]]        | [[Siniestro]] |       |
-| MT42 | [[Imagen]]          | [[Normal]]    |       |
-| MT44 | [[Descanso]]        | [[Psíquico]]  |       |
-| MT45 | [[Atracción]]       | [[Normal]]    |       |
-| MT46 | [[Ladrón]]          | [[Siniestro]] |       |
-| MT48 | [[Intercambio]]     | [[Psíquico]]  |       |
-| MT53 | [[Energibola]]      | [[Planta]]    |       |
-| MT56 | [[Lanzamiento]]     | [[Siniestro]] |       |
-| MT57 | [[Rayo carga]]      | [[Eléctrico]] |       |
-| MT58 | [[Aguante]]         | [[Normal]]    |       |
-| MT60 | [[Puño drenaje]]    | [[Lucha]]     |       |
-| MT67 | [[Reciclaje]]       | [[Normal]]    |       |
-| MT70 | [[Destello]]        | [[Normal]]    |       |
-| MT73 | [[Onda trueno]]     | [[Eléctrico]] |       |
-| MT77 | [[Más psique]]      | [[Normal]]    |       |
-| MT82 | [[Sonámbulo]]       | [[Normal]]    |       |
-| MT85 | [[Comesueños]]      | [[Psíquico]]  |       |
-| MT86 | [[Hierba lazo]]     | [[Planta]]    |       |
-| MT87 | [[Contoneo]]        | [[Normal]]    |       |
-| MT90 | [[Sustituto]]       | [[Normal]]    |       |
-| MT92 | [[Espacio raro]]    | [[Psíquico]]  |       |
+| MT01 | [[Puño certero]]    | [[Pokémon/Tipos/Lucha\|Lucha]]     |       |
+| MT04 | [[Pokémon/Movimientos/Paz Mental\|Paz Mental]]      | [[Pokémon/Tipos/Psíquico\|Psíquico]]  |       |
+| MT11 | [[Pokémon/Movimientos/Movimientos de Cambio de Tiempo Atmosférico/Día Soleado\|Día Soleado]]     | [[Pokémon/Tipos/Fuego\|Fuego]]     |       |
+| MT12 | [[Mofa]]            | [[Pokémon/Tipos/Siniestro\|Siniestro]] |       |
+| MT16 | [[Pokémon/Movimientos/Pantalla de Luz\|Pantalla de Luz]] | [[Pokémon/Tipos/Psíquico\|Psíquico]]  |       |
+| MT17 | [[Pokémon/Movimientos/Movimientos de Prioridad/Protección\|Protección]]      | [[Pokémon/Tipos/Normal\|Normal]]    |       |
+| MT18 | [[Pokémon/Movimientos/Danza Lluvia\|Danza Lluvia]]    | [[Pokémon/Tipos/Agua\|Agua]]      |       |
+| MT20 | [[Pokémon/Movimientos/Velo Sagrado\|Velo Sagrado]]    | [[Pokémon/Tipos/Normal\|Normal]]    |       |
+| MT21 | [[Pokémon/Movimientos/Brillo Mágico\|Brillo Mágico]]   | [[Pokémon/Tipos/Hada\|Hada]]      |       |
+| MT23 | [[Pokémon/Movimientos/Cola Férrea\|Cola Férrea]]     | [[Pokémon/Tipos/Acero\|Acero]]     |       |
+| MT29 | [[Pokémon/Movimientos/Fuerza Psíquica\|Fuerza Psíquica]] | [[Pokémon/Tipos/Psíquico\|Psíquico]]  |       |
+| MT30 | [[Pokémon/Movimientos/Bola Sombra\|Bola Sombra]]     | [[Pokémon/Tipos/Fantasma\|Fantasma]]  |       |
+| MT32 | [[Pokémon/Movimientos/Doble Equipo\|Doble Equipo]]    | [[Pokémon/Tipos/Normal\|Normal]]    |       |
+| MT33 | [[Pokémon/Movimientos/Reflejo\|Reflejo]]         | [[Pokémon/Tipos/Psíquico\|Psíquico]]  |       |
+| MT34 | [[Pokémon/Movimientos/Onda de Choque\|Onda de Choque]]  | [[Pokémon/Tipos/Eléctrico\|Eléctrico]] |       |
+| MT41 | [[Pokémon/Movimientos/Tormento\|Tormento]]        | [[Pokémon/Tipos/Siniestro\|Siniestro]] |       |
+| MT42 | [[Imagen]]          | [[Pokémon/Tipos/Normal\|Normal]]    |       |
+| MT44 | [[Pokémon/Movimientos/Descanso\|Descanso]]        | [[Pokémon/Tipos/Psíquico\|Psíquico]]  |       |
+| MT45 | [[Pokémon/Movimientos/Atracción\|Atracción]]       | [[Pokémon/Tipos/Normal\|Normal]]    |       |
+| MT46 | [[Pokémon/Movimientos/Ladrón\|Ladrón]]          | [[Pokémon/Tipos/Siniestro\|Siniestro]] |       |
+| MT48 | [[Pokémon/Movimientos/Intercambio\|Intercambio]]     | [[Pokémon/Tipos/Psíquico\|Psíquico]]  |       |
+| MT53 | [[Energibola]]      | [[Pokémon/Tipos/Planta\|Planta]]    |       |
+| MT56 | [[Lanzamiento]]     | [[Pokémon/Tipos/Siniestro\|Siniestro]] |       |
+| MT57 | [[Rayo carga]]      | [[Pokémon/Tipos/Eléctrico\|Eléctrico]] |       |
+| MT58 | [[Pokémon/Movimientos/Movimientos de Prioridad/Aguante\|Aguante]]         | [[Pokémon/Tipos/Normal\|Normal]]    |       |
+| MT60 | [[Puño drenaje]]    | [[Pokémon/Tipos/Lucha\|Lucha]]     |       |
+| MT67 | [[Reciclaje]]       | [[Pokémon/Tipos/Normal\|Normal]]    |       |
+| MT70 | [[Destello]]        | [[Pokémon/Tipos/Normal\|Normal]]    |       |
+| MT73 | [[Onda trueno]]     | [[Pokémon/Tipos/Eléctrico\|Eléctrico]] |       |
+| MT77 | [[Más psique]]      | [[Pokémon/Tipos/Normal\|Normal]]    |       |
+| MT82 | [[Sonámbulo]]       | [[Pokémon/Tipos/Normal\|Normal]]    |       |
+| MT85 | [[Comesueños]]      | [[Pokémon/Tipos/Psíquico\|Psíquico]]  |       |
+| MT86 | [[Hierba lazo]]     | [[Pokémon/Tipos/Planta\|Planta]]    |       |
+| MT87 | [[Contoneo]]        | [[Pokémon/Tipos/Normal\|Normal]]    |       |
+| MT90 | [[Sustituto]]       | [[Pokémon/Tipos/Normal\|Normal]]    |       |
+| MT92 | [[Espacio raro]]    | [[Pokémon/Tipos/Psíquico\|Psíquico]]  |       |

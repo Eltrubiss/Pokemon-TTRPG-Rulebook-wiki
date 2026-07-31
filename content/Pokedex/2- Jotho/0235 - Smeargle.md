@@ -24,7 +24,7 @@ tipo1: "Tipo normal"
 >| velocidad   | 75    |
 >___
 > **[[Habilidades]]:**
-> - [[Ritmo Propio]]
+> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 > - [[Experto]]
 >
 > **[[Habilidad Oculta]]:**

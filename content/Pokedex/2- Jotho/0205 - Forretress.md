@@ -28,4 +28,4 @@ tipo2: "Tipo acero"
 > - [[Robustez]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]

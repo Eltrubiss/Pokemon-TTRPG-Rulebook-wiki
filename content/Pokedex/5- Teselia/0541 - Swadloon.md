@@ -26,7 +26,7 @@ tipo2: "Tipo planta"
 >___
 > **[[Habilidades]]:**
 > - [[Defensa hoja]]
-> - [[Clorofila]]
+> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]

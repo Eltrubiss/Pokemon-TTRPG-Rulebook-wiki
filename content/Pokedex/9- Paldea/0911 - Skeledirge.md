@@ -25,7 +25,7 @@ tipo2: "Tipo fantasma"
 >| velocidad   | 66    |
 >___
 > **[[Habilidades]]:**
-> - [[Mar Llamas]]
+> - [[Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Ignorante]]

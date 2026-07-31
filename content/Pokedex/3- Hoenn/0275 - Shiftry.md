@@ -25,7 +25,7 @@ tipo2: "Tipo siniestro"
 >| velocidad   | 80    |
 >___
 > **[[Habilidades]]:**
-> - [[Clorofila]]
+> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
 > - [[Surcavientos]]
 >
 > **[[Habilidad Oculta]]:**

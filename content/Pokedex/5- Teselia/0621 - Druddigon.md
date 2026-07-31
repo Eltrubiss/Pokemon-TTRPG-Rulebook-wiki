@@ -28,4 +28,4 @@ tipo1: "Tipo dragón"
 > - [[Potencia bruta]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Rompemoldes]]
+> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]

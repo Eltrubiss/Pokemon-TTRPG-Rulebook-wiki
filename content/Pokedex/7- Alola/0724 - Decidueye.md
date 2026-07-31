@@ -25,7 +25,7 @@ tipo2: "Tipo fantasma"
 >| velocidad   | 70    |
 >___
 > **[[Habilidades]]:**
-> - [[Espesura]]
+> - [[Pokémon/Habilidades/Espesura\|Espesura]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Remoto]]

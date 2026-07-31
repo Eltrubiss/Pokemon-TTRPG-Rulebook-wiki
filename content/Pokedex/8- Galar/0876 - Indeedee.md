@@ -25,7 +25,7 @@ tipo2: "Tipo normal"
 >| velocidad   | 95    |
 >___
 > **[[Habilidades]]:**
-> - [[Fuerza Mental]]
+> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Psicogénesis]]

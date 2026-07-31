@@ -27,4 +27,4 @@ tipo1: "Tipo agua"
 > - [[Audaz]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Rompemoldes]]
+> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]

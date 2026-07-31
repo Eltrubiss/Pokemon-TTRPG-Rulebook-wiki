@@ -25,7 +25,7 @@ tipo2: "Tipo psíquico"
 >| velocidad   | 70    |
 >___
 > **[[Habilidades]]:**
-> - [[Rompemoldes]]
+> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Cortante]]

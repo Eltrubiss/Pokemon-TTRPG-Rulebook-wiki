@@ -28,4 +28,4 @@ tipo2: "Tipo normal"
 > - [[Disemillar]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Cosecha]]
+> - [[Pokémon/Habilidades/Cosecha\|Cosecha]]

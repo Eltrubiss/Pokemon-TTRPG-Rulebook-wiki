@@ -24,4 +24,4 @@ tipo1: "Tipo agua"
 >| velocidad   | 80    |
 >___
 > **[[Habilidades]]:**
-> - [[Hidratación]]
+> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]

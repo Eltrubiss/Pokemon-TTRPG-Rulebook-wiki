@@ -14,8 +14,8 @@ A diferencia de los videojuegos tradicionales, este TTRPG utiliza una escala de 
 - **Nivel 11-19:** Pokémon veteranos, altamente poderosos y experimentados.
 - **Nivel 20:** La cúspide del potencial. Criaturas capaces de desafiar a seres milenarios y leyendas.
 
-#### El [[Bonificador de Experiencia]]
-Al igual que ocurre con el [[Nivel de Entrenador]], el nivel de un Pokémon determina su **Bonificador de Experiencia**. Este valor numérico crece de forma constante y se suma a diversas estadísticas y tiradas del Pokémon, reflejando su veteranía y maestría en sus propios movimientos y habilidades.
+#### El [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]
+Al igual que ocurre con el [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]], el nivel de un Pokémon determina su **Bonificador de Experiencia**. Este valor numérico crece de forma constante y se suma a diversas estadísticas y tiradas del Pokémon, reflejando su veteranía y maestría en sus propios movimientos y habilidades.
 
 | Nivel Pokémon | Bonif. Experiencia |
 | :------------ | :----------------- |

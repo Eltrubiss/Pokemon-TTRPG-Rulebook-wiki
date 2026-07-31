@@ -28,4 +28,4 @@ tipo2: "Tipo planta"
 > - [[Anticipación]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]

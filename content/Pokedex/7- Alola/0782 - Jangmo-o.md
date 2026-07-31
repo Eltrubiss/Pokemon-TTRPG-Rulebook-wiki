@@ -28,4 +28,4 @@ tipo1: "Tipo dragón"
 > - [[Insonorizar]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]

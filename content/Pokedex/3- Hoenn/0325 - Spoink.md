@@ -24,7 +24,7 @@ tipo1: "Tipo psíquico"
 >| velocidad   | 60    |
 >___
 > **[[Habilidades]]:**
-> - [[Ritmo Propio]]
+> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 > - [[Sebo]]
 >
 > **[[Habilidad Oculta]]:**

@@ -26,7 +26,7 @@ tipo2: "Tipo siniestro"
 >___
 > **[[Habilidades]]:**
 > - [[Intimidación]]
-> - [[Autoestima]]
+> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Irascible]]

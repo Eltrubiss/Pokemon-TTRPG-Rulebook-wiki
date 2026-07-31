@@ -29,4 +29,4 @@ tipo2: "Tipo eléctrico"
 > - [[Nerviosismo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Enjambre]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]

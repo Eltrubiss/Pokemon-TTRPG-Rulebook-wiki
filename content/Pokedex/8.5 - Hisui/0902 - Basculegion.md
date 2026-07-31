@@ -29,4 +29,4 @@ tipo2: "Tipo fantasma"
 > - [[1]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Rompemoldes]]
+> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]

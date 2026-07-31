@@ -26,7 +26,7 @@ tipo2: "Tipo hielo"
 >___
 > **[[Habilidades]]:**
 > - [[Absorbe agua]]
-> - [[Cuerpo de Hielo]]
+> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Quitanieves]]
+> - [[Pokémon/Habilidades/Quitanieves\|Quitanieves]]

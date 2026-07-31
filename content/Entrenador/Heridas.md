@@ -13,7 +13,7 @@ Las Heridas no desaparecen por sí solas durante la aventura. Recuperarse de una
 ### Sufrir una Herida
 Siempre que un entrenador sea afectado por un efecto capaz de causarle daño, deberá realizar una **Tirada de Salvación** utilizando la Característica indicada por el efecto o por el Director de Juego.
 
-#### Realizar la [[Tiradas de Salvación|Tirada de Salvación]]
+#### Realizar la [[Entrenador/Características del Entrenador/Tiradas de Salvación\|Tirada de Salvación]]
 El entrenador realiza una Tirada de Salvación con la Característica correspondiente.
 
 - Si la Tirada de Salvación **tiene éxito**, el entrenador evita la Herida, pero queda **Desequilibrado** hasta el inicio de su siguiente turno.

@@ -29,4 +29,4 @@ tipo2: "Tipo planta"
 > - [[Cura lluvia]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Ritmo Propio]]
+> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]

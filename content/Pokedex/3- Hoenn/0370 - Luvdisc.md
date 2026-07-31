@@ -27,4 +27,4 @@ tipo1: "Tipo agua"
 > - [[Nado rápido]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Hidratación]]
+> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]

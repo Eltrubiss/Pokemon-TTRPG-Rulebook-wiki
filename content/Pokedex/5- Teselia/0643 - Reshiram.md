@@ -25,4 +25,4 @@ tipo2: "Tipo fuego"
 >| velocidad   | 90    |
 >___
 > **[[Habilidades]]:**
-> - [[Turbollama]]
+> - [[Pokémon/Habilidades/Turbollama\|Turbollama]]

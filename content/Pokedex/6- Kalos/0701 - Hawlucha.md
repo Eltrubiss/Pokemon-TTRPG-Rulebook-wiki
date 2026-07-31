@@ -29,4 +29,4 @@ tipo2: "Tipo volador"
 > - [[Liviano]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Rompemoldes]]
+> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]

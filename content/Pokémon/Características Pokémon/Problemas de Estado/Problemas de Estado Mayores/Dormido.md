@@ -2,7 +2,7 @@
 tags:
   - EstadoAlterado
 ---
-***[[Problemas de Estado Mayores|Problema de Estado Mayor]]***
+***[[Pokémon/Características Pokémon/Problemas de Estado/Problemas de Estado Mayores/Problemas de Estado Mayores\|Problema de Estado Mayor]]***
 
 Un Pokémon Dormido ha caído en un sueño profundo, perdiendo temporalmente la capacidad de reaccionar al entorno. Mientras permanezca en este estado será incapaz de ejecutar acciones por sí mismo, aunque ciertos Movimientos o Habilidades pueden permitirle actuar o despertarlo antes de tiempo.
 

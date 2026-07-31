@@ -12,11 +12,11 @@ ___
 
 | Super Efectivo                                                      | Poco Efectivo         | Inmune       |
 | ------------------------------------------------------------------- | --------------------- | ------------ |
-| [[Lucha]]<br>[[Veneno]]| [[Acero]]<br>[[Psíquico]] | [[Siniestro]] |
+| [[Pokémon/Tipos/Lucha\|Lucha]]<br>[[Pokémon/Tipos/Veneno\|Veneno]]| [[Pokémon/Tipos/Acero\|Acero]]<br>[[Pokémon/Tipos/Psíquico\|Psíquico]] | [[Pokémon/Tipos/Siniestro\|Siniestro]] |
 ___
 ### Pokémon de tipo Psíquico
 #### Debilidades y Resistencias de los Pokémon de tipo Psíquico
 
 | Débil a:                                   | Resistente a:             | Inmune a:                                         |
 | ------------------------------------------ | ------------------------- | ------------------------------------------------- |
-| [[Bicho]]<br>[[Fantasma]]<br>[[Siniestro]] | [[Lucha]]<br>[[Psíquico]] | *El tipo [[Psíquico]] no es inmune a otros tipos* |
+| [[Pokémon/Tipos/Bicho\|Bicho]]<br>[[Pokémon/Tipos/Fantasma\|Fantasma]]<br>[[Pokémon/Tipos/Siniestro\|Siniestro]] | [[Pokémon/Tipos/Lucha\|Lucha]]<br>[[Pokémon/Tipos/Psíquico\|Psíquico]] | *El tipo [[Pokémon/Tipos/Psíquico\|Psíquico]] no es inmune a otros tipos* |

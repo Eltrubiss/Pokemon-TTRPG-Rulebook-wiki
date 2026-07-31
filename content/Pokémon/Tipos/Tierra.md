@@ -9,14 +9,14 @@ ___
 ### Efectividad de los movimientos de tipo Tierra
 | Super Efectivo                                                    | Poco Efectivo           | Inmune      |
 | ----------------------------------------------------------------- | ----------------------- | ----------- |
-| [[Acero]]<br>[[Eléctrico]]<br>[[Fuego]]<br>[[Roca]]<br>[[Veneno]] | [[Bicho]]<br>[[Planta]] | [[Volador]] |
+| [[Pokémon/Tipos/Acero\|Acero]]<br>[[Pokémon/Tipos/Eléctrico\|Eléctrico]]<br>[[Pokémon/Tipos/Fuego\|Fuego]]<br>[[Pokémon/Tipos/Roca\|Roca]]<br>[[Pokémon/Tipos/Veneno\|Veneno]] | [[Pokémon/Tipos/Bicho\|Bicho]]<br>[[Pokémon/Tipos/Planta\|Planta]] | [[Pokémon/Tipos/Volador\|Volador]] |
 ___
 ### Pokémon de tipo Tierra
 #### Debilidades y Resistencias de los Pokémon de tipo Tierra
-- ***Débil a:*** [[Agua]], [[Hielo]], [[Planta]]
-- ***Resistente a:*** [[Roca]], [[Veneno]]
-- ***Inmune a:*** [[Eléctrico]]
+- ***Débil a:*** [[Pokémon/Tipos/Agua\|Agua]], [[Pokémon/Tipos/Hielo\|Hielo]], [[Pokémon/Tipos/Planta\|Planta]]
+- ***Resistente a:*** [[Pokémon/Tipos/Roca\|Roca]], [[Pokémon/Tipos/Veneno\|Veneno]]
+- ***Inmune a:*** [[Pokémon/Tipos/Eléctrico\|Eléctrico]]
 
 | Débil a:                            | Resistente a:          | Inmune a:     |
 | ----------------------------------- | ---------------------- | ------------- |
-| [[Agua]]<br>[[Hielo]]<br>[[Planta]] | [[Roca]]<br>[[Veneno]] | [[Eléctrico]] |
+| [[Pokémon/Tipos/Agua\|Agua]]<br>[[Pokémon/Tipos/Hielo\|Hielo]]<br>[[Pokémon/Tipos/Planta\|Planta]] | [[Pokémon/Tipos/Roca\|Roca]]<br>[[Pokémon/Tipos/Veneno\|Veneno]] | [[Pokémon/Tipos/Eléctrico\|Eléctrico]] |

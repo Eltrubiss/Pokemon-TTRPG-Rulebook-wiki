@@ -25,8 +25,8 @@ tipo2: "Tipo planta"
 >| velocidad   | 42    |
 >___
 > **[[Habilidades]]:**
-> - [[Enjambre]]
-> - [[Clorofila]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
+> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]

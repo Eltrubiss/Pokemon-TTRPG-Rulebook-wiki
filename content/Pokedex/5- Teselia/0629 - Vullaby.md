@@ -26,7 +26,7 @@ tipo2: "Tipo volador"
 >___
 > **[[Habilidades]]:**
 > - [[Sacapecho]]
-> - [[Funda]]
+> - [[Pokémon/Habilidades/Funda\|Funda]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Armadura frágil]]

@@ -28,4 +28,4 @@ tipo1: "Tipo tierra"
 > - [[Poder arena]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Rompemoldes]]
+> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]

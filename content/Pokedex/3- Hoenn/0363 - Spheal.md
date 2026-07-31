@@ -26,7 +26,7 @@ tipo2: "Tipo agua"
 >___
 > **[[Habilidades]]:**
 > - [[Sebo]]
-> - [[Cuerpo de Hielo]]
+> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Despiste]]

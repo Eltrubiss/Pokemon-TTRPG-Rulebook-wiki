@@ -29,4 +29,4 @@ tipo2: "Tipo tierra"
 > - [[Anticipación]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Hidratación]]
+> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]

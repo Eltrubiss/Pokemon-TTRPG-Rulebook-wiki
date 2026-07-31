@@ -25,4 +25,4 @@ tipo2: "Tipo hada"
 >| velocidad   | 135    |
 >___
 > **[[Habilidades]]:**
-> - [[Paleosíntesis]]
+> - [[Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]

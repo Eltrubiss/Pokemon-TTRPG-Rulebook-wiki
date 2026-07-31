@@ -25,7 +25,7 @@ tipo2: "Tipo volador"
 >| velocidad   | 85    |
 >___
 > **[[Habilidades]]:**
-> - [[Enjambre]]
+> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
 > - [[Madrugar]]
 >
 > **[[Habilidad Oculta]]:**
