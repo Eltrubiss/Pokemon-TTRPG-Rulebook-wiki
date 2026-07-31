@@ -25,7 +25,7 @@ Un Pokémon posee 6 características base, cada una de estas representa un rasgo
 ### [[Tipos]]
 Los Tipos son la naturaleza fundamental de un Pokémon. Define su composición biológica, su afinidad con las energías del mundo y cómo interactúa con otros seres. También determinan bajo qué condiciones los Pokémon son más o menos vulnerables y dónde habitan.
 
-Los Pokémon de Tipo [[Fuego]], por ejemplo, suelen habitar zonas calientes, como desiertos y Volcanes, mientras que los Pokémon de tipo [[Agua]] son bien conocidos por surcar los mares y océanos.
+Los Pokémon de Tipo [[Pokémon/Tipos/Fuego|Fuego]], por ejemplo, suelen habitar zonas calientes, como desiertos y Volcanes, mientras que los Pokémon de tipo [[Pokémon/Tipos/Agua|Agua]] son bien conocidos por surcar los mares y océanos.
 
 A su vez, los tipos hablan de cómo interactúan los Pokémon entre sí, distinguiendo qué Pokémon se alzan sobre otros en peleas por comida, territorio, etc. Por ejemplo, un Pokémon de tipo [[Planta]] será fácilmente ahuyentado por un Pokémon de tipo [[Bicho]], pues estos Pokémon usualmente basan su dieta en, precisamente, plantas.
 
