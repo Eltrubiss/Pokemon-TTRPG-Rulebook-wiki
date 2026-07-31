@@ -87,7 +87,7 @@ plugins:
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
-      markdownLinkResolution: shortest
+      markdownLinkResolution: absolute
     order: 60
   - source: "@quartz-community/description"
     enabled: true
@@ -258,7 +258,6 @@ plugins:
       includedProperties:
         - description
         - tags
-        - aliases
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
