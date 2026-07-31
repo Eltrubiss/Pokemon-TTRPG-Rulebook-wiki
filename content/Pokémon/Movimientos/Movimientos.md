@@ -38,8 +38,7 @@ Algunos Movimientos incluyen efectos, muchos de estos con una probabilidad de ac
 #### [[Tipos|Tipo]]
 Todo Movimiento pertenece a uno de los **Tipos Elementales**, los cuales representan el origen o la naturaleza de la energía que utiliza. Al igual que los Pokémon, los Movimientos poseen un Tipo que determina cómo interactúan con otros Pokémon y con el entorno.
 
-Cuando un Movimiento afecta a un Pokémon, su Tipo determina si este resulta **Vulnerable**, **Resistente** o **Inmune** según la Tabla de Tipos. Por ejemplo, un [[Pokedex/5- Teselia/0520 - Tranquill|Tranquill]] (tipo [[Pokémon/Tipos/Volador|Volador]]) es inmune a [[Pokémon/Movimientos/Terremoto|Terremoto]]
-remoto]] (tipo [[Pokémon/Tipos/Tierra|Tierra]]), ya que el Movimiento afecta el suelo y el Pokémon puede evitar sus efectos al encontrarse en el aire.
+Cuando un Movimiento afecta a un Pokémon, su Tipo determina si este resulta **Vulnerable**, **Resistente** o **Inmune** según la Tabla de Tipos. Por ejemplo, un [[Pokedex/5- Teselia/0520 - Tranquill|Tranquill]] (tipo [[Pokémon/Tipos/Volador|Volador]]) es inmune a [[Pokémon/Movimientos/Terremoto|Terremoto]] (tipo [[Pokémon/Tipos/Tierra|Tierra]]), ya que el Movimiento afecta el suelo y el Pokémon puede evitar sus efectos al encontrarse en el aire.
 
 Además, si un Pokémon utiliza un Movimiento que comparte uno de sus Tipos, obtiene el beneficio de **STAB (Bonus de Ataque de Mismo Tipo en inglés)**, añadiendo a la **Potencia** del movimiento un bonificador igual a su [[Reglas/Bonificador de Experiencia|Bonificador de Experiencia]].
 
