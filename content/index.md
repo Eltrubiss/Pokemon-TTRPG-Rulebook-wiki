@@ -12,6 +12,6 @@ Si encuentras errores o tienes sugerencias, puedes abrir una Issue en GitHub.
 ## Secciones
 
 - [[Reglas]]
-- [[Pokémon]]
+- [[Pokémon/Pokémon|Pokémon]]
 - [[Pokedex]]
 - [[Entrenador/Entrenador\|Entrenador]]
