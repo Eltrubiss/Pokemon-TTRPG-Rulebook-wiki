@@ -1,6 +1,9 @@
 ---
 tags:
   - Clíma
+aliases:
+  - Tormenta de Arena
+title: Tormenta de Arena
 ---
 ### Efectos
 - Los Pokémon en combate van perdiendo una cantidad de d4 igual a su [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]] de sus [[Pokémon/Características Pokémon/Características/PS\|PS]] al final de cada turno, excluyendo a los Pokémon de tipo [[Pokémon/Tipos/Tierra\|Tierra]], [[Pokémon/Tipos/Roca\|Roca]], [[Pokémon/Tipos/Acero\|Acero]] y a aquellos Pokémon que tengan las habilidades [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]], [[Pokémon/Habilidades/Muro Mágico\|Muro Mágico]], [[Pokémon/Habilidades/Poder Arena\|Poder Arena]], [[Pokémon/Habilidades/Ímpetu Arena\|Ímpetu Arena]] o [[Pokémon/Habilidades/Funda\|Funda]].

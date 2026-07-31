@@ -4,7 +4,7 @@ tags:
   - Acero
 tipo: Acero
 ---
-Los Pokémon de tipo Acero destacan por tener altas defensas, pero también por poseer poca velocidad. No se pueden [[Pokémon/Características Pokémon/Problemas de Estado/Problemas de Estado Mayores/Envenenado\|envenenar]] en condiciones normales y no reciben daño por [[Reglas/Clima/Tormenta de Arena|tormentas de arena]]. Son muy buenos luchadores; los ataques físicos raras veces les causan mucho daño.
+Los Pokémon de tipo Acero destacan por tener altas defensas, pero también por poseer poca velocidad. No se pueden [[Pokémon/Características Pokémon/Problemas de Estado/Problemas de Estado Mayores/Envenenado\|envenenar]] en condiciones normales y no reciben daño por [[Reglas/Clima/Tormenta de Arena (Clima)|tormentas de arena]]. Son muy buenos luchadores; los ataques físicos raras veces les causan mucho daño.
 
 Los Pokémon de este tipo se ubican principalmente en cuevas y cavernas, aunque hay algunos que se pueden encontrar en zonas urbanas como fábricas o centrales eléctricas.
 

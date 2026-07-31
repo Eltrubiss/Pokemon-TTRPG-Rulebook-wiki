@@ -19,5 +19,5 @@ Meteorobola causa daño dependiendo del tiempo atmosférico que esté en efecto 
 - Si hay clima [[Reglas/Clima/Soleado\|Soleado]] o **sol abrasador** el movimiento es de tipo [[Pokémon/Tipos/Fuego\|Fuego]].
 - Si hay clima [[Reglas/Clima/Lluvioso\|Lluvioso]] o **diluvio** el movimiento es de tipo [[Pokémon/Tipos/Agua\|Agua]].
 - Si hay clima [[Reglas/Clima/Nevado\|Nevado]] o [[Reglas/Clima/Granizo\|Granizo]] o el movimiento es de tipo [[Pokémon/Tipos/Hielo\|Hielo]].
-- Si hay [[Reglas/Clima/Tormenta de Arena|Tormenta de Arena]] el movimiento es de tipo [[Pokémon/Tipos/Roca\|Roca]].
+- Si hay [[Reglas/Clima/Tormenta de Arena (Clima)|Tormenta de Arena (Clima)]] el movimiento es de tipo [[Pokémon/Tipos/Roca\|Roca]].
 - Si hay [[niebla]] el movimiento es de tipo [[Pokémon/Tipos/Normal\|Normal]].

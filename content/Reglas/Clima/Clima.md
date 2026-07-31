@@ -28,6 +28,6 @@ En las siguientes secciones se describen los distintos climas disponibles y los 
 - [[Reglas/Clima/Despejado\|Despejado]]
 - [[Reglas/Clima/Soleado\|Soleado]]
 - [[Reglas/Clima/Lluvioso\|Lluvioso]]
-- [[Reglas/Clima/Tormenta de Arena|Tormenta de Arena]]
+- [[Reglas/Clima/Tormenta de Arena (Clima)|Tormenta de Arena (Clima)]]
 - [[Reglas/Clima/Granizo\|Granizo]]
 - [[Reglas/Clima/Nevado\|Nevado]]

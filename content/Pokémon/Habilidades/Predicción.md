@@ -9,7 +9,7 @@ Predicción cambia la forma del [[Pokedex/3- Hoenn/0351 - Castform\|Castform]] p
 - [[Pokedex/3- Hoenn/0351 - Castform\|Castform]] cambia a la forma sol, de tipo [[Pokémon/Tipos/Fuego\|Fuego]], con clima [[Reglas/Clima/Soleado\|Soleado]] o **Sol abrasador**.
 - [[Pokedex/3- Hoenn/0351 - Castform\|Castform]] cambia a la forma lluvia, de tipo [[Pokémon/Tipos/Agua\|Agua]], con clima [[Reglas/Clima/Lluvioso\|Lluvioso]] o **Diluvio**.
 - [[Pokedex/3- Hoenn/0351 - Castform\|Castform]] cambia a la forma nieve, de tipo [[Pokémon/Tipos/Hielo\|Hielo]], con clima [[Reglas/Clima/Nevado\|Nevado]] o [[Reglas/Clima/Granizo\|Granizo]].
-- [[Pokedex/3- Hoenn/0351 - Castform\|Castform]] vuelve a la forma normal, de tipo [[Pokémon/Tipos/Normal\|Normal]], con [[Reglas/Clima/Tormenta de Arena|Tormenta de Arena]], [[Niebla]], [[Turbulencias]], [[Reglas/Clima/Despejado\|Despejado]] o al entrar al combate un Pokémon con la habilidad [[Aclimatación]], [[Esclusa de Aire]] o [[Teraformación 0]].
+- [[Pokedex/3- Hoenn/0351 - Castform\|Castform]] vuelve a la forma normal, de tipo [[Pokémon/Tipos/Normal\|Normal]], con [[Reglas/Clima/Tormenta de Arena (Clima)|Tormenta de Arena (Clima)]], [[Niebla]], [[Turbulencias]], [[Reglas/Clima/Despejado\|Despejado]] o al entrar al combate un Pokémon con la habilidad [[Aclimatación]], [[Esclusa de Aire]] o [[Teraformación 0]].
 
 [[Pokedex/3- Hoenn/0351 - Castform\|Castform]] no cambia de forma con Predicción hasta después de que [[Trampa de Rocas]] inflija daño.
 
