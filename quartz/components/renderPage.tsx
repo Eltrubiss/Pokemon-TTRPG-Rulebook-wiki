@@ -7,7 +7,13 @@ import {
   JSResourceToScriptElement,
   StaticResources,
 } from "../util/resources"
-import { FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
+import {
+  FullSlug,
+  RelativeURL,
+  absolutizeInternalUrl,
+  joinSegments,
+  normalizeHastElement,
+} from "../util/path"
 import { clone } from "../util/clone"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
@@ -30,6 +36,13 @@ interface RenderComponents {
 }
 
 const headerRegex = new RegExp(/h[1-6]/)
+
+function absolutizeRenderedInternalUrls(html: string, basePath: string): string {
+  return html.replace(/\s(href|src)="([^"]*)"/g, (match, attr: string, value: string) => {
+    const resolved = absolutizeInternalUrl(value, basePath)
+    return ` ${attr}="${resolved}"`
+  })
+}
 export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
@@ -372,5 +385,5 @@ export function renderPage(
     </html>
   )
 
-  return "<!DOCTYPE html>\n" + render(doc)
+  return "<!DOCTYPE html>\n" + absolutizeRenderedInternalUrls(render(doc), basePath)
 }
