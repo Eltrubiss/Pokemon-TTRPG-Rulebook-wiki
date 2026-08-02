@@ -9,7 +9,7 @@ slug: thief
 
 | TIPO          | POTENCIA      | PRESICIÓN | CLASE      |
 | ------------- | ------------- | --------- | ---------- |
-| [[Pokémon/Tipos/Siniestro\|Siniestro]] | 1d6 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
+| [[Pokémon/Tipos Pokémon/Siniestro\|Siniestro]] | 1d6 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
 ___
 ### Descripción
 Ladrón causa daño y no tiene ningún efecto secundario. Además, si el objetivo lleva un objeto equipado Ladrón robará su objeto.

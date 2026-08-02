@@ -9,7 +9,7 @@ slug: fury-attack
 
 | TIPO       | POTENCIA | PRECISION | CLASE      |
 | ---------- | -------- | --------- | ---------- |
-| [[Pokémon/Tipos/Normal\|Normal]] | Xd2      | 85        | [[Físico]] |
+| [[Pokémon/Tipos Pokémon/Normal\|Normal]] | Xd2      | 85        | [[Físico]] |
 ___
 ### Descripción
 Se deja la estrategia de lado un momento y se ataca al objetivo con repetidos golpes temerarios.

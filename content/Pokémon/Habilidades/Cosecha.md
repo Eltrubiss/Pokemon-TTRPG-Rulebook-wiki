@@ -8,4 +8,4 @@ El Pokémon que posea Cosecha tendrá al final de cada turno una probabilidad de
 
 Esta habilidad permite recuperar bayas usadas mediante [[Don Natural]] o [[Lanzamiento]]. Sin embargo, Cosecha no permite recuperar bayas que han sido intercambiadas, robadas o entregadas al oponente. Tampoco se pueden recuperar bayas que hayan sido quitadas mediante [[Desarme]], destruidas por [[Incinerar]] o comidas por el oponente mediante [[Picoteo]] o [[Picadura]].
 
-Si un Pokémon con cosecha está fuera de la PokéBall, atraerá a Pokémon salvajes de tipo [[Pokémon/Tipos/Planta\|Planta]].
+Si un Pokémon con cosecha está fuera de la PokéBall, atraerá a Pokémon salvajes de tipo [[Pokémon/Tipos Pokémon/Planta\|Planta]].

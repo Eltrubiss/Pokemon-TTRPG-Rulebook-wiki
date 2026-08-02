@@ -9,7 +9,7 @@ slug: focus-punch
 
 | TIPO      | POTENCIA      | PRECISION | CLASE      |
 | --------- | ------------- | --------- | ---------- |
-| [[Pokémon/Tipos/Lucha\|Lucha]] | 2d8 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
+| [[Pokémon/Tipos Pokémon/Lucha\|Lucha]] | 2d8 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
 ___
 ### Descripción
 El Pokémon usuario prepara un poderoso ataque, para lanzarlo necesita una concentración absoluta. Un pequeño disturbio y todo se acabó, pero si llega a asestar ese golpe, será devastador.

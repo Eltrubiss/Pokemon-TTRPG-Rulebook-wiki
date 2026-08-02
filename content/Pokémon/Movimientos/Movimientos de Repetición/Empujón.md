@@ -9,7 +9,7 @@ slug: arm-thrust
 
 | TIPO      | PP | POTENCIA      | PRECISION | CLASE      |
 | --------- | ---- | ------------- | --------- | ---------- |
-| [[Pokémon/Tipos/Lucha\|Lucha]] | 10 | Xd2 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
+| [[Pokémon/Tipos Pokémon/Lucha\|Lucha]] | 10 | Xd2 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
 ___
 ### Descripción
 Se toma una postura firme frente al rival. El Pokémon usuario ataca con repetidos golpes contundentes al objetivo.

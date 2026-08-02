@@ -9,7 +9,7 @@ slug: solar-blade
 
 | TIPO       | POTENCIA       | PRECISIÓN | CLASE      |
 | ---------- | -------------- | --------- | ---------- |
-| [[Pokémon/Tipos/Planta\|Planta]] | 1d12 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
+| [[Pokémon/Tipos Pokémon/Planta\|Planta]] | 1d12 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
 ___
 ### Descripción
 Se recolecta la energía del sol en una garra o cuchilla para luego dar un golpe abismal al objetivo.

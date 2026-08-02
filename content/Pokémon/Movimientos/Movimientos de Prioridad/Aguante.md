@@ -9,7 +9,7 @@ slug: endure
 
 | TIPO       | PP | POTENCIA | PRECISION | CLASE      |
 | ---------- | ---- | -------- | --------- | ---------- |
-| [[Pokémon/Tipos/Normal\|Normal]] | 5 | --       | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Normal\|Normal]] | 5 | --       | --        | [[Estado]] |
 ___
 ### Descripción
 El Pokémon usuario se prepara para resistir más allá de sus límites.

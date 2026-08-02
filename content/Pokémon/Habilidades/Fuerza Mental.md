@@ -4,4 +4,4 @@ tags:
 slug: inner-focus
 ---
 ### Funcionamiento
-Fuerza Mental evita que el poseedor pueda ser [[Pokémon/Características Pokémon/Problemas de Estado/Problemas de Estado Menores/Aturdido\|Aturdido]]. Además, el poseedor de esta habilidad no puede ser afectado por la habilidad [[intimidación]].
+Fuerza Mental evita que el poseedor pueda ser [[Reglas/Problemas de Estado/Problemas de Estado Menores/Aturdido\|Aturdido]]. Además, el poseedor de esta habilidad no puede ser afectado por la habilidad [[intimidación]].

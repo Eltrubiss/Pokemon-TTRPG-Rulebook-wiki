@@ -8,7 +8,7 @@ tipo1: Tierra
 
 | TIPO       | POTENCIA                | PRESICION | CLASE      |
 | ---------- | ----------------------- | --------- | ---------- |
-| [[Pokémon/Tipos/Tierra\|Tierra]] | 1d6 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
+| [[Pokémon/Tipos Pokémon/Tierra\|Tierra]] | 1d6 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
 ___
 ### Descripción
 Genera un sismo que sacude todo a su alrededor.

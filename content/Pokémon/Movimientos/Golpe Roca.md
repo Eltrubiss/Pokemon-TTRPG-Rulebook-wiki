@@ -8,7 +8,7 @@ tipo1: Lucha
 
 | TIPO      | POTENCIA                | PRESICION | CLASE      |
 | --------- | ----------------------- | --------- | ---------- |
-| [[Pokémon/Tipos/Lucha\|Lucha]] | 1d4 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
+| [[Pokémon/Tipos Pokémon/Lucha\|Lucha]] | 1d4 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
 ___
 ### Descripción
 Un poderoso golpe con puños, patas o con la cabeza, capaz de hacer añicos una roca pequeña

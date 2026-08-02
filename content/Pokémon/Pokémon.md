@@ -22,12 +22,12 @@ Un Pokémon posee 6 características base, cada una de estas representa un rasgo
 
 - **[[Pokémon/Características Pokémon/Características/Vel\|Velocidad]]:** La Velocidad de un Pokémon se refiere a su velocidad de reacción y de acción, un Pokémon con gran velocidad será un Pokémon ágil y despierto, mientras que un Pokémon de menor velocidad será un Pokémon lento y poco reactivo. Es lo que define qué tan rápido actuará el Pokémon en combate.
 
-### [[Tipos]]
+### [[Pokémon/Tipos Pokémon/Tipos Pokémon]]
 Los Tipos son la naturaleza fundamental de un Pokémon. Define su composición biológica, su afinidad con las energías del mundo y cómo interactúa con otros seres. También determinan bajo qué condiciones los Pokémon son más o menos vulnerables y dónde habitan.
 
-Los Pokémon de Tipo [[Pokémon/Tipos/Fuego|Fuego]], por ejemplo, suelen habitar zonas calientes, como desiertos y Volcanes, mientras que los Pokémon de tipo [[Pokémon/Tipos/Agua|Agua]] son bien conocidos por surcar los mares y océanos.
+Los Pokémon de Tipo [[Pokémon/Tipos Pokémon/Fuego|Fuego]], por ejemplo, suelen habitar zonas calientes, como desiertos y Volcanes, mientras que los Pokémon de tipo [[Pokémon/Tipos Pokémon/Agua|Agua]] son bien conocidos por surcar los mares y océanos.
 
-A su vez, los tipos hablan de cómo interactúan los Pokémon entre sí, distinguiendo qué Pokémon se alzan sobre otros en peleas por comida, territorio, etc. Por ejemplo, un Pokémon de tipo [[Pokémon/Tipos/Planta\|Planta]] será fácilmente ahuyentado por un Pokémon de tipo [[Pokémon/Tipos/Bicho\|Bicho]], pues estos Pokémon usualmente basan su dieta en, precisamente, plantas.
+A su vez, los tipos hablan de cómo interactúan los Pokémon entre sí, distinguiendo qué Pokémon se alzan sobre otros en peleas por comida, territorio, etc. Por ejemplo, un Pokémon de tipo [[Pokémon/Tipos Pokémon/Planta\|Planta]] será fácilmente ahuyentado por un Pokémon de tipo [[Pokémon/Tipos Pokémon/Bicho\|Bicho]], pues estos Pokémon usualmente basan su dieta en, precisamente, plantas.
 
 ### [[Habilidades]]
 Un Pokémon siempre tendrá una Habilidad innata que habla de una característica puntual de su especie. Por ejemplo tomemos a [[Pokedex/3- Hoenn/0319 - Sharpedo\|Sharpedo]], un Pokémon tiburón que puede poseer la habilidad [[Piel tosca]], esta se atribuye a un rasgo físico del Pokémon: Su piel es dura, llena de escamas y fricciones que lastima al contacto.

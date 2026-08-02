@@ -8,7 +8,7 @@ tipo1: Water
 
 | TIPO     | POTENCIA | PPs | PRECISIÓN | CLASE      |
 | -------- | -------- | --- | --------- | ---------- |
-| [[Pokémon/Tipos/Agua\|Agua]] | --       | 2   | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Agua\|Agua]] | --       | 2   | --        | [[Estado]] |
 ___
 ### Descripción
 

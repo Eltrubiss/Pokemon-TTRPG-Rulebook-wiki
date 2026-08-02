@@ -9,7 +9,7 @@ slug: mud-slap
 
 | TIPO       | PP |POTENCIA        | PRESICION | CLASE        |
 | ---------- | ---- |------------------------- | --------- | ------------ |
-| [[Pokémon/Tipos/Tierra\|Tierra]] | 5 | 1d2 + [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]] | 100       | [[Especial]] |
+| [[Pokémon/Tipos Pokémon/Tierra\|Tierra]] | 5 | 1d2 + [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]] | 100       | [[Especial]] |
 ___
 ### Descripción
 Se toma lodo del suelo y se arroja a los ojos del rival. Una jugada sucia pero necesaria.

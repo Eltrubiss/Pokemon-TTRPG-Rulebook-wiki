@@ -7,7 +7,7 @@ tags:
 
 | TIPO        | POTENCIA         | PPs | PRECISION | CLASE        |
 | ----------- | ---------------- | --- | --------- | ------------ |
-| [[Pokémon/Tipos/Volador\|Volador]] | 1d10 + [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]] | 5   | 80        | [[Especial]] |
+| [[Pokémon/Tipos Pokémon/Volador\|Volador]] | 1d10 + [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]] | 5   | 80        | [[Especial]] |
 ___
 Vendaval Gélido impacta a todos los Pokémon enemigos. Con un valor de 01-30 reduce en un nivel la [[Pokémon/Características Pokémon/Características/Vel\|Velocidad]] del objetivo.
 

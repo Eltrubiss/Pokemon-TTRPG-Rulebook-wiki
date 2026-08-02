@@ -31,7 +31,7 @@ Mientras que los Pokémon tienen sus propias estadísticas de combate, el Entren
 #### [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades de Entrenador\|Habilidades de Entrenador]]
 Las **Habilidades** representan el entrenamiento, la experiencia y los conocimientos especializados que un Entrenador ha adquirido a lo largo de su vida. Cada Habilidad está asociada a una **Característica Base**, utilizando su puntuación como referencia para resolver las **[[Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]** relacionadas.
 
-#### [[Entrenador/Características del Entrenador/Tiradas de Salvación\|Tiradas de Salvación]]
+#### [[Entrenador/Características del Entrenador/Tiradas de Salvación del Entrenador\|Tiradas de Salvación]]
 Cuando un entrenador es afectado por un ataque, un fenómeno natural, un poder extraordinario o cualquier otro efecto que actúe directamente sobre él, deberá realizar una **Tirada de Salvación** utilizando la Característica indicada por el Director de Juego.
 
 ### [[Entrenador/Profesión/Profesión\|Profesión]]
@@ -210,7 +210,7 @@ Algunos ejemplos incluyen:
 | [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]]        | Cocina, Mecánica, Fotografía, Cerrajería           |
 La disponibilidad de cada Habilidad Especializada dependerá de las opciones ofrecidas por las distintas reglas del juego.
 ___
-## [[Entrenador/Características del Entrenador/Tiradas de Salvación\|Tiradas de Salvación]]
+## [[Entrenador/Características del Entrenador/Tiradas de Salvación del Entrenador\|Tiradas de Salvación]]
 A lo largo de sus aventuras, los entrenadores se enfrentarán a peligros que no siempre podrán evitar. Derrumbes, ataques de Pokémon, fenómenos naturales, poderes psíquicos o efectos capaces de alterar la mente pondrán constantemente a prueba su capacidad para mantenerse en pie.
 
 Las **Tiradas de Salvación** se realizan cuando un entrenador debe resistir un peligro que actúa directamente sobre él. A diferencia de las Pruebas de Habilidad, el entrenador no intenta conseguir un objetivo, sino soportar los efectos de una amenaza externa.
@@ -294,7 +294,7 @@ Las Heridas no desaparecen por sí solas durante la aventura. Recuperarse de una
 ### Sufrir una Herida
 Siempre que un entrenador sea afectado por un efecto capaz de causarle daño, deberá realizar una **Tirada de Salvación** utilizando la Característica indicada por el efecto o por el Director de Juego.
 
-#### Realizar la [[Entrenador/Características del Entrenador/Tiradas de Salvación\|Tirada de Salvación]]
+#### Realizar la [[Entrenador/Características del Entrenador/Tiradas de Salvación del Entrenador\|Tirada de Salvación]]
 El entrenador realiza una Tirada de Salvación con la Característica correspondiente.
 
 - Si la Tirada de Salvación **tiene éxito**, el entrenador evita la Herida, pero queda **Desequilibrado** hasta el inicio de su siguiente turno.

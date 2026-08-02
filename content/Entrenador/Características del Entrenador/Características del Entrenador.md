@@ -47,7 +47,7 @@ Algunas Habilidades también permiten adquirir **[[Entrenador/Características d
 
 Las Habilidades disponibles y sus reglas se describen con mayor detalle en la sección **Habilidades de Entrenador**.
 ___
-### [[Entrenador/Características del Entrenador/Tiradas de Salvación\|Tiradas de Salvación]]
+### [[Entrenador/Características del Entrenador/Tiradas de Salvación del Entrenador\|Tiradas de Salvación]]
 Además de determinar las **Habilidades** del entrenador, las Características también representan su capacidad para resistir los peligros del mundo.
 
 Cuando un entrenador es afectado por un ataque, un fenómeno natural, un poder extraordinario o cualquier otro efecto que actúe directamente sobre él, deberá realizar una **Tirada de Salvación** utilizando la Característica indicada por el Director de Juego.

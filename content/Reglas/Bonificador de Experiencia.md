@@ -1,6 +1,8 @@
 ---
 tags:
   - regla
+aliases:
+  - BE
 ---
 El **Bonificador de Experiencia** es un valor numérico que representa la veteranía, el entrenamiento acumulado y la maestría técnica de un individuo, ya sea un humano o un Pokémon. A medida que el nivel aumenta, este bonificador crece, escalando el impacto de las acciones y capacidades del personaje en el juego.
 
@@ -18,7 +20,7 @@ A medida que un Pokémon se vuelve más experto, sus ataques se vuelven más con
 
 ### 2. Daño Ambiental y de Estado
 El daño colateral y los efectos persistentes escalan proporcionalmente a la veteranía del combate:
-- El daño sufrido por **[[Estado|Estados]]** (como [[Pokémon/Características Pokémon/Problemas de Estado/Problemas de Estado Mayores/Quemado\|Quemado]] o [[Pokémon/Características Pokémon/Problemas de Estado/Problemas de Estado Mayores/Envenenado\|Envenenado]]), **Climas** (como Granizo o Tormenta de Arena) o **Daños Fijos** escala según la siguiente progresión:
+- El daño sufrido por **[[Estado|Estados]]** (como [[Reglas/Problemas de Estado/Problemas de Estado Mayores/Quemado\|Quemado]] o [[Reglas/Problemas de Estado/Problemas de Estado Mayores/Envenenado\|Envenenado]]), **Climas** (como Granizo o Tormenta de Arena) o **Daños Fijos** escala según la siguiente progresión:
   - **+1:** $1d4$
   - **+2:** $2d4$
   - **+3:** $3d4$

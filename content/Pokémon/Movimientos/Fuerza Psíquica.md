@@ -8,7 +8,7 @@ tipo1: Psiquico
 
 | TIPO         | POTENCIA         | PRECISION | CLASE        |
 | ------------ | ---------------- | --------- | ------------ |
-| [[Pokémon/Tipos/Psíquico\|Psíquico]] | 1d10 + [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]] | 100       | [[Especial]] |
+| [[Pokémon/Tipos Pokémon/Psíquico\|Psíquico]] | 1d10 + [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]] | 100       | [[Especial]] |
 ___
 ### Descripción
 Uno de los mayores exponentes de control Psíquico de los Pokémon. El Pokémon usuario azota la mente del usuario con su control psíquico.

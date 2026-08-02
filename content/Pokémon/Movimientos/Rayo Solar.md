@@ -9,7 +9,7 @@ slug: solar-beam
 
 | TIPO       | POTENCIA         | PP  | PRECISIÓN | CLASE        |
 | ---------- | ---------------- | --- | --------- | ------------ |
-| [[Pokémon/Tipos/Planta\|Planta]] | 1d12 + [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]] | 5   | 100       | [[Especial]] |
+| [[Pokémon/Tipos Pokémon/Planta\|Planta]] | 1d12 + [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]] | 5   | 100       | [[Especial]] |
 ___
 ### Descripción
 Se carga un poderoso rayo cargado con la energía del sol y se arroja con bestialidad al objetivo.

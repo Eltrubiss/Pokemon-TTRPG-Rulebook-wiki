@@ -9,7 +9,7 @@ slug: close-combat
 
 | TIPO      | PP | POTENCIA                 | PRECISION | CLASE      |
 | --------- | ---- |------------------------ | --------- | ---------- |
-| [[Pokémon/Tipos/Lucha\|Lucha]] | 3 | 1d12 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
+| [[Pokémon/Tipos Pokémon/Lucha\|Lucha]] | 3 | 1d12 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
 ___
 ### Descripción
 El Pokémon usuario arremete contra el objetivo, escogiendo abandonar sus defensas a cambio de una lluvia de golpes fulminantes.

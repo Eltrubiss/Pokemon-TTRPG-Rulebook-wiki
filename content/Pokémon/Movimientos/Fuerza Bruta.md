@@ -8,7 +8,7 @@ tipo1: Lucha
 
 | TIPO      | POTENCIA                 | PRECISION | CLASE      |
 | --------- | ------------------------ | --------- | ---------- |
-| [[Pokémon/Tipos/Lucha\|Lucha]] | 1d12 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
+| [[Pokémon/Tipos Pokémon/Lucha\|Lucha]] | 1d12 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
 ___
 ### Descripción
 Una descarga de potencia bruta a costa de las energías del usuario.

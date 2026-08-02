@@ -9,7 +9,7 @@ slug: horn-attack
 
 | TIPO       | POTENCIA                | PRECISION | CLASE      |
 | ---------- | ----------------------- | --------- | ---------- |
-| [[Pokémon/Tipos/Normal\|Normal]] | 1d6 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
+| [[Pokémon/Tipos Pokémon/Normal\|Normal]] | 1d6 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
 ___
 ### Descripción
 Embestida cargada con un cuerno o similares.

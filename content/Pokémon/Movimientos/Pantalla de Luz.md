@@ -9,7 +9,7 @@ slug: light-screen
 
 | TIPO         | POTENCIA | PRECISIÓN | CLASE      |
 | ------------ | -------- | --------- | ---------- |
-| [[Pokémon/Tipos/Psíquico\|Psíquico]] | --       | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Psíquico\|Psíquico]] | --       | --        | [[Estado]] |
 ___
 ### Descripción
 El Pokémon usuario crea una barrera mágica alrededor de sí y de sus aliados.

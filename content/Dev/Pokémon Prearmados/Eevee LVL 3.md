@@ -1,8 +1,8 @@
 > [!infobox]
 > | |
 > |:-:|
-> |![[Eevee.png]]|
-> | [[Pokémon/Tipos/Normal\|Normal]] |
+> |![[Assets/Pokemon/Eevee.png]]|
+> | [[Pokémon/Tipos Pokémon/Normal\|Normal]] |
 > ___
 >|  Nombre  | Caract. | Bonif. |
 >| ----------- | ----- | ----- |

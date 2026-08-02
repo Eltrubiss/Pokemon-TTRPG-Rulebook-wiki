@@ -39,18 +39,3 @@ Al igual que ocurre con el [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador
 | **18**        | +6                 |
 | **19**        | +7                 |
 | **20**        | +7                 |
-
----
-
-## Traducción desde el Juego Oficial (Escala 1:5)
-Para facilitar la adaptación de contenido desde los videojuegos o la Pokédex oficial, este sistema utiliza una **escala de conversión 1:5**. Esto significa que 5 niveles del juego oficial equivalen a 1 nivel en este sistema.
-
-### Regla de Conversión
-Para calcular el nivel en este sistema a partir de un nivel oficial, se divide el nivel original entre 5 y se redondea al valor más cercano:
-
-$$\text{Nivel TTRPG} = \frac{\text{Nivel Oficial}}{5}$$
-
-**Ejemplos de conversión:**
-- **Evolución:** Si un Pokémon evoluciona a nivel 18 en los juegos, en este sistema lo hará a **Nivel 4** ($18 / 5 = 3.6$, redondeado a 4).
-- **Movimientos:** Si un Pokémon aprende un movimiento a nivel 40, aquí lo aprenderá a **Nivel 8**.
-- **Poder Máximo:** Un Pokémon de nivel 100 oficial equivale a un Pokémon de **Nivel 20** en este sistema.

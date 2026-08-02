@@ -8,7 +8,7 @@ tipo1: Tierra
 
 | TIPO       | POTENCIA                 | PRESICION | CLASE      |
 | ---------- | ------------------------ | --------- | ---------- |
-| [[Pokémon/Tipos/Tierra\|Tierra]] | 1d10 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
+| [[Pokémon/Tipos Pokémon/Tierra\|Tierra]] | 1d10 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
 ___
 ### Descripción
 El Pokémon genera un terremoto localizado en el área del combate, resquebraja el suelo y todo lo que no esté aferrado a las paredes termina cayéndose. En extremo peligroso y prohibido en zonas urbanas con grandes edificios.

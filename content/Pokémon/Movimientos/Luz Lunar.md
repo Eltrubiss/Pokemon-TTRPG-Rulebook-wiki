@@ -9,7 +9,7 @@ slug: moonlight
 
 | TIPO     | POTENCIA | PPs | PRECISIÓN | CLASE      |
 | -------- | -------- | --- | --------- | ---------- |
-| [[Pokémon/Tipos/Hada\|Hada]] | --       | 2   | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Hada\|Hada]] | --       | 2   | --        | [[Estado]] |
 ___
 ### Descripción
 La Luz de la luna nos bendice muchas veces para poder avanzar en nuestro camino, muchos Pokémon pueden tomar fuerzas de esta para seguir luchando

@@ -9,7 +9,7 @@ slug: morning-sun
 
 | TIPO       | POTENCIA | PPs | PRECISIÓN | CLASE      |
 | ---------- | -------- | --- | --------- | ---------- |
-| [[Pokémon/Tipos/Normal\|Normal]] | --       | 2   | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Normal\|Normal]] | --       | 2   | --        | [[Estado]] |
 ___
 ### Descripción
 El sol nutre de muchas maneras. Hay Pokémon capaces de beneficiarse del sol para curar sus heridas y seguir el combate.

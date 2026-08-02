@@ -9,7 +9,7 @@ slug: synthesis
 
 | TIPO       | POTENCIA | PPs | PRECISIÓN | CLASE      |
 | ---------- | -------- | --- | --------- | ---------- |
-| [[Pokémon/Tipos/Planta\|Planta]] | --       | 3   | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Planta\|Planta]] | --       | 3   | --        | [[Estado]] |
 ___
 ### Descripción
 El sol nutre de muchas maneras. Hay Pokémon capaces de beneficiarse del sol para curar sus heridas y seguir el combate.
