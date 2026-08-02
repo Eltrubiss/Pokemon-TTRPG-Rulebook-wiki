@@ -8,7 +8,7 @@ tipo1: Normal
 
 | TIPO       | POTENCIA | PRECISION | CLASE      |
 | ---------- | -------- | --------- | ---------- |
-| [[Pokémon/Tipos/Normal\|Normal]] | --       | 100       | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Normal\|Normal]] | --       | 100       | [[Estado]] |
 ___
 ### Descripción
 Una mirada escalofriante, un aviso instintivo de que las cosas se pondrán serias. Pocos pueden dejar pasar tus ojos que por un momento, dejan de parpadear para enfocarse en su presa.

@@ -30,7 +30,7 @@ Mientras que los Pokémon tienen sus propias estadísticas de combate, el Entren
 #### [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades de Entrenador\|Habilidades de Entrenador]]
 Las **Habilidades** representan el entrenamiento, la experiencia y los conocimientos especializados que un Entrenador ha adquirido a lo largo de su vida. Cada Habilidad está asociada a una **Característica Base**, utilizando su puntuación como referencia para resolver las **[[Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]** relacionadas.
 
-#### [[Entrenador/Características del Entrenador/Tiradas de Salvación\|Tiradas de Salvación]]
+#### [[Entrenador/Características del Entrenador/Tiradas de Salvación del Entrenador\|Tiradas de Salvación]]
 Cuando un entrenador es afectado por un ataque, un fenómeno natural, un poder extraordinario o cualquier otro efecto que actúe directamente sobre él, deberá realizar una **Tirada de Salvación** utilizando la Característica indicada por el Director de Juego.
 
 ### [[Entrenador/Profesión/Profesión\|Profesión]]

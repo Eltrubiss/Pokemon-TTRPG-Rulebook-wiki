@@ -9,7 +9,7 @@ tipo1: "Tipo fuego"
 >#### **Charmeleon**
 >|  |
 >|-|
->| ![[{row.get('nombre')} .png]] |
+>| ![[Charmeleon .png]] |
 >___
 >**Peso:** 19,0 kg
 >**Altura:** 1,1 m

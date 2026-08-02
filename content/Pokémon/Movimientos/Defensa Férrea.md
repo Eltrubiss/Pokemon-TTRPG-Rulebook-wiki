@@ -9,7 +9,7 @@ slug: iron-defense
 
 | TIPO      | PP  | POTENCIA | PRESICION | CLASE      |
 | --------- | --- | -------- | --------- | ---------- |
-| [[Pokémon/Tipos/Acero\|Acero]] | 6   | --       | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Acero\|Acero]] | 6   | --       | --        | [[Estado]] |
 ___
 ### Descripción
 Endurece el cuerpo, volviéndolo tan resistente como el acero 

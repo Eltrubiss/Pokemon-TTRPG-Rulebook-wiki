@@ -8,7 +8,7 @@ tipo1: Planta
 
 | TIPO       | POTENCIA | PPs | PRECISIÓN | CLASE      |
 | ---------- | -------- | --- | --------- | ---------- |
-| [[Pokémon/Tipos/Planta\|Planta]] | --       | 10  | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Planta\|Planta]] | --       | 10  | --        | [[Estado]] |
 ___
 ### Descripción
 

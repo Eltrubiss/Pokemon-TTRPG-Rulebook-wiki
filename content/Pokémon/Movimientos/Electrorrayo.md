@@ -8,7 +8,7 @@ slug: electro-shot
 
 | TIPO          | POTENCIA         | PPs | PRECISION | CLASE        |
 | ------------- | ---------------- | --- | --------- | ------------ |
-| [[Pokémon/Tipos/Eléctrico\|Eléctrico]] | 1d12 + [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]] | 5   | 100       | [[Especial]] |
+| [[Pokémon/Tipos Pokémon/Eléctrico\|Eléctrico]] | 1d12 + [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]] | 5   | 100       | [[Especial]] |
 ___
 El usuario de Electrorrayo se prepara durante el primer turno, durante el cual aumenta en 1 nivel su [[Pokémon/Características Pokémon/Características/SpAtk\|Ataque Especial]]. En el segundo turno ataca causando daño al objetivo.
 

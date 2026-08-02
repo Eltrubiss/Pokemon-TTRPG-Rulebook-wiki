@@ -9,7 +9,7 @@ slug: protect
 
 | TIPO       | POTENCIA | PPs | PRECISIÓN | CLASE      |
 | ---------- | -------- | --- | --------- | ---------- |
-| [[Pokémon/Tipos/Normal\|Normal]] | --       | 5   | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Normal\|Normal]] | --       | 5   | --        | [[Estado]] |
 ___
 ### Descripción
 Protección es un [[Pokémon/Movimientos/Movimientos de Prioridad/Movimientos de Prioridad\|Movimiento de Prioridad]] (+4) que evita que el usuario reciba daño o efectos de los ataques dirigidos hacia él durante el turno en que se utiliza. Sin embargo, no protege contra movimientos lanzados al campo de combate general, como [[Púas]].

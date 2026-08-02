@@ -9,7 +9,7 @@ slug: aurora-veil
 
 | TIPO      | POTENCIA | PPs | PRECISIÓN | CLASE      |
 | --------- | -------- | --- | --------- | ---------- |
-| [[Pokémon/Tipos/Hielo\|Hielo]] | --       | 10  | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Hielo\|Hielo]] | --       | 10  | --        | [[Estado]] |
 ___
 ### Descripción
 Velo Aurora crea una **barrera** que reduce a la mitad el daño de movimientos de clase [[Físico]] y [[Especial]] recibido por los Pokémon del equipo aliado durante 5 turnos. Este movimiento solo puede usarse si está **[[Reglas/Clima/Granizo\|Granizando]]** o **[[Reglas/Clima/Nevado\|Nevando]]**, aunque su efecto se mantiene aunque deje de granizar o nevar.

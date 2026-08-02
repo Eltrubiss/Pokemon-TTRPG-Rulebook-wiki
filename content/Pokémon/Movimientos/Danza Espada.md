@@ -9,7 +9,7 @@ slug: swords-dance
 
 | TIPO       | PP  | POTENCIA | PRECISION | CLASE      |
 | ---------- | --- | -------- | --------- | ---------- |
-| [[Pokémon/Tipos/Normal\|Normal]] | 10  | --       | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Normal\|Normal]] | 10  | --       | --        | [[Estado]] |
 ___
 ### Descripción
 El Pokémon usuario hace una danza para los antiguos espíritus guerreros.

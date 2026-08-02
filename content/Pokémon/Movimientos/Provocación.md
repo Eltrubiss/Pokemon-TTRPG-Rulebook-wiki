@@ -9,7 +9,7 @@ slug: taunt
 
 | TIPO          | POTENCIA | PP  | PRECISIÓN | CLASE      |
 | ------------- | -------- | --- | --------- | ---------- |
-| [[Pokémon/Tipos/Siniestro\|Siniestro]] | --       | 10  | 100       | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Siniestro\|Siniestro]] | --       | 10  | 100       | [[Estado]] |
 ___
 ### Descripción
 El Pokémon usuario provoca al enemigo con un gesto grosero.

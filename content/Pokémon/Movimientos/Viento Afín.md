@@ -8,7 +8,7 @@ tipo1: Volador
 
 | TIPO        | POTENCIA | PRESICION | CLASE      |
 | ----------- | -------- | --------- | ---------- |
-| [[Pokémon/Tipos/Volador\|Volador]] | --       | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Volador\|Volador]] | --       | --        | [[Estado]] |
 ___
 ### Descripción
 El Pokémon usuario guía los vientos a su favor para llevar al máximo su agilidad.

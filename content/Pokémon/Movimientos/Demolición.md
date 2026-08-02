@@ -8,7 +8,7 @@ tipo1: Lucha
 
 | TIPO      | POTENCIA                | PRECISION | CLASE      |
 | --------- | ----------------------- | --------- | ---------- |
-| [[Pokémon/Tipos/Lucha\|Lucha]] | 1d8 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
+| [[Pokémon/Tipos Pokémon/Lucha\|Lucha]] | 1d8 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
 ___
 ### Descripción
 Una de las bases de las artes marciales. ¡Partir tablas con los puños! El Pokémon usuario da un golpe seco hacia el objetivo, destruyendo las barreras que construyó para defenderse del Pokémon usuario y de sus compañeros.

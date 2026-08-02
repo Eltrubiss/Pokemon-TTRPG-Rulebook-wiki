@@ -8,7 +8,7 @@ tipo1: Fuego
 
 | TIPO      | POTENCIA | PP  | PRECISION | CLASE      |
 | --------- | -------- | --- | --------- | ---------- |
-| [[Pokémon/Tipos/Fuego\|Fuego]] | --       | 2   | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Fuego\|Fuego]] | --       | 2   | --        | [[Estado]] |
 ___
 ### Descripción
 

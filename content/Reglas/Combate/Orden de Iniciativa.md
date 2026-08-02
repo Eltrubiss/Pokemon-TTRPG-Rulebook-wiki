@@ -9,10 +9,10 @@ Para definir qué Pokémon actúa primero, se toma los bonificadores de [[Pokém
 >| Bonif. [[Pokémon/Características Pokémon/Características/Vel\|Vel]] | Pokémon |
 >| :---------------: | :---------: |
 >| +6                       | [[0623 - Golurk\|Golurk]]       |
->| +4                       | [[Mudsdale\|Mudsdale]] |
+>| +4                       | [[Pokedex/7- Alola/0750 - Mudsdale\|Mudsdale]] |
 >| +1                       | [[0213 - Shuckle\|Shucke]] |
 
-Este será el orden en el que los Pokémon actuarán en combate. ¡Y los entrenadores también! *(Véase [[Reglas/Combate/Acciones en Combate/Acciones en Combate\|Acciones en Combate]])* En este ejemplo, [[Pokedex/5- Teselia/0623 - Golurk\|Golurk]] actuará primero, luego [[Pokedex/7- Alola/Mudsdale\|Mudsdale]] y por último [[Pokedex/2- Jotho/0213 - Shuckle\|Shuckle]]. Los entrenadores de estos tres Pokémon podrán actuar durante el turno de su Pokémon, pero ya veremos bien cómo lo harán.
+Este será el orden en el que los Pokémon actuarán en combate. ¡Y los entrenadores también! *(Véase [[Reglas/Combate/Acciones en Combate/Acciones en Combate\|Acciones en Combate]])* En este ejemplo, [[Pokedex/5- Teselia/0623 - Golurk\|Golurk]] actuará primero, luego [[Pokedex/7- Alola/0750 - Mudsdale\|Mudsdale]] y por último [[Pokedex/2- Jotho/0213 - Shuckle\|Shuckle]]. Los entrenadores de estos tres Pokémon podrán actuar durante el turno de su Pokémon, pero ya veremos bien cómo lo harán.
 
 #### ¿Qué Pasa si dos Pokémon poseen el mismo Bonificador de [[Pokémon/Características Pokémon/Características/Vel\|Velocidad]]?
 Si dos Pokémon poseen el mismo Bonificador de Velocidad, se comparan sus estadísticas completas de velocidad. Por ejemplo: [[Pokedex/9- Paldea/0983 - Kingambit\|Kingambit]] posee un +6 de [[Pokémon/Características Pokémon/Características/Vel\|Velocidad]]. Pero [[Pokedex/5- Teselia/0623 - Golurk\|Golurk]] también posee un +6 de [[Pokémon/Características Pokémon/Características/Vel\|Velocidad]]. Para definir quién irá primero, se compara la estadística de Velocidad de Golurk: 60, y la estadística de velocidad de Kingambit: 55. 

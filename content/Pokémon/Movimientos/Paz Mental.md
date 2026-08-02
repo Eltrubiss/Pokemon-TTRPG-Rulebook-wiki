@@ -8,7 +8,7 @@ tipo1: Psiquico
 
 | TIPO         | POTENCIA | PRECISION | CLASE      |
 | ------------ | -------- | --------- | ---------- |
-| [[Pokémon/Tipos/Psíquico\|Psíquico]] | --       | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Psíquico\|Psíquico]] | --       | --        | [[Estado]] |
 ___
 ### Descripción
 El Pokémon usuario enfría la mente y libera su alma para mejorar su desempeño en combate.

@@ -9,7 +9,7 @@ slug: double-kick
 
 | TIPO      | POTENCIA      | PRESICION | CLASE      |
 | --------- | ------------- | --------- | ---------- |
-| [[Pokémon/Tipos/Lucha\|Lucha]] | 2d3 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
+| [[Pokémon/Tipos Pokémon/Lucha\|Lucha]] | 2d3 + [[Pokémon/Características Pokémon/Características/Atk\|Atk]] | 100       | [[Físico]] |
 ___
 ### Descripción
 Dos patadas consecutivas que siempre aciertan en el mismo lugar. Doloroso.

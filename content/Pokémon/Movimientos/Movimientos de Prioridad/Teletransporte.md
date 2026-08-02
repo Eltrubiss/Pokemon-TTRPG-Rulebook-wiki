@@ -9,7 +9,7 @@ slug: teleport
 
 | TIPO         | PP | POTENCIA | PRECISION | CLASE      |
 | ------------ | ---- | -------- | --------- | ---------- |
-| [[Pokémon/Tipos/Psíquico\|Psíquico]] | 5 | --       | --        | [[Estado]] |
+| [[Pokémon/Tipos Pokémon/Psíquico\|Psíquico]] | 5 | --       | --        | [[Estado]] |
 ___
 ### Descripción
 El Pokémon usuario entra en un estado de concentración absoluto, ignorando su entorno para buscar un punto para aparecer hasta que finalmente teletransporta su cuerpo al lugar que desea.

@@ -2,41 +2,40 @@
 tags:
   - Pokemon
 ---
-Los **Cambios de Características** representan modificaciones temporales sobre las Características de un Pokémon durante un combate. Estos cambios pueden aumentar o reducir el rendimiento de una Característica sin alterar su valor base, y suelen ser provocados por Movimientos, Habilidades, Objetos u otros efectos.
+Los **Cambios de Característica** representan modificaciones temporales sobre las capacidades de un Pokémon durante un combate. Estos efectos suelen ser provocados por [[Movimientos]], [[Habilidades]], Objetos u otras reglas especiales, permitiendo que un Pokémon aumente o reduzca temporalmente el rendimiento de una o varias de sus Características.
 
-Los **Cambios de Características** son temporales. Salvo que un efecto indique lo contrario, todos los niveles de las Características de un Pokémon vuelven a **0** cuando este regresa a su **Poké Ball** o tras un período de calma suficiente para recuperarse del esfuerzo del combate.
+Los Cambios de Característica **nunca modifican los Valores Base** del Pokémon. En su lugar, alteran temporalmente el **Modificador** de la Característica correspondiente.
+
+Salvo que un efecto indique lo contrario, todos los Cambios de Característica desaparecen cuando el Pokémon regresa a su [[Poké Ball]] o tras un período de descanso suficiente para recuperarse del combate.
 
 ### Niveles de Característica
+Cada Característica posee un **Nivel de Característica** independiente, que representa cuánto ha sido modificada respecto a su estado normal.
 
-Los **Cambios de Característica** se representan mediante **niveles**, que indican cuánto ha aumentado o disminuido temporalmente una Característica respecto a su valor normal.
+Un Nivel de Característica puede variar entre **−3** y **+3**.
 
-Cada Característica posee un nivel independiente que puede variar entre **−6** y **+6**.
+- Un nivel de **0** indica que la Característica no ha sido modificada. Siempre que un Pokémon sea regresado a su Poké Ball, todas sus Características volverán a 0
+- Los niveles positivos representan mejoras temporales.
+- Los niveles negativos representan reducciones temporales.
 
-- Un nivel de **0** indica que la Característica no ha sido modificada.
-- Los niveles **positivos** representan aumentos de la Característica.
-- Los niveles **negativos** representan reducciones de la Característica.
+Cuando un efecto aumente o disminuya una Característica, su Nivel cambia en la cantidad indicada, sin poder superar nunca los límites de **−3** y **+3**.
 
-Cuando un efecto aumente o disminuya una Característica, su nivel se modifica en la cantidad indicada, sin poder superar los límites de **−6** y **+6**.
+### Modificando una Característica
 
-Cada nivel de una Característica otorga un modificador igual al **[[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]** del Pokémon. 
+Cada Nivel de Característica modifica el **Modificador** de dicha Característica en una cantidad igual al **[[Reglas/Bonificador de Experiencia|Bonificador de Experiencia]] del Pokémon**.
 
-- **+1 nivel:** +1 × [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]
-- **+2 niveles:** +2 × [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]
-- ...
-- **+6 niveles:** +6 × [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]
+Supongamos un [[Reglas/Bonificador de Experiencia|BE]] de +2 para los siguientes ejemplos. Un Pokémon con **+2 Niveles de [[Pokémon/Características Pokémon/Características/Atk|Ataque Físico]]** aumentaría su **Modificador de [[Pokémon/Características Pokémon/Características/Atk|Ataque Físico]]** en **+4**, mientras que otro con **−1 Nivel de [[Pokémon/Características Pokémon/Características/SpDef|Defensa Especial]]** reduciría su **Modificador de [[Pokémon/Características Pokémon/Características/SpDef|Defensa Especial]]** en **−2**.
 
-Del mismo modo:
+### Interacción con el Perfil de Combate
 
-- **-1 nivel:** −1 × [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]
-- ...
-- **-6 niveles:** −6 × [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]
+Cuando una Característica es modificada, todos los elementos del [[Perfil de Combate]] que dependan de ella se actualizan automáticamente.
+
+Por ejemplo:
+- Un aumento del **[[Pokémon/Características Pokémon/Características/Atk|Ataque Físico]]** incrementará el daño de los [[Movimientos]] [[Físico|físicos]].
+    
+- Una reducción de la **[[Pokémon/Características Pokémon/Características/Def|Defensa Física]]** disminuirá la [[Pokémon/Características Pokémon/Perfil de Combate/Guardia|Guardia]] Física y la [[Pokémon/Características Pokémon/Perfil de Combate/Tiradas de Salvación del Pokémon|Tirada de Salvación]] de Defensa.
+    
+- Un aumento de la **[[Pokémon/Características Pokémon/Características/Vel|Velocidad]]** mejorará la [[Pokémon/Características Pokémon/Perfil de Combate/Iniciativa del Pokémon|Iniciativa]], la [[Movilidad]] y la [[Pokémon/Características Pokémon/Perfil de Combate/Tiradas de Salvación del Pokémon|Tirada de Salvación]] de Velocidad.
+    
 
 > [!NOTE]  
-> Cada Característica mantiene su propio nivel de forma independiente. Un Pokémon puede, por ejemplo, tener **+2 niveles en Ataque Físico**, **−1 nivel en Defensa Especial** y **0 niveles en Velocidad** al mismo tiempo.
-
-### Características NvL
-Si el nivel de una **Característica** ha sido modificado y, por cualquier motivo, es necesario utilizar su **Característica NVL**, este mismo nivel también deberá aplicarse sobre ella.
-
-Cada nivel de una Característica equivale a un modificador de **10 × el [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]** cuando se aplica sobre su Característica NVL.
-
-Por ejemplo, si dos Pokémon empatan en sus **Bonificadores de [[Pokémon/Características Pokémon/Características/Vel\|Velocidad]]** al determinar el **[[Reglas/Combate/Orden de Iniciativa\|Orden de Iniciativa]]**, el desempate puede resolverse comparando sus **Características de [[Pokémon/Características Pokémon/Características/Vel\|Velocidad]] NVL**, teniendo en cuenta cualquier Cambio de Característica que las esté afectando.
+> Cada Característica mantiene su propio Nivel de forma independiente. Un Pokémon puede tener, por ejemplo, **+2 Niveles de Ataque**, **−1 Nivel de Defensa Especial** y **+3 Niveles de Velocidad** al mismo tiempo.

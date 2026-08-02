@@ -2,93 +2,98 @@
 tags:
   - Pokemon
 aliases:
-  - Característica NVL
-  - Características NVL
-  - Característica BASE
-  - Características BASE
+  - Modificador
 ---
-> [!infobox]
-> ## Comparación Rango / Categoría
-> |   Rango   | Categoría  |
-> | :-------: | --------- |
-> | 155 - 255 | Sobrenatural   |
-> | 120 - 150 | Excelente   |
-> | 80 - 115  | Sólido     |
-> |  50 - 75  | Mediocre   |
-> |  25 - 45  | Deficiente |
-> |  1 - 20   | Inútil     |
+Si hay un rasgo común a todos los Pokémon, son sus **Características**. Estas representan las capacidades físicas y biológicas propias de cada especie y definen aquello en lo que un Pokémon destaca de forma natural. Cada característica posee un **Valor Base** comprendido entre **1 y 255**, el cual permanece inalterable durante toda la vida del Pokémon. Este valor representa el potencial innato de la especie y nunca aumenta al subir de nivel.
 
-Si hay un común denominador en todos los Pokémon, esas son sus **Características**. Son la base para comprender su biología y sus capacidades. Cada una de las **Características** de un Pokémon se cuantifica en un valor del 1 al 255, separándolas en categorías como se muestra en la tabla **Comparación Rango/Categoría**
+En lugar de modificar directamente las características, el progreso de un Pokémon se refleja mediante el **[[Reglas/Bonificador de Experiencia|Bonificador de Experiencia]] (BE)** y su **Perfil de Combate**, un conjunto de valores derivados que determinan cómo actúa el Pokémon durante una batalla, como su **[[Pokémon/Características Pokémon/Perfil de Combate/Guardia|Guardia]]**, sus **[[Pokémon/Características Pokémon/Perfil de Combate/Puntos de Salud Máximos|Puntos de Salud Máximos]]**, sus **[[Pokémon/Características Pokémon/Perfil de Combate/Tiradas de Salvación del Pokémon|Tiradas de Salvación del Pokémon]]** o el daño de sus movimientos.
+De este modo, dos Pokémon de la misma especie siempre compartirán las mismas características, pero un ejemplar más experimentado aprovechará mejor ese potencial gracias a su entrenamiento.
 
 ### Las 6 Características Pokémon
-Las características de los Pokémon son las siguientes:
 
-- **[[Pokémon/Características Pokémon/Características/PS\|Puntos de Salud]]:** Los Puntos de Salud de un Pokémon representan su constitución y vitalidad. Hablan de cuánto un Pokémon puede mantener trabajos constantes o cuanto daño en combate pueden recibir.
+Todo Pokémon posee seis características fundamentales:
 
-- **[[Pokémon/Características Pokémon/Características/Atk\|Ataque Físico]]:**
+- **Puntos de Salud ([[Pokémon/Características Pokémon/Características/PS|PS]]):** Representan la constitución y vitalidad del Pokémon. Determinan la cantidad de daño que es capaz de soportar antes de quedar debilitado.
 
-- **[[Pokémon/Características Pokémon/Características/SpAtk\|Ataque Especial]]:**
+- **Ataque Físico ([[Pokémon/Características Pokémon/Características/Atk|Atk]]):** Representa la fuerza y contundencia de los ataques físicos del Pokémon. Cuanto mayor sea esta característica, mayor será el daño que infligen sus movimientos físicos.
 
-- **[[Pokémon/Características Pokémon/Características/Def\|Defensa Física]]:** La Defensa Física de un Pokémon se refiere a la resistencia del mismo y su capacidad de lidiar con situaciones de golpes, caídas y fuerza bruta. Es su capacidad de menguar el daño [[Físico]] recibido en combate.
+- **Ataque Especial ([[Pokémon/Características Pokémon/Características/SpAtk|SpAtk]]):** Representa el dominio del Pokémon sobre las energías elementales y otras manifestaciones especiales. Incrementa el daño de sus movimientos especiales.
 
-- **[[Pokémon/Características Pokémon/Características/SpDef\|Defensa Especial]]:** La Defensa Especial de un Pokémon se refiere a su "aislante" contra lo intangible. Representa su estabilidad mental y la capacidad del cuerpo para disipar energías externas sin que alteren el equilibrio del Pokémon. Es su capacidad de menguar el daño [[Especial]] recibido en combate.
+- **Defensa Física ([[Pokémon/Características Pokémon/Características/Def|Def]]):** Representa la resistencia del cuerpo del Pokémon frente a golpes, impactos y fuerza bruta. Esta característica determina su **Defensa Activa Física** y su capacidad para resistir efectos físicos.
 
-- **[[Pokémon/Características Pokémon/Características/Vel\|Velocidad]]:** La Velocidad de un Pokémon se refiere a su velocidad de reacción y de acción, un Pokémon con gran velocidad será un Pokémon ágil y despierto, mientras que un Pokémon de menor velocidad será un Pokémon lento y poco reactivo. Es lo que define qué tan rápido actuará el Pokémon en combate.
+- **Defensa Especial ([[Pokémon/Características Pokémon/Características/SpDef|SpDef]]):** Representa la resistencia del Pokémon frente a energías, alteraciones mentales y fenómenos especiales. Determina su **Defensa Activa Especial** y su capacidad para resistir efectos especiales.
+
+- **Velocidad ([[Pokémon/Características Pokémon/Características/Vel|Vel]]):** Representa la rapidez de reacción y desplazamiento del Pokémon. Determina su capacidad de movimiento, el orden de actuación en combate y su habilidad para evitar determinados efectos.
+
+
+---
+
+### Modificadores
+
+Las **Características** rara vez se utilizan directamente durante la partida. En su lugar, cada una de ellas se convierte primero en un **Modificador**, un valor simplificado obtenido mediante la tabla de conversión.
+
+Estos **Modificadores**, combinados con el **[[Reglas/Bonificador de Experiencia|Bonificador de Experiencia]] (BE)**, permiten calcular el **Perfil de Combate** del Pokémon, es decir, todas las estadísticas empleadas durante una batalla, como la **[[Pokémon/Características Pokémon/Perfil de Combate/Guardia|Guardia]]**, las **[[Pokémon/Características Pokémon/Perfil de Combate/Tiradas de Salvación del Pokémon|Tiradas de Salvación]]**, los **[[Pokémon/Características Pokémon/Perfil de Combate/Puntos de Salud Máximos|Puntos de Salud Máximos]]**, la **[[Pokémon/Características Pokémon/Perfil de Combate/Iniciativa del Pokémon|Iniciativa]]** o el **[[Movimiento]]**.
+___
+### Conversión de Características
+
+>[!infobox]
+>### Tabla de Conversión
+>
+>|Característica Base|Modificador|
+>|:-:|:-:|
+>|1 – 20|-4|
+>|21 – 35|-3|
+>|36 – 50|-2|
+>|51 – 65|-1|
+>|66 – 80|+0|
+>|81 – 95|+1|
+>|96 – 110|+2|
+>|111 – 125|+3|
+>|126 – 140|+4|
+>|141 – 160|+5|
+>|161 – 190|+6|
+>|191 – 220|+7|
+>|221 – 255|+8|
+
+Las **Características Base** de un Pokémon representan su potencial natural y utilizan la misma escala que los videojuegos, comprendida entre **1 y 255**. Sin embargo, trabajar directamente con estos valores durante una partida resultaría poco práctico.
+
+Por ello, cada característica se convierte a un **Modificador**, un modificador simplificado que representa el rendimiento real de esa característica dentro del sistema.
+
+Este **Modificador** será el utilizado para calcular la mayoría de las mecánicas del juego, como la **Defensa Activa**, el **[[Pokémon/Características Pokémon/Perfil de Combate/Guardia|Guardia]] ño de los movimientos**, las **Tiradas de Salvación** y otros efectos especiales.
+
+#### Utilización
+
+Cada una de las seis características utiliza este mismo procedimiento de conversión. Una vez obtenido el **Modificador**, este se emplea junto al **[[Reglas/Bonificador de Experiencia|Bonificador de Experiencia]] (BE)** para calcular los distintos valores del **Perfil de Combate**.
+
+Por ejemplo, un **[[Pokedex/3- Hoenn/0306 - Aggron|Aggron]]** posee una **[[Pokémon/Características Pokémon/Características/Def|Defensa Física]] Base de 180**. Consultando la tabla, dicha característica corresponde a un **Modificador de +6**.
+
+Si ese [[Pokedex/3- Hoenn/0306 - Aggron|Aggron]] posee un **[[Reglas/Bonificador de Experiencia|BE]] de +2**, su **[[Pokémon/Características Pokémon/Perfil de Combate/Guardia|Guardia]] Física** será:
+
+**[[Pokémon/Características Pokémon/Perfil de Combate/Guardia|Guardia]] Física = 8 + BE + Modificador de [[Pokémon/Características Pokémon/Características/Def|Defensa Física]]**
+
+**[[Pokémon/Características Pokémon/Perfil de Combate/Guardia|Guardia]] Física = 8 + 2 + 6 = 16**
+
+Del mismo modo, un **[[Pokedex/2- Jotho/0242 - Blissey|Blissey]]** posee una **[[Pokémon/Características Pokémon/Características/Def|Defensa Física]] Base de 10**, lo que equivale a un **Modificador de [[Pokémon/Características Pokémon/Características/Def|Defensa Física]] de -4**. Con el mismo **[[Reglas/Bonificador de Experiencia|BE]] +2**, su **[[Pokémon/Características Pokémon/Perfil de Combate/Guardia|Guardia]] Física** sería **6**, reflejando que su resistencia proviene de su enorme cantidad de [[Pokémon/Características Pokémon/Características/PS|Puntos de Salud]] y no de su capacidad para bloquear o absorber impactos.
+
+> [!summary] **Resumen**  
+> **Características** → Valores Base entre **1 y 255** que representan el potencial natural de un Pokémon.
+> 
+> **Modificadores** → Valores entre **−4 y +8** obtenidos mediante la tabla de conversión.
+> 
+> **Perfil de Combate** → Conjunto de estadísticas derivadas [[Pokémon/Características Pokémon/Perfil de Combate/Guardia|Guardia]], TS, PS Máximos, Movimiento, Iniciativa, etc.) calculadas a partir de los **Modificadores** y el **Bonificador de Experiencia**.
 
 ___
-### Características Base vs. Características de Nivel
+### Perfil de Combate
+El **Perfil de Combate** reúne todos los valores que un Pokémon utiliza durante un enfrentamiento. A diferencia de las **Características**, que representan las capacidades innatas de una especie, el Perfil de Combate refleja cómo ese potencial se traduce en las mecánicas del juego.
 
-Para entender el crecimiento de un Pokémon, debemos distinguir entre dos conceptos:
+Todos los valores del Perfil de Combate se obtienen combinando el **Modificador** de una o varias características con el **[[Reglas/Bonificador de Experiencia|Bonificador de Experiencia]] (BE)** del Pokémon.
 
-1.  **Características Base (BASE):** Es el valor inherente a la especie. Representa el potencial genético de un Pokémon (por ejemplo, todos los [[Pokedex/2- Jotho/Heracross\|Heracross]] comparten las mismas bases). Este valor **nunca cambia**, independientemente del nivel, y sirve como punto de partida para todos los cálculos.
-2.  **Características de Nivel (NVL) :** Es el valor real que posee el Pokémon en su nivel actual. Este número es el que aumenta cada vez que el Pokémon sube de nivel y es el que utilizaremos para calcular los **Bonificadores**.
+Mientras que las **Características** permanecen inalterables durante toda la vida del Pokémon, su **Perfil de Combate** evoluciona a medida que gana experiencia y aumenta de nivel.
 
-Si una [[Habilidades|Habilidad]] o [[Dev/Plantillas/Movimiento\|Movimiento]] alteran las **Características NVL** sumándole o restándole un porcentaje de la misma, el cálculo siempre se redondea hacia abajo.
+Las estadísticas que componen el Perfil de Combate son las siguientes:
 
-#### La Fórmula de Crecimiento
-Para determinar la **Característica de Nivel (NVL)** de un Pokémon, aplicamos la siguiente fórmula utilizando su Base y su [[Pokémon/Nivel Pokémon\|Nivel Pokémon]]:
-
-$$ \text{Característica Actual} = \frac{\text{Base} \cdot \text{Nivel}}{10} + 5 $$
-
-> [!example] **Ejemplo de progresión: [[Pokedex/2- Jotho/Heracross\|Heracross]] (Ataque Base: 125)**
-> - **A Nivel 1:** $\frac{125 \cdot 1}{10} + 5 = 17,5$ (Se convierte en **17**)
-> - **A Nivel 10:** $\frac{125 \cdot 10}{10} + 5 = 130$
-> - **A Nivel 20:** $\frac{125 \cdot 20}{10} + 5 = 255$
-
----
-
-### Bonificadores de Características
-Los **Bonificadores** son valores simplificados que derivan de las características **NVL** del Pokémon. Mientras que la característica representa el potencial total, el bonificador es el número práctico que sumarás a tus dados o usarás para determinar efectos en combate.
-
-#### Cómo calcular el Bonificador
-
-Para obtener el bonificador de cualquier característica, divide el valor actual entre 10 y redondea el resultado al entero más cercano (de 0,5 hacia arriba).
-
-**Fórmula:**  
-$$
-\text{Bonificador} = \text{Redondear} \left( \frac{\text{Característica NVL}}{10} \right)
-$$
-
-- **Ejemplo:** Un [[Pokedex/2- Jotho/Heracross\|Heracross]] de Nivel 1 tiene un [[Pokémon/Características Pokémon/Características/Atk\|Ataque Físico]] de 17.
-- **Cálculo:** .
-- **Resultado:** Al redondear 1,7, el **Bonificador de Ataque** es **2**.
-
-#### Utilidad de los Bonificadores
-
-Cada bonificador tiene un propósito específico dentro de las mecánicas de juego:
-
-| Bonificador             | Uso Principal                                                                            |
-| :---------------------- | :--------------------------------------------------------------------------------------- |
-| **[[Pokémon/Características Pokémon/Características/Atk\|Atk]] / [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]]** | Se suman a la [[Acción de Movimiento]] para determinar el éxito y potencia de un ataque. |
-| **[[Pokémon/Características Pokémon/Características/Def\|Def]] / [[Pokémon/Características Pokémon/Características/SpDef\|SpDef]]** | Se utilizan al [[Protegerse]] para reducir el daño recibido según el tipo de movimiento. |
-| **[[Pokémon/Características Pokémon/Características/Vel\|Vel]]**             | Determina el [[Reglas/Combate/Orden de Iniciativa\|Orden de Iniciativa]] del Pokémon.                                        |
-
----
-
-### Puntos de Salud Máximos (PS Máx)
-
-A diferencia de las otras estadísticas, los **[[Pokémon/Características Pokémon/Características/PS\|Puntos de Salud Máximos]]** no funcionan como un bonificador de tirada, sino como la reserva de energía vital del Pokémon.
-
-- **Cálculo:** Los [[Pokémon/Características Pokémon/Características/PS\|PS Máximos]] equivalen a la **mitad** de la característica de [[Pokémon/Características Pokémon/Características/PS\|Puntos de Salud]].
-- **Función:** Representan la cantidad de daño que el Pokémon puede tolerar antes de caer [[debilitado]].
-
+- **[[Pokémon/Características Pokémon/Perfil de Combate/Puntos de Salud Máximos|Puntos de Salud Máximos]] (PS Máx):** Representan la cantidad de daño que un Pokémon puede soportar antes de quedar debilitado.
+- **[[Pokémon/Características Pokémon/Perfil de Combate/Guardia|Guardia]]:** Representa la dificultad para herir eficazmente al Pokémon. Se divide en **[[Pokémon/Características Pokémon/Perfil de Combate/Guardia|Guardia]] Física** y **[[Pokémon/Características Pokémon/Perfil de Combate/Guardia|Guardia]] Especial**, dependiendo del tipo de movimiento recibido.
+- **[[Pokémon/Características Pokémon/Perfil de Combate/Tiradas de Salvación del Pokémon|Tiradas de Salvación]] (TS):** Reflejan la capacidad del Pokémon para resistir efectos que no dependen únicamente de un impacto directo. Existen tres Tiradas de Salvación: **Defensa Física**, **Defensa Especial** y **Velocidad**.
+- **[[Movimiento]]:** Determina la distancia que el Pokémon puede recorrer durante su turno.
+- **[[Pokémon/Características Pokémon/Perfil de Combate/Iniciativa del Pokémon|Iniciativa]]:** Determina el orden en el que los Pokémon actúan durante un combate.

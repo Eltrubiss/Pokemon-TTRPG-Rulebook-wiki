@@ -8,7 +8,7 @@ tipo1: Planta
 
 | TIPO       | POTENCIA                  | PRESICION | CLASE        |
 | ---------- | ------------------------- | --------- | ------------ |
-| [[Pokémon/Tipos/Planta\|Planta]] | 1d8 + [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]] | 100       | [[Especial]] |
+| [[Pokémon/Tipos Pokémon/Planta\|Planta]] | 1d8 + [[Pokémon/Características Pokémon/Características/SpAtk\|SpAtk]] | 100       | [[Especial]] |
 ___
 ### Descripción
 Raíces salen del suelo y toman por un momento al objetivo para drenar su esencia vital.
