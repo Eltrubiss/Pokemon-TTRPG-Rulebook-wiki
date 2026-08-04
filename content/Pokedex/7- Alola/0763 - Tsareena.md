@@ -23,8 +23,8 @@ tipo1: "Tipo planta"
 >| defensa.esp | 98    |
 >| velocidad   | 72    |
 >___
-> **[[Habilidades]]:**
-> - [[Defensa hoja]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Defensa Hoja]]
 > - [[Regia presencia]]
 >
 > **[[Habilidad Oculta]]:**

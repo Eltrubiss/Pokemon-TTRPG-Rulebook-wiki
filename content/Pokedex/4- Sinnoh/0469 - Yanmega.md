@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 56    |
 >| velocidad   | 95    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Impulso]]
 > - [[Cromolente]]
 >

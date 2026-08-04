@@ -24,8 +24,8 @@ tipo2: "Tipo fuego"
 >| defensa.esp | 65    |
 >| velocidad   | 75    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]
 > - [[Insomnio]]
 >
 > **[[Habilidad Oculta]]:**

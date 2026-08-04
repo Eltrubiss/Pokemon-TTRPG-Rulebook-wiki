@@ -24,9 +24,9 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 60    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Despiste]]
-> - [[Manto níveo]]
+> - [[El Pokémon/Habilidades/Manto Níveo]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Sebo]]

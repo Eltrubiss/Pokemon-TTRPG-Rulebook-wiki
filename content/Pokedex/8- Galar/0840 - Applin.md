@@ -24,7 +24,7 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 40    |
 >| velocidad   | 20    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Maduración]]
 > - [[Gula]]
 >

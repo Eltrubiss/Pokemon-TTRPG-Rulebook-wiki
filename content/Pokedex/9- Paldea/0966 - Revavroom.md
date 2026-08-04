@@ -24,8 +24,8 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 67    |
 >| velocidad   | 90    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Funda\|Funda]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Funda\|Funda]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Filtro]]

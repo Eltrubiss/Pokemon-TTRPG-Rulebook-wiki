@@ -24,8 +24,8 @@ tipo2: "Tipo agua"
 >| defensa.esp | 55    |
 >| velocidad   | 35    |
 >___
-> **[[Habilidades]]:**
-> - [[Nado rápido]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Nado Rápido]]
 > - [[Caparazón]]
 >
 > **[[Habilidad Oculta]]:**

@@ -23,8 +23,8 @@ tipo1: "Tipo agua"
 >| defensa.esp | 48    |
 >| velocidad   | 43    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Torrente\|Torrente]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Torrente\|Torrente]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Potencia bruta]]

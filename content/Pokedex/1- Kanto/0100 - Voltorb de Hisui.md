@@ -24,7 +24,7 @@ tipo2: "Tipo planta"
 >| defensa.esp | 55    |
 >| velocidad   | 100    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Insonorizar]]
 > - [[Electricidad estática]]
 >

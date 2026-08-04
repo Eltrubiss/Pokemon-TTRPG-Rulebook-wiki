@@ -24,5 +24,5 @@ tipo2: "Tipo planta"
 >| defensa.esp | 100    |
 >| velocidad   | 100    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cura natural]]

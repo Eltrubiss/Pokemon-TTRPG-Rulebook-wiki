@@ -23,8 +23,8 @@ tipo1: "Tipo hada"
 >| defensa.esp | 55    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Zoquete]]

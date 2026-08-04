@@ -24,8 +24,8 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 90    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Intimidación]]

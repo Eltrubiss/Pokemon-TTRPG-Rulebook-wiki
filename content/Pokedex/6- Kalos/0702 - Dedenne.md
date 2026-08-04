@@ -24,7 +24,7 @@ tipo2: "Tipo hada"
 >| defensa.esp | 67    |
 >| velocidad   | 101    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Carrillo]]
 > - [[Recogida]]
 >

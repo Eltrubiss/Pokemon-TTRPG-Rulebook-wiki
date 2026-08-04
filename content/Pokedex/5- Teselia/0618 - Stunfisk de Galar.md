@@ -24,5 +24,5 @@ tipo2: "Tipo acero"
 >| defensa.esp | 84    |
 >| velocidad   | 32    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Mimetismo]]

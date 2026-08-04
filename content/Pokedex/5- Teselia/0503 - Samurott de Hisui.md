@@ -24,8 +24,8 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 65    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Torrente\|Torrente]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Torrente\|Torrente]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Cortante1]]

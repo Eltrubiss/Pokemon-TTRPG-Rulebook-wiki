@@ -23,7 +23,7 @@ tipo1: "Tipo roca"
 >| defensa.esp | 50    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Combustible]]
 > - [[Ignífugo]]
 >

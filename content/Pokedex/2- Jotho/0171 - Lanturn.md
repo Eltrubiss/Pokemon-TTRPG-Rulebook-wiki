@@ -24,7 +24,7 @@ tipo2: "Tipo eléctrico"
 >| defensa.esp | 76    |
 >| velocidad   | 67    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Absorbe electricidad]]
 > - [[Iluminación]]
 >

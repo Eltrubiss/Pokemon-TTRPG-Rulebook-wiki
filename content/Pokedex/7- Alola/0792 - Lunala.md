@@ -24,5 +24,5 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 107    |
 >| velocidad   | 97    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Guardia espectro]]

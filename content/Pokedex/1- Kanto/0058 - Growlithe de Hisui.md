@@ -24,7 +24,7 @@ tipo2: "Tipo roca"
 >| defensa.esp | 50    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Intimidación]]
 > - [[Absorbe fuego]]
 >

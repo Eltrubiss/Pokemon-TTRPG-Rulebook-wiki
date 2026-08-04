@@ -24,5 +24,5 @@ tipo2: "Tipo acero"
 >| defensa.esp | 86    |
 >| velocidad   | 10    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Punta acero]]

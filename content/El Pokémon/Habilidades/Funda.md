@@ -1,0 +1,7 @@
+---
+tags:
+  - Habilidades
+slug: overcoat
+---
+### Funcionamiento
+Funda protege al poseedor de la habilidad del daño ocasionado por [[Reglas Generales/Clima/Tormenta de Arena (Clima)|Tormenta de Arena (Clima)]] y [[Reglas Generales/Clima/Granizo\|Granizo]]. Además hace al poseedor inmune a la habilidad [[Efecto Espora]] y a los movimientos basados en polvos.

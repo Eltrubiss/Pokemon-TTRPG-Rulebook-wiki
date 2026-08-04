@@ -24,8 +24,8 @@ tipo2: "Tipo hada"
 >| defensa.esp | 100    |
 >| velocidad   | 109    |
 >___
-> **[[Habilidades]]:**
-> - [[Manto níveo]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Manto Níveo]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Nevada]]

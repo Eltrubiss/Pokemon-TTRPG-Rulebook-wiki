@@ -24,7 +24,7 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 77    |
 >| velocidad   | 78    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Recogida]]
 > - [[Carrillo]]
 >

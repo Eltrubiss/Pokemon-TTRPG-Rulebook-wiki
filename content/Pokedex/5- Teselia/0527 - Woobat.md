@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 43    |
 >| velocidad   | 72    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ignorante]]
 > - [[Zoquete]]
 >

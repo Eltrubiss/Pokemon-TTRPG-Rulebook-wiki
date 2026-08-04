@@ -24,9 +24,9 @@ tipo2: "Tipo hada"
 >| defensa.esp | 100    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Iluminación]]
 > - [[Efecto espora]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Cura lluvia]]
+> - [[El Pokémon/Habilidades/Cura Lluvia]]

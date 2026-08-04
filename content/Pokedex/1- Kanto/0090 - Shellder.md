@@ -23,9 +23,9 @@ tipo1: "Tipo agua"
 >| defensa.esp | 25    |
 >| velocidad   | 40    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Caparazón]]
-> - [[Pokémon/Habilidades/Encadenado\|Encadenado]]
+> - [[El Pokémon/Habilidades/Encadenado\|Encadenado]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Funda\|Funda]]
+> - [[El Pokémon/Habilidades/Funda\|Funda]]

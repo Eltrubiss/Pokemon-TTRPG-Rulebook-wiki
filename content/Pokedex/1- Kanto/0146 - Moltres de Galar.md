@@ -24,5 +24,5 @@ tipo2: "Tipo volador"
 >| defensa.esp | 125    |
 >| velocidad   | 90    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cólera]]

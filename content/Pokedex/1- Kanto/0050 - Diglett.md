@@ -23,9 +23,9 @@ tipo1: "Tipo tierra"
 >| defensa.esp | 45    |
 >| velocidad   | 95    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
 > - [[Trampa arena]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Poder arena]]
+> - [[El Pokémon/Habilidades/Poder Arena]]

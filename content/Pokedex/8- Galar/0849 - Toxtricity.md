@@ -24,7 +24,7 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 70    |
 >| velocidad   | 75    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Punk rock]]
 > - [[Más]]
 >

@@ -23,8 +23,8 @@ tipo1: "Tipo lucha"
 >| defensa.esp | 60    |
 >| velocidad   | 105    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 > - [[Regeneración]]
 >
 > **[[Habilidad Oculta]]:**

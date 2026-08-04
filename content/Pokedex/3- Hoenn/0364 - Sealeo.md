@@ -24,9 +24,9 @@ tipo2: "Tipo agua"
 >| defensa.esp | 70    |
 >| velocidad   | 45    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sebo]]
-> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
+> - [[El Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Despiste]]

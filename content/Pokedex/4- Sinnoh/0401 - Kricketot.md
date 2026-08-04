@@ -23,7 +23,7 @@ tipo1: "Tipo bicho"
 >| defensa.esp | 41    |
 >| velocidad   | 25    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Mudar]]
 >
 > **[[Habilidad Oculta]]:**

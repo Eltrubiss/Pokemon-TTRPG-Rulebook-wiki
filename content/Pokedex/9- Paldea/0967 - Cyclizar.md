@@ -24,7 +24,7 @@ tipo2: "Tipo normal"
 >| defensa.esp | 65    |
 >| velocidad   | 121    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Mudar]]
 >
 > **[[Habilidad Oculta]]:**

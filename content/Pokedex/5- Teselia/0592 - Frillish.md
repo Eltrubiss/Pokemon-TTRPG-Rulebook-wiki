@@ -24,7 +24,7 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 85    |
 >| velocidad   | 40    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Absorbe agua]]
 > - [[Cuerpo maldito]]
 >

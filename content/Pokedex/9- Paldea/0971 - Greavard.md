@@ -23,7 +23,7 @@ tipo1: "Tipo fantasma"
 >| defensa.esp | 55    |
 >| velocidad   | 34    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Recogida]]
 >
 > **[[Habilidad Oculta]]:**

@@ -24,9 +24,9 @@ tipo2: "Tipo lucha"
 >| defensa.esp | 75    |
 >| velocidad   | 105    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]
 > - [[Entusiasmo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Defensa hoja]]
+> - [[El Pokémon/Habilidades/Defensa Hoja]]

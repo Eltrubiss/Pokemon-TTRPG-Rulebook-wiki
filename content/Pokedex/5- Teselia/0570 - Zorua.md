@@ -23,5 +23,5 @@ tipo1: "Tipo siniestro"
 >| defensa.esp | 40    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ilusión]]

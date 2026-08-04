@@ -23,7 +23,7 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 95    |
 >| velocidad   | 29    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Alerta]]
 > - [[Sincronía]]
 >

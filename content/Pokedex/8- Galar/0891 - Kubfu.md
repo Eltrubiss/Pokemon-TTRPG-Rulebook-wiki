@@ -23,5 +23,5 @@ tipo1: "Tipo lucha"
 >| defensa.esp | 50    |
 >| velocidad   | 72    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]

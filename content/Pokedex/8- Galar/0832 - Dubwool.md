@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 90    |
 >| velocidad   | 88    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Peluche]]
 > - [[Impasible]]
 >

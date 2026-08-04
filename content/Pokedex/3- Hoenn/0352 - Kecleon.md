@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 120    |
 >| velocidad   | 40    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cambio color]]
 >
 > **[[Habilidad Oculta]]:**

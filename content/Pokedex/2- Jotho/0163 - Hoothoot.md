@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 56    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Insomnio]]
 > - [[Vista lince]]
 >

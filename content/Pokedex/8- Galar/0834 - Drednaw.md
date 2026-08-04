@@ -24,9 +24,9 @@ tipo2: "Tipo roca"
 >| defensa.esp | 68    |
 >| velocidad   | 74    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Mandíbula fuerte]]
 > - [[Caparazón]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Nado rápido]]
+> - [[El Pokémon/Habilidades/Nado Rápido]]

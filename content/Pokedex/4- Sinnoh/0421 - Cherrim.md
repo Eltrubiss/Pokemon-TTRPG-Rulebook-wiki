@@ -23,5 +23,5 @@ tipo1: "Tipo planta"
 >| defensa.esp | 78    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
-> - [[Don floral]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Don Floral]]

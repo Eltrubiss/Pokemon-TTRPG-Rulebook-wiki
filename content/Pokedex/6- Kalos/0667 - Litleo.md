@@ -24,9 +24,9 @@ tipo2: "Tipo normal"
 >| defensa.esp | 54    |
 >| velocidad   | 72    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Rivalidad]]
 > - [[Nerviosismo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]
+> - [[El Pokémon/Habilidades/Autoestima\|Autoestima]]

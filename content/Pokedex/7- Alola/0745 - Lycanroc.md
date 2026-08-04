@@ -23,9 +23,9 @@ tipo1: "Tipo roca"
 >| defensa.esp | 65    |
 >| velocidad   | 112    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Vista lince]]
-> - [[Ímpetu arena]]
+> - [[El Pokémon/Habilidades/Ímpetu Arena]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[ImpasibleFDIndefensoFN]]

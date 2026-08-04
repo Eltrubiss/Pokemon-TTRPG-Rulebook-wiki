@@ -24,7 +24,7 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 30    |
 >| velocidad   | 40    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ojo compuesto]]
 >
 > **[[Habilidad Oculta]]:**

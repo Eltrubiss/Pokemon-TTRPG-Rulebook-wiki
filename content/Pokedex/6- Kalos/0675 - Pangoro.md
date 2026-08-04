@@ -24,9 +24,9 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 71    |
 >| velocidad   | 58    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Puño férreo]]
-> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
+> - [[El Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Intrépido]]

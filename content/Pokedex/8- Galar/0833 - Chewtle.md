@@ -23,9 +23,9 @@ tipo1: "Tipo agua"
 >| defensa.esp | 38    |
 >| velocidad   | 44    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Mandíbula fuerte]]
 > - [[Caparazón]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Nado rápido]]
+> - [[El Pokémon/Habilidades/Nado Rápido]]

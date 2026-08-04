@@ -23,7 +23,7 @@ tipo1: "Tipo eléctrico"
 >| defensa.esp | 25    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Electricidad estática]]
 > - [[Cura natural]]
 >

@@ -23,8 +23,8 @@ tipo1: "Tipo agua"
 >| defensa.esp | 81    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Torrente\|Torrente]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Torrente\|Torrente]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Voz fluida]]

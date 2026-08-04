@@ -24,7 +24,7 @@ tipo2: "Tipo bicho"
 >| defensa.esp | 72    |
 >| velocidad   | 27    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Pompa]]
 >
 > **[[Habilidad Oculta]]:**

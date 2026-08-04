@@ -23,9 +23,9 @@ tipo1: "Tipo lucha"
 >| defensa.esp | 85    |
 >| velocidad   | 45    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
-> - [[Pokémon/Habilidades/Agallas\|Agallas]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
+> - [[El Pokémon/Habilidades/Agallas\|Agallas]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
+> - [[El Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]

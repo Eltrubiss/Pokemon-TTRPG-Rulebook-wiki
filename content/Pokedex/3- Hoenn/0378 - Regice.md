@@ -23,8 +23,8 @@ tipo1: "Tipo hielo"
 >| defensa.esp | 200    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cuerpo puro]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
+> - [[El Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]

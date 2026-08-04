@@ -24,7 +24,7 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 61    |
 >| velocidad   | 84    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Hedor]]
 > - [[Detonación]]
 >

@@ -24,8 +24,8 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 90    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Efecto espora]]

@@ -24,9 +24,9 @@ tipo2: "Tipo lucha"
 >| defensa.esp | 115    |
 >| velocidad   | 58    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Mudar]]
-> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]
+> - [[El Pokémon/Habilidades/Autoestima\|Autoestima]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Intimidación]]

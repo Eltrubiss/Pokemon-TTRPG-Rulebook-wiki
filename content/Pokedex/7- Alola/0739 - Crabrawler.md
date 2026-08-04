@@ -23,7 +23,7 @@ tipo1: "Tipo lucha"
 >| defensa.esp | 47    |
 >| velocidad   | 63    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Corte fuerte]]
 > - [[Puño férreo]]
 >

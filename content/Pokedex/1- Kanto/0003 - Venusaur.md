@@ -24,8 +24,8 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 100    |
 >| velocidad   | 80    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Espesura\|Espesura]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Espesura\|Espesura]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]

@@ -24,7 +24,7 @@ tipo2: "Tipo normal"
 >| defensa.esp | 35    |
 >| velocidad   | 75    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Liviano]]
 > - [[Hurto]]
 >

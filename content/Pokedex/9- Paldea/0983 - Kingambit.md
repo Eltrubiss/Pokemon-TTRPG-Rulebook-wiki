@@ -24,7 +24,7 @@ tipo2: "Tipo acero"
 >| defensa.esp | 85    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Competitivo]]
 > - [[General supremo]]
 >

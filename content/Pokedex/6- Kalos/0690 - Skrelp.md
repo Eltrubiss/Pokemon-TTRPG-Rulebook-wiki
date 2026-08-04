@@ -24,7 +24,7 @@ tipo2: "Tipo agua"
 >| defensa.esp | 60    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Punto tóxico]]
 > - [[Toque tóxico]]
 >

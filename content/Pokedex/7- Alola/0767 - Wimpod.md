@@ -24,5 +24,5 @@ tipo2: "Tipo agua"
 >| defensa.esp | 30    |
 >| velocidad   | 80    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Huida]]

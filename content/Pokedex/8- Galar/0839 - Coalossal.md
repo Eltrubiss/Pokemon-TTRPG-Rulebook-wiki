@@ -24,7 +24,7 @@ tipo2: "Tipo fuego"
 >| defensa.esp | 90    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Combustible]]
 > - [[Cuerpo llama]]
 >

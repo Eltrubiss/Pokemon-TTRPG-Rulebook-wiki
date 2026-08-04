@@ -24,7 +24,7 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 80    |
 >| velocidad   | 120    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Presión]]
 > - [[Liviano]]
 >

@@ -24,7 +24,7 @@ tipo2: "Tipo agua"
 >| defensa.esp | 60    |
 >| velocidad   | 71    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Simple]]
 > - [[Ignorante]]
 >

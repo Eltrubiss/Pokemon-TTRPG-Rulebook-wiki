@@ -24,7 +24,7 @@ tipo2: "Tipo agua"
 >| defensa.esp | 95    |
 >| velocidad   | 82    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Comandar]]
 >
 > **[[Habilidad Oculta]]:**

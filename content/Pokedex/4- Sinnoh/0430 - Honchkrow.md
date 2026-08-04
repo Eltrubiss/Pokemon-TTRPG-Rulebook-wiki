@@ -24,9 +24,9 @@ tipo2: "Tipo volador"
 >| defensa.esp | 52    |
 >| velocidad   | 71    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Insomnio]]
 > - [[Afortunado]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]
+> - [[El Pokémon/Habilidades/Autoestima\|Autoestima]]

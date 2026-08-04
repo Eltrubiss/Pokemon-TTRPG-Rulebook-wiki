@@ -24,8 +24,8 @@ tipo2: "Tipo normal"
 >| defensa.esp | 80    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Agallas\|Agallas]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Agallas\|Agallas]]
 > - [[Antibalas]]
 >
 > **[[Habilidad Oculta]]:**

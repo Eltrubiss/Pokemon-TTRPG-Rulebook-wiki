@@ -23,8 +23,8 @@ tipo1: "Tipo hielo"
 >| defensa.esp | 45    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Entusiasmo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
+> - [[El Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]

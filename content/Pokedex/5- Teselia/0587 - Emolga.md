@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 60    |
 >| velocidad   | 103    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Electricidad estática]]
 >
 > **[[Habilidad Oculta]]:**

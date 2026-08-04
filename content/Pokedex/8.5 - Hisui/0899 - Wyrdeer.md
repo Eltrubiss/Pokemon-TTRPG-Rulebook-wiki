@@ -24,7 +24,7 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 75    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Intimidación]]
 > - [[Cacheo]]
 >

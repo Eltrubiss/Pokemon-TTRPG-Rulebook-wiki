@@ -24,5 +24,5 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 65    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Alma errante]]

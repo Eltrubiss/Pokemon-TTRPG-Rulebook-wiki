@@ -23,5 +23,5 @@ tipo1: "Tipo hielo"
 >| defensa.esp | 135    |
 >| velocidad   | 105    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Levitación]]

@@ -24,8 +24,8 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 75    |
 >| velocidad   | 45    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cacheo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Cosecha\|Cosecha]]
+> - [[El Pokémon/Habilidades/Cosecha\|Cosecha]]

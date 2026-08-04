@@ -24,9 +24,9 @@ tipo2: "Tipo acero"
 >| defensa.esp | 150    |
 >| velocidad   | 40    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Imán]]
 > - [[Robustez]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Poder arena]]
+> - [[El Pokémon/Habilidades/Poder Arena]]

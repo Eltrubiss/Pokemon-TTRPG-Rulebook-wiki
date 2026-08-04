@@ -23,8 +23,8 @@ tipo1: "Tipo agua"
 >| defensa.esp | 55    |
 >| velocidad   | 98    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Audaz]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
+> - [[El Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]

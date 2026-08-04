@@ -23,8 +23,8 @@ tipo1: "Tipo tierra"
 >| defensa.esp | 40    |
 >| velocidad   | 40    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Recogida]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
+> - [[El Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]

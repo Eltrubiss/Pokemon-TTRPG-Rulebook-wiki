@@ -24,7 +24,7 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 75    |
 >| velocidad   | 95    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Armadura batalla]]
 > - [[Francotirador]]
 >

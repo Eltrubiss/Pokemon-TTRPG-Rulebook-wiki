@@ -24,9 +24,9 @@ tipo2: "Tipo agua"
 >| defensa.esp | 45    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Armadura batalla]]
-> - [[Nado rápido]]
+> - [[El Pokémon/Habilidades/Nado Rápido]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Armadura frágil]]

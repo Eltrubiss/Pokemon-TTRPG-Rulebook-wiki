@@ -23,7 +23,7 @@ tipo1: "Tipo fuego"
 >| defensa.esp | 66    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Gula]]
 > - [[Absorbe fuego]]
 >

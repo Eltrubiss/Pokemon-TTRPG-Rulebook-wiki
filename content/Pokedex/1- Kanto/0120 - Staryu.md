@@ -23,7 +23,7 @@ tipo1: "Tipo agua"
 >| defensa.esp | 55    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Iluminación]]
 > - [[Cura natural]]
 >

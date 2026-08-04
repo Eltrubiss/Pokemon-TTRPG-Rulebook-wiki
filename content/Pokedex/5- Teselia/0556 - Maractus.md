@@ -23,9 +23,9 @@ tipo1: "Tipo planta"
 >| defensa.esp | 67    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Absorbe agua]]
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Colector]]

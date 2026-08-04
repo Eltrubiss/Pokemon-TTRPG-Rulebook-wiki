@@ -24,7 +24,7 @@ tipo2: "Tipo normal"
 >| defensa.esp | 61    |
 >| velocidad   | 100    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Recogida]]
 > - [[Gula]]
 >

@@ -23,8 +23,8 @@ tipo1: "Tipo normal"
 >| defensa.esp | 75    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Agallas\|Agallas]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Agallas\|Agallas]]
 > - [[Pies rápidos]]
 >
 > **[[Habilidad Oculta]]:**

@@ -24,8 +24,8 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 95    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
-> - [[Nado rápido]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Nado Rápido]]
 > - [[Francotirador]]
 >
 > **[[Habilidad Oculta]]:**

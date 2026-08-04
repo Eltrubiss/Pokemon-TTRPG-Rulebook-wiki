@@ -24,9 +24,9 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 41    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Despiste]]
 > - [[Anticipación]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
+> - [[El Pokémon/Habilidades/Hidratación\|Hidratación]]

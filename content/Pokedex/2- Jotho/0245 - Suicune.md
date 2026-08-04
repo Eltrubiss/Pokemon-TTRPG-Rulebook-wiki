@@ -23,7 +23,7 @@ tipo1: "Tipo agua"
 >| defensa.esp | 115    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Presión]]
 >
 > **[[Habilidad Oculta]]:**

@@ -23,5 +23,5 @@ tipo1: "Tipo tierra"
 >| defensa.esp | 90    |
 >| velocidad   | 90    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sequía]]

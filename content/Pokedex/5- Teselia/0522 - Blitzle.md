@@ -23,7 +23,7 @@ tipo1: "Tipo eléctrico"
 >| defensa.esp | 32    |
 >| velocidad   | 76    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Pararrayos]]
 > - [[Electromotor]]
 >

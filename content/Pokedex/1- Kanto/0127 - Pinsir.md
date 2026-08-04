@@ -23,9 +23,9 @@ tipo1: "Tipo bicho"
 >| defensa.esp | 70    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Corte fuerte]]
-> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
+> - [[El Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]
+> - [[El Pokémon/Habilidades/Autoestima\|Autoestima]]

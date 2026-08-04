@@ -23,9 +23,9 @@ tipo1: "Tipo hielo"
 >| defensa.esp | 80    |
 >| velocidad   | 80    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
-> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
+> - [[El Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Veleta]]

@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 60    |
 >| velocidad   | 125    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Energía eólica]]
 > - [[Absorbe electricidad]]
 >

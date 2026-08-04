@@ -24,8 +24,8 @@ tipo2: "Tipo volador"
 >| defensa.esp | 50    |
 >| velocidad   | 125    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Agallas\|Agallas]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Agallas\|Agallas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Intrépido]]

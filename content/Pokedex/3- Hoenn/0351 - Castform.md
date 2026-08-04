@@ -23,5 +23,5 @@ tipo1: "Tipo normal"
 >| defensa.esp | 70    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Predicción\|Predicción]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Predicción\|Predicción]]

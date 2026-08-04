@@ -23,8 +23,8 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 80    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 > - [[Sebo]]
 >
 > **[[Habilidad Oculta]]:**

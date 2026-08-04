@@ -24,5 +24,5 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 49    |
 >| velocidad   | 35    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Indefenso]]

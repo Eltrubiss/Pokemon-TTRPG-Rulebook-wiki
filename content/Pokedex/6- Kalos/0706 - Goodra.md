@@ -23,9 +23,9 @@ tipo1: "Tipo dragón"
 >| defensa.esp | 150    |
 >| velocidad   | 80    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Herbívoro]]
-> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
+> - [[El Pokémon/Habilidades/Hidratación\|Hidratación]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Baba]]

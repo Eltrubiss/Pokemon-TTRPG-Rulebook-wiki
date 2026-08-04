@@ -24,5 +24,5 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 70    |
 >| velocidad   | 58    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Entusiasmo]]

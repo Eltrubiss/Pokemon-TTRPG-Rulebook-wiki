@@ -23,7 +23,7 @@ tipo1: "Tipo hada"
 >| defensa.esp | 130    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Gran encanto]]
 >
 > **[[Habilidad Oculta]]:**

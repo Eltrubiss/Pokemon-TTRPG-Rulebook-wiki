@@ -24,9 +24,9 @@ tipo2: "Tipo hielo"
 >| defensa.esp | 45    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Caparazón]]
-> - [[Pokémon/Habilidades/Encadenado\|Encadenado]]
+> - [[El Pokémon/Habilidades/Encadenado\|Encadenado]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Funda\|Funda]]
+> - [[El Pokémon/Habilidades/Funda\|Funda]]

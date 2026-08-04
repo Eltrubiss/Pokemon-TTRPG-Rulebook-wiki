@@ -24,5 +24,5 @@ tipo2: "Tipo planta"
 >| defensa.esp | 135    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Tablilla debacle]]

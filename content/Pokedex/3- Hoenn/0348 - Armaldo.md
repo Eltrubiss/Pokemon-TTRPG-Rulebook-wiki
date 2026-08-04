@@ -24,8 +24,8 @@ tipo2: "Tipo bicho"
 >| defensa.esp | 80    |
 >| velocidad   | 45    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Armadura batalla]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Nado rápido]]
+> - [[El Pokémon/Habilidades/Nado Rápido]]

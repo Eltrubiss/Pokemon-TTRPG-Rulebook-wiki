@@ -24,5 +24,5 @@ tipo2: "Tipo volador"
 >| defensa.esp | 100    |
 >| velocidad   | 95    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Tenacidad]]

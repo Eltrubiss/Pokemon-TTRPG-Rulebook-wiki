@@ -23,7 +23,7 @@ tipo1: "Tipo eléctrico"
 >| defensa.esp | 100    |
 >| velocidad   | 115    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Presión]]
 >
 > **[[Habilidad Oculta]]:**

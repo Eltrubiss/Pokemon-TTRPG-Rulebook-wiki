@@ -24,5 +24,5 @@ tipo2: "Tipo acero"
 >| defensa.esp | 95    |
 >| velocidad   | 99    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Descarga]]

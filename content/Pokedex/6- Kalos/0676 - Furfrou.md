@@ -23,5 +23,5 @@ tipo1: "Tipo normal"
 >| defensa.esp | 90    |
 >| velocidad   | 102    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Pelaje recio]]

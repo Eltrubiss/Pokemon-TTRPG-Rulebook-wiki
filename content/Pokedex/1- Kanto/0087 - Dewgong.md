@@ -24,9 +24,9 @@ tipo2: "Tipo hielo"
 >| defensa.esp | 95    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sebo]]
-> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
+> - [[El Pokémon/Habilidades/Hidratación\|Hidratación]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
+> - [[El Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]

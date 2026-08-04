@@ -23,7 +23,7 @@ tipo1: "Tipo bicho"
 >| defensa.esp | 58    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ojo compuesto]]
 >
 > **[[Habilidad Oculta]]:**

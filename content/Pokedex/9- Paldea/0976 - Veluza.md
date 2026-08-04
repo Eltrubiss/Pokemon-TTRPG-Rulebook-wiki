@@ -24,8 +24,8 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 65    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Cortante]]

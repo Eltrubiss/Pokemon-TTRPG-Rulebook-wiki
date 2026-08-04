@@ -24,5 +24,5 @@ tipo2: "Tipo eléctrico"
 >| defensa.esp | 100    |
 >| velocidad   | 90    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Terravoltaje\|Terravoltaje]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Terravoltaje\|Terravoltaje]]

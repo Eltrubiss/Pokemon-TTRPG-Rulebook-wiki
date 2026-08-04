@@ -23,7 +23,7 @@ tipo1: "Tipo bicho"
 >| defensa.esp | 20    |
 >| velocidad   | 45    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Polvo escudo]]
 >
 > **[[Habilidad Oculta]]:**

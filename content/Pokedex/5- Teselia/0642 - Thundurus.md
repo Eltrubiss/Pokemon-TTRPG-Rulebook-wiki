@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 80    |
 >| velocidad   | 111    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Bromista]]
 >
 > **[[Habilidad Oculta]]:**

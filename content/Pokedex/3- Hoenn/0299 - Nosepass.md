@@ -23,9 +23,9 @@ tipo1: "Tipo roca"
 >| defensa.esp | 90    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Imán]]
 > - [[Robustez]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Poder arena]]
+> - [[El Pokémon/Habilidades/Poder Arena]]

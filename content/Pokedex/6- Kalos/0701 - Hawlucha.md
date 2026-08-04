@@ -24,9 +24,9 @@ tipo2: "Tipo volador"
 >| defensa.esp | 63    |
 >| velocidad   | 118    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Flexibilidad]]
 > - [[Liviano]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
+> - [[El Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]

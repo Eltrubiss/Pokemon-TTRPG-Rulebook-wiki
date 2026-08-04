@@ -24,8 +24,8 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 71    |
 >| velocidad   | 122    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Torrente\|Torrente]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Torrente\|Torrente]]
 > - [[Fuerte afecto]]
 >
 > **[[Habilidad Oculta]]:**

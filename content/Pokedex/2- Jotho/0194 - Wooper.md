@@ -24,7 +24,7 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 25    |
 >| velocidad   | 15    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Humedad]]
 > - [[Absorbe agua]]
 >

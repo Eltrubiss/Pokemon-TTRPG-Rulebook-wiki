@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 42    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Recogemiel]]
 >
 > **[[Habilidad Oculta]]:**

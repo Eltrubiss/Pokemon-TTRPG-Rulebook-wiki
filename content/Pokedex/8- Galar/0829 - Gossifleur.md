@@ -23,7 +23,7 @@ tipo1: "Tipo planta"
 >| defensa.esp | 60    |
 >| velocidad   | 10    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Pelusa]]
 > - [[Regeneración]]
 >

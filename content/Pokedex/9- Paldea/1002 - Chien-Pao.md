@@ -24,5 +24,5 @@ tipo2: "Tipo hielo"
 >| defensa.esp | 65    |
 >| velocidad   | 135    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Espada debacle]]

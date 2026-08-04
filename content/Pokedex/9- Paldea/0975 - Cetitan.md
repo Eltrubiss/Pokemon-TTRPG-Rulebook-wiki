@@ -23,9 +23,9 @@ tipo1: "Tipo hielo"
 >| defensa.esp | 55    |
 >| velocidad   | 73    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sebo]]
-> - [[Pokémon/Habilidades/Quitanieves\|Quitanieves]]
+> - [[El Pokémon/Habilidades/Quitanieves\|Quitanieves]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Potencia bruta]]

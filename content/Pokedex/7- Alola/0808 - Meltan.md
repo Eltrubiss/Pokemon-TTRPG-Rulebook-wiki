@@ -23,5 +23,5 @@ tipo1: "Tipo acero"
 >| defensa.esp | 35    |
 >| velocidad   | 34    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Imán]]

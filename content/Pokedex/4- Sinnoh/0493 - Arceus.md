@@ -23,5 +23,5 @@ tipo1: "Tipo normal"
 >| defensa.esp | 120    |
 >| velocidad   | 120    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Multitipo]]

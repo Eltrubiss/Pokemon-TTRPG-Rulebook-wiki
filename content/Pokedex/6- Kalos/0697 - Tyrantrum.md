@@ -24,7 +24,7 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 59    |
 >| velocidad   | 71    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Mandíbula fuerte]]
 >
 > **[[Habilidad Oculta]]:**

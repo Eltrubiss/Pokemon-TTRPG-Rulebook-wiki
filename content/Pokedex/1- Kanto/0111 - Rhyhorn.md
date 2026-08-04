@@ -24,7 +24,7 @@ tipo2: "Tipo roca"
 >| defensa.esp | 30    |
 >| velocidad   | 25    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Pararrayos]]
 > - [[Cabeza roca]]
 >

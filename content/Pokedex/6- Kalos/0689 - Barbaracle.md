@@ -24,7 +24,7 @@ tipo2: "Tipo agua"
 >| defensa.esp | 86    |
 >| velocidad   | 68    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Garra dura]]
 > - [[Francotirador]]
 >

@@ -24,5 +24,5 @@ tipo2: "Tipo volador"
 >| defensa.esp | 70    |
 >| velocidad   | 93    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Pareja de baile]]

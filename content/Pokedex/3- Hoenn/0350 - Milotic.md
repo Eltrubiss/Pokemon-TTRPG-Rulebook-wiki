@@ -23,7 +23,7 @@ tipo1: "Tipo agua"
 >| defensa.esp | 125    |
 >| velocidad   | 81    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Escama especial]]
 > - [[Tenacidad]]
 >

@@ -23,7 +23,7 @@ tipo1: "Tipo fuego"
 >| defensa.esp | 40    |
 >| velocidad   | 20    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cuerpo llama]]
 > - [[Escudo magma]]
 >

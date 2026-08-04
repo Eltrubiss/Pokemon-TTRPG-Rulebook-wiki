@@ -24,7 +24,7 @@ tipo2: "Tipo roca"
 >| defensa.esp | 75    |
 >| velocidad   | 45    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Robustez]]
 > - [[Caparazón]]
 >

@@ -23,8 +23,8 @@ tipo1: "Tipo agua"
 >| defensa.esp | 50    |
 >| velocidad   | 63    |
 >___
-> **[[Habilidades]]:**
-> - [[Nado rápido]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Nado Rápido]]
 > - [[Velo agua]]
 >
 > **[[Habilidad Oculta]]:**

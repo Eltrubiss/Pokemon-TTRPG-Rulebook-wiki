@@ -24,7 +24,7 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 30    |
 >| velocidad   | 82    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cuerpo puro]]
 > - [[Allanamiento]]
 >

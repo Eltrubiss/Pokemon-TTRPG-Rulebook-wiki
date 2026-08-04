@@ -24,8 +24,8 @@ tipo2: "Tipo fuego"
 >| defensa.esp | 105    |
 >| velocidad   | 100    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cuerpo llama]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
+> - [[El Pokémon/Habilidades/Enjambre\|Enjambre]]

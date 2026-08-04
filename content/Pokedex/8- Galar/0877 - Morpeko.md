@@ -24,5 +24,5 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 58    |
 >| velocidad   | 97    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Mutapetito]]

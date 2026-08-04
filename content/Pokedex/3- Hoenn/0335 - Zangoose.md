@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 60    |
 >| velocidad   | 90    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Inmunidad]]
 >
 > **[[Habilidad Oculta]]:**

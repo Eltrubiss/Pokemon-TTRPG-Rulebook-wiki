@@ -24,7 +24,7 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 120    |
 >| velocidad   | 100    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Presión]]
 >
 > **[[Habilidad Oculta]]:**

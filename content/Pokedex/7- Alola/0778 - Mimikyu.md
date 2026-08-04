@@ -24,5 +24,5 @@ tipo2: "Tipo hada"
 >| defensa.esp | 105    |
 >| velocidad   | 96    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Disfraz]]

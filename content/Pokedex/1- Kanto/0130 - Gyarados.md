@@ -24,8 +24,8 @@ tipo2: "Tipo volador"
 >| defensa.esp | 100    |
 >| velocidad   | 81    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Intimidación]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]
+> - [[El Pokémon/Habilidades/Autoestima\|Autoestima]]

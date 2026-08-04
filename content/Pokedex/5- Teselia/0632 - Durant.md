@@ -24,8 +24,8 @@ tipo2: "Tipo acero"
 >| defensa.esp | 48    |
 >| velocidad   | 109    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Enjambre\|Enjambre]]
 > - [[Entusiasmo]]
 >
 > **[[Habilidad Oculta]]:**

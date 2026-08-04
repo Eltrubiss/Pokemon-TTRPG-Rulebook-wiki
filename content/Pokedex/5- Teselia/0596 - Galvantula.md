@@ -24,9 +24,9 @@ tipo2: "Tipo eléctrico"
 >| defensa.esp | 60    |
 >| velocidad   | 108    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ojo compuesto]]
 > - [[Nerviosismo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
+> - [[El Pokémon/Habilidades/Enjambre\|Enjambre]]

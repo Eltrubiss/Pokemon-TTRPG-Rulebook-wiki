@@ -24,7 +24,7 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 65    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Vista lince]]
 > - [[Rezagado]]
 >

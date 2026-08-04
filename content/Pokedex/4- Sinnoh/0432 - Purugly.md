@@ -23,9 +23,9 @@ tipo1: "Tipo normal"
 >| defensa.esp | 59    |
 >| velocidad   | 112    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sebo]]
-> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
+> - [[El Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Competitivo]]

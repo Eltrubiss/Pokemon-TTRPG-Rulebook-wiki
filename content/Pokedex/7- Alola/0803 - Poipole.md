@@ -23,5 +23,5 @@ tipo1: "Tipo veneno"
 >| defensa.esp | 67    |
 >| velocidad   | 73    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ultraimpulso]]

@@ -23,5 +23,5 @@ tipo1: "Tipo siniestro"
 >| defensa.esp | 90    |
 >| velocidad   | 125    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Mal sueño]]

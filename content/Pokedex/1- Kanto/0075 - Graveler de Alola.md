@@ -24,7 +24,7 @@ tipo2: "Tipo eléctrico"
 >| defensa.esp | 45    |
 >| velocidad   | 35    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Imán]]
 > - [[Robustez]]
 >

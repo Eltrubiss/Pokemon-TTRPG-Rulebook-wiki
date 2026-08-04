@@ -23,9 +23,9 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 40    |
 >| velocidad   | 15    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Gula]]
-> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
+> - [[El Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Regeneración]]

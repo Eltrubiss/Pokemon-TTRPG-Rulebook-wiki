@@ -24,7 +24,7 @@ tipo2: "Tipo normal"
 >| defensa.esp | 72    |
 >| velocidad   | 110    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Liviano]]
 > - [[Toque tóxico]]
 >

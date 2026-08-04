@@ -23,5 +23,5 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 70    |
 >| velocidad   | 115    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Levitación]]

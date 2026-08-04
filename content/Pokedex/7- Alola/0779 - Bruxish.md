@@ -24,7 +24,7 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 70    |
 >| velocidad   | 92    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cuerpo vívido]]
 > - [[Mandíbula fuerte]]
 >

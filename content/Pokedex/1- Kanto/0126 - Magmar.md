@@ -23,7 +23,7 @@ tipo1: "Tipo fuego"
 >| defensa.esp | 85    |
 >| velocidad   | 93    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cuerpo llama]]
 >
 > **[[Habilidad Oculta]]:**

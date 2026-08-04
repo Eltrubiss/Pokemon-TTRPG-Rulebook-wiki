@@ -24,9 +24,9 @@ tipo2: "Tipo volador"
 >| defensa.esp | 30    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Vista lince]]
-> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
+> - [[El Pokémon/Habilidades/Hidratación\|Hidratación]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Cura lluvia]]
+> - [[El Pokémon/Habilidades/Cura Lluvia]]

@@ -23,9 +23,9 @@ tipo1: "Tipo planta"
 >| defensa.esp | 50    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
-> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]
+> - [[El Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Defensa hoja]]
+> - [[El Pokémon/Habilidades/Defensa Hoja]]

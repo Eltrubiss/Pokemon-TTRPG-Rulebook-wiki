@@ -24,7 +24,7 @@ tipo2: "Tipo hada"
 >| defensa.esp | 20    |
 >| velocidad   | 15    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Gran encanto]]
 > - [[Tenacidad]]
 >

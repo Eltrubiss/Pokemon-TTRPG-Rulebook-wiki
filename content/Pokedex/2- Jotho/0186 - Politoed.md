@@ -23,7 +23,7 @@ tipo1: "Tipo agua"
 >| defensa.esp | 100    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Absorbe agua]]
 > - [[Humedad]]
 >

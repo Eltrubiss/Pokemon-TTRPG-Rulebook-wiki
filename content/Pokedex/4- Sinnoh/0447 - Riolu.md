@@ -23,9 +23,9 @@ tipo1: "Tipo lucha"
 >| defensa.esp | 40    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Impasible]]
-> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
+> - [[El Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Bromista]]

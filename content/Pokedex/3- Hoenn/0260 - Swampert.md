@@ -24,8 +24,8 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 90    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Torrente\|Torrente]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Torrente\|Torrente]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Humedad]]

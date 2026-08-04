@@ -24,7 +24,7 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 100    |
 >| velocidad   | 20    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Punto tóxico]]
 > - [[Absorbe agua]]
 >

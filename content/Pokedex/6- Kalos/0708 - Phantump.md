@@ -24,9 +24,9 @@ tipo2: "Tipo planta"
 >| defensa.esp | 60    |
 >| velocidad   | 38    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cura natural]]
 > - [[Cacheo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Cosecha\|Cosecha]]
+> - [[El Pokémon/Habilidades/Cosecha\|Cosecha]]

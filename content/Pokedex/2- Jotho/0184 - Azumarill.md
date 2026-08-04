@@ -24,7 +24,7 @@ tipo2: "Tipo hada"
 >| defensa.esp | 80    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sebo]]
 > - [[Potencia]]
 >

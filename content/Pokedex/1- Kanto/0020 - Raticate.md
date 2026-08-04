@@ -23,9 +23,9 @@ tipo1: "Tipo normal"
 >| defensa.esp | 70    |
 >| velocidad   | 97    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Fuga]]
-> - [[Pokémon/Habilidades/Agallas\|Agallas]]
+> - [[El Pokémon/Habilidades/Agallas\|Agallas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Entusiasmo]]

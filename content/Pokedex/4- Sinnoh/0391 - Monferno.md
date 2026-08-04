@@ -24,8 +24,8 @@ tipo2: "Tipo lucha"
 >| defensa.esp | 52    |
 >| velocidad   | 81    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Puño férreo]]

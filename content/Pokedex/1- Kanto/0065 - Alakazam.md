@@ -23,9 +23,9 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 95    |
 >| velocidad   | 120    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 > - [[Sincronía]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Muro mágico]]
+> - [[El Pokémon/Habilidades/Muro Mágico]]

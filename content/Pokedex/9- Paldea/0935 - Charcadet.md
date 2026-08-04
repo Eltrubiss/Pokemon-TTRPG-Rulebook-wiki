@@ -23,7 +23,7 @@ tipo1: "Tipo fuego"
 >| defensa.esp | 40    |
 >| velocidad   | 35    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Absorbe fuego]]
 >
 > **[[Habilidad Oculta]]:**

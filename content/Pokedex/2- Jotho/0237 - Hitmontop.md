@@ -23,7 +23,7 @@ tipo1: "Tipo lucha"
 >| defensa.esp | 110    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Intimidación]]
 > - [[Experto]]
 >

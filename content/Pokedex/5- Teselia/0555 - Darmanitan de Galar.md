@@ -23,7 +23,7 @@ tipo1: "Tipo hielo"
 >| defensa.esp | 55    |
 >| velocidad   | 95    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Monotema]]
 >
 > **[[Habilidad Oculta]]:**

@@ -24,8 +24,8 @@ tipo2: "Tipo planta"
 >| defensa.esp | 105    |
 >| velocidad   | 36    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Anticipación]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Funda\|Funda]]
+> - [[El Pokémon/Habilidades/Funda\|Funda]]

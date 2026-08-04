@@ -24,7 +24,7 @@ tipo2: "Tipo hielo"
 >| defensa.esp | 63    |
 >| velocidad   | 46    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Piel helada]]
 >
 > **[[Habilidad Oculta]]:**

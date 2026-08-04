@@ -23,7 +23,7 @@ tipo1: "Tipo volador"
 >| defensa.esp | 55    |
 >| velocidad   | 77    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Vista lince]]
 > - [[Nerviosismo]]
 >

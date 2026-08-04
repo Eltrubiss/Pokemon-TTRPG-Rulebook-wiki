@@ -24,7 +24,7 @@ tipo2: "Tipo planta"
 >| defensa.esp | 87    |
 >| velocidad   | 23    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ventosas]]
 >
 > **[[Habilidad Oculta]]:**

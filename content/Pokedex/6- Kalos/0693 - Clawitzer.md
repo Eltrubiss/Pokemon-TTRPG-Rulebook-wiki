@@ -23,5 +23,5 @@ tipo1: "Tipo agua"
 >| defensa.esp | 89    |
 >| velocidad   | 59    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Megadisparador]]

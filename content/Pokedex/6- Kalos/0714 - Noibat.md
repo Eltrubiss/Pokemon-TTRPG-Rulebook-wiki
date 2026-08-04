@@ -24,7 +24,7 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 40    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cacheo]]
 > - [[Allanamiento]]
 >

@@ -23,5 +23,5 @@ tipo1: "Tipo acero"
 >| defensa.esp | 65    |
 >| velocidad   | 34    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Puño férreo]]

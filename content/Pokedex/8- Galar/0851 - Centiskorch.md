@@ -24,7 +24,7 @@ tipo2: "Tipo bicho"
 >| defensa.esp | 90    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Absorbe fuego]]
 > - [[Humo blanco]]
 >

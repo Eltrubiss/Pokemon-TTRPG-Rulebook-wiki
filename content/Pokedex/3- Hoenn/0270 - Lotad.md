@@ -24,9 +24,9 @@ tipo2: "Tipo planta"
 >| defensa.esp | 50    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
-> - [[Nado rápido]]
-> - [[Cura lluvia]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Nado Rápido]]
+> - [[El Pokémon/Habilidades/Cura Lluvia]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
+> - [[El Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]

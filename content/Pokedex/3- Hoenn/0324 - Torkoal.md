@@ -23,7 +23,7 @@ tipo1: "Tipo fuego"
 >| defensa.esp | 70    |
 >| velocidad   | 20    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Humo blanco]]
 > - [[Sequía]]
 >

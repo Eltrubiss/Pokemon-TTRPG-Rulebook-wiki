@@ -24,7 +24,7 @@ tipo2: "Tipo acero"
 >| defensa.esp | 106    |
 >| velocidad   | 77    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Absorbe fuego]]
 >
 > **[[Habilidad Oculta]]:**

@@ -24,8 +24,8 @@ tipo2: "Tipo normal"
 >| defensa.esp | 109    |
 >| velocidad   | 39    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Disemillar]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Cosecha\|Cosecha]]
+> - [[El Pokémon/Habilidades/Cosecha\|Cosecha]]

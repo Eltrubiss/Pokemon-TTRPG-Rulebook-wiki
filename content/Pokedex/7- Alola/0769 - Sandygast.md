@@ -24,8 +24,8 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 45    |
 >| velocidad   | 15    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Hidrorrefuerzo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
+> - [[El Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]

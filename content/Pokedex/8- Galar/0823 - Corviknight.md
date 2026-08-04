@@ -24,7 +24,7 @@ tipo2: "Tipo acero"
 >| defensa.esp | 85    |
 >| velocidad   | 67    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Presión]]
 > - [[Nerviosismo]]
 >

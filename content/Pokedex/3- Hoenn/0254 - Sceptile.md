@@ -23,8 +23,8 @@ tipo1: "Tipo planta"
 >| defensa.esp | 85    |
 >| velocidad   | 120    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Espesura\|Espesura]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Espesura\|Espesura]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Liviano]]

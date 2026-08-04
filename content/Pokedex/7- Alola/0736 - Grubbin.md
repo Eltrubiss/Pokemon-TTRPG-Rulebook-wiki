@@ -23,5 +23,5 @@ tipo1: "Tipo bicho"
 >| defensa.esp | 45    |
 >| velocidad   | 46    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Enjambre\|Enjambre]]

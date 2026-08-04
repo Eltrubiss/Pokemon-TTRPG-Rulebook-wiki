@@ -23,9 +23,9 @@ tipo1: "Tipo planta"
 >| defensa.esp | 40    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
-> - [[Defensa hoja]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]
+> - [[El Pokémon/Habilidades/Defensa Hoja]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Regeneración]]

@@ -24,7 +24,7 @@ tipo2: "Tipo lucha"
 >| defensa.esp | 40    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Absorbe electricidad]]
 > - [[Cura natural]]
 >

@@ -24,5 +24,5 @@ tipo2: "Tipo eléctrico"
 >| defensa.esp | 75    |
 >| velocidad   | 36    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Batería]]

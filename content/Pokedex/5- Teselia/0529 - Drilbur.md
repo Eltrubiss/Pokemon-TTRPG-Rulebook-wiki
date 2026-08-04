@@ -23,9 +23,9 @@ tipo1: "Tipo tierra"
 >| defensa.esp | 45    |
 >| velocidad   | 68    |
 >___
-> **[[Habilidades]]:**
-> - [[Ímpetu arena]]
-> - [[Poder arena]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Ímpetu Arena]]
+> - [[El Pokémon/Habilidades/Poder Arena]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
+> - [[El Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]

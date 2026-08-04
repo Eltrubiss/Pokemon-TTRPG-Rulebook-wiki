@@ -24,7 +24,7 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 46    |
 >| velocidad   | 45    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Respondón]]
 > - [[Ventosas]]
 >

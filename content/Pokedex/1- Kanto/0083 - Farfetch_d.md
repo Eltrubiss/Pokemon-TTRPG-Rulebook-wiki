@@ -24,9 +24,9 @@ tipo2: "Tipo volador"
 >| defensa.esp | 62    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Vista lince]]
-> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
+> - [[El Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Competitivo]]

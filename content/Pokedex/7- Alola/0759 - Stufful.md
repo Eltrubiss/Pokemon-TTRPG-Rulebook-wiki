@@ -24,7 +24,7 @@ tipo2: "Tipo lucha"
 >| defensa.esp | 50    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Peluche]]
 > - [[Zoquete]]
 >

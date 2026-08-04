@@ -23,7 +23,7 @@ tipo1: "Tipo siniestro"
 >| defensa.esp | 70    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Intimidación]]
 > - [[Perro guardián]]
 >

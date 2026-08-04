@@ -23,7 +23,7 @@ tipo1: "Tipo bicho"
 >| defensa.esp | 85    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Despiste]]
 > - [[Cromolente]]
 >

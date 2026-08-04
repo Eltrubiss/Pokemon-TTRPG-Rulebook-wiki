@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 85    |
 >| velocidad   | 5    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Recogida]]
 > - [[Sebo]]
 >

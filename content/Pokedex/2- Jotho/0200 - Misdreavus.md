@@ -23,5 +23,5 @@ tipo1: "Tipo fantasma"
 >| defensa.esp | 85    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Levitación]]

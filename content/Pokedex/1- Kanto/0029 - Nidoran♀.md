@@ -23,7 +23,7 @@ tipo1: "Tipo veneno"
 >| defensa.esp | 40    |
 >| velocidad   | 41    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Punto tóxico]]
 > - [[Rivalidad]]
 >

@@ -24,5 +24,5 @@ tipo2: "Tipo fuego"
 >| defensa.esp | 120    |
 >| velocidad   | 100    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Abalorio debacle]]

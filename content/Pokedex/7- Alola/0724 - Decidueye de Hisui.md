@@ -24,8 +24,8 @@ tipo2: "Tipo lucha"
 >| defensa.esp | 95    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Espesura\|Espesura]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Espesura\|Espesura]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Intrépido1]]

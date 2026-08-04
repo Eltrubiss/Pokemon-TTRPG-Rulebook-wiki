@@ -24,7 +24,7 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 50    |
 >| velocidad   | 35    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Puño férreo]]
 > - [[Zoquete]]
 >

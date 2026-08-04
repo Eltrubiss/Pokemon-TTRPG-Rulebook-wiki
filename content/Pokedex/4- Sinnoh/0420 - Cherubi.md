@@ -23,5 +23,5 @@ tipo1: "Tipo planta"
 >| defensa.esp | 53    |
 >| velocidad   | 35    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]

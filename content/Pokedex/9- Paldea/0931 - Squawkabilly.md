@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 51    |
 >| velocidad   | 92    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Intimidación]]
 > - [[Entusiasmo]]
 >

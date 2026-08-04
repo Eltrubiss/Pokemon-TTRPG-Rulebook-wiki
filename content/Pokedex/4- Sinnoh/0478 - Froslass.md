@@ -24,8 +24,8 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 70    |
 >| velocidad   | 110    |
 >___
-> **[[Habilidades]]:**
-> - [[Manto níveo]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Manto Níveo]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Cuerpo maldito]]

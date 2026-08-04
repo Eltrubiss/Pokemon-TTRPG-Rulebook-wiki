@@ -23,8 +23,8 @@ tipo1: "Tipo eléctrico"
 >| defensa.esp | 35    |
 >| velocidad   | 45    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 > - [[Electricidad estática]]
 >
 > **[[Habilidad Oculta]]:**

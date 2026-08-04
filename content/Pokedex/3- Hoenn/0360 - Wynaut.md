@@ -23,7 +23,7 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 48    |
 >| velocidad   | 23    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sombra trampa]]
 >
 > **[[Habilidad Oculta]]:**

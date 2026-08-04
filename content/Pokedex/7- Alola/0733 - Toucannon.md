@@ -24,9 +24,9 @@ tipo2: "Tipo volador"
 >| defensa.esp | 75    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Vista lince]]
-> - [[Pokémon/Habilidades/Encadenado\|Encadenado]]
+> - [[El Pokémon/Habilidades/Encadenado\|Encadenado]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Potencia bruta]]

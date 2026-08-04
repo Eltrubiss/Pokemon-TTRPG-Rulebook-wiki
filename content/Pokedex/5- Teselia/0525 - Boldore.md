@@ -23,9 +23,9 @@ tipo1: "Tipo roca"
 >| defensa.esp | 40    |
 >| velocidad   | 20    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Robustez]]
 > - [[Armadura frágil]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Poder arena]]
+> - [[El Pokémon/Habilidades/Poder Arena]]

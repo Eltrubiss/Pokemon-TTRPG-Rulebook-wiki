@@ -24,8 +24,8 @@ tipo2: "Tipo hielo"
 >| defensa.esp | 45    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Termoconversión]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
+> - [[El Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]

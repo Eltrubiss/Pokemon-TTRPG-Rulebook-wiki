@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 30    |
 >| velocidad   | 43    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sacapecho]]
 > - [[Afortunado]]
 >

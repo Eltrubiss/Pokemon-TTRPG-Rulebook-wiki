@@ -24,7 +24,7 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 40    |
 >| velocidad   | 95    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Piel tosca]]
 >
 > **[[Habilidad Oculta]]:**

@@ -24,7 +24,7 @@ tipo2: "Tipo hada"
 >| defensa.esp | 70    |
 >| velocidad   | 124    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Recogemiel]]
 > - [[Polvo escudo]]
 >

@@ -24,8 +24,8 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 75    |
 >| velocidad   | 74    |
 >___
-> **[[Habilidades]]:**
-> - [[Nado rápido]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Nado Rápido]]
 > - [[Toque tóxico]]
 >
 > **[[Habilidad Oculta]]:**

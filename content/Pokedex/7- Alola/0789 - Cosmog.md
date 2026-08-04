@@ -23,5 +23,5 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 31    |
 >| velocidad   | 37    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ignorante]]

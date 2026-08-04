@@ -24,5 +24,5 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 108    |
 >| velocidad   | 98    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Carga cuark]]

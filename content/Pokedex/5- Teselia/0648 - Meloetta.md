@@ -24,5 +24,5 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 128    |
 >| velocidad   | 90    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Dicha]]

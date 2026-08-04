@@ -23,8 +23,8 @@ tipo1: "Tipo lucha"
 >| defensa.esp | 85    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Agallas\|Agallas]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Agallas\|Agallas]]
 > - [[Indefenso]]
 >
 > **[[Habilidad Oculta]]:**

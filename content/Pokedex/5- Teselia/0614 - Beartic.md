@@ -23,9 +23,9 @@ tipo1: "Tipo hielo"
 >| defensa.esp | 80    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
-> - [[Manto níveo]]
-> - [[Pokémon/Habilidades/Quitanieves\|Quitanieves]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Manto Níveo]]
+> - [[El Pokémon/Habilidades/Quitanieves\|Quitanieves]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Nado rápido]]
+> - [[El Pokémon/Habilidades/Nado Rápido]]

@@ -23,9 +23,9 @@ tipo1: "Tipo lucha"
 >| defensa.esp | 48    |
 >| velocidad   | 43    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Puño férreo]]
-> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
+> - [[El Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Intrépido]]

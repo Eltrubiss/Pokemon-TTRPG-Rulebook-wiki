@@ -23,9 +23,9 @@ tipo1: "Tipo hielo"
 >| defensa.esp | 40    |
 >| velocidad   | 43    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sebo]]
-> - [[Manto níveo]]
+> - [[El Pokémon/Habilidades/Manto Níveo]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Potencia bruta]]

@@ -24,9 +24,9 @@ tipo2: "Tipo lucha"
 >| defensa.esp | 40    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Anticipación]]
-> - [[Piel seca]]
+> - [[El Pokémon/Habilidades/Piel Seca]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Toque tóxico]]

@@ -24,9 +24,9 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 45    |
 >| velocidad   | 35    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Despiste]]
 > - [[Simple]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
+> - [[El Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]

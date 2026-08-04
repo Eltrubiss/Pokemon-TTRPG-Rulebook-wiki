@@ -23,7 +23,7 @@ tipo1: "Tipo tierra"
 >| defensa.esp | 80    |
 >| velocidad   | 45    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cabeza roca]]
 > - [[Pararrayos]]
 >

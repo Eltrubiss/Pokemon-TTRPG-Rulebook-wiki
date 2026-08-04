@@ -24,9 +24,9 @@ tipo2: "Tipo hada"
 >| defensa.esp | 50    |
 >| velocidad   | 66    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Bromista]]
 > - [[Allanamiento]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]

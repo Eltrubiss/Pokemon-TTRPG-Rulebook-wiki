@@ -23,9 +23,9 @@ tipo1: "Tipo normal"
 >| defensa.esp | 65    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Intimidación]]
-> - [[Ímpetu arena]]
+> - [[El Pokémon/Habilidades/Ímpetu Arena]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Intrépido]]

@@ -20,7 +20,7 @@ tags:
 >| defensa.esp | --    |
 >| velocidad   | --     |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - Habilidad 1
 > - Habilidad 2
 > 

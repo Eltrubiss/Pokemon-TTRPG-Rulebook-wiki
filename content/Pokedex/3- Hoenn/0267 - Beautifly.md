@@ -24,8 +24,8 @@ tipo2: "Tipo volador"
 >| defensa.esp | 50    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Enjambre\|Enjambre]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Rivalidad]]

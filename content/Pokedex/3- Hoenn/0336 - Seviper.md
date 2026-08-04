@@ -23,7 +23,7 @@ tipo1: "Tipo veneno"
 >| defensa.esp | 60    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Mudar]]
 >
 > **[[Habilidad Oculta]]:**

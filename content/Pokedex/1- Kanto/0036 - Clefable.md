@@ -23,9 +23,9 @@ tipo1: "Tipo hada"
 >| defensa.esp | 90    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Gran encanto]]
-> - [[Muro mágico]]
+> - [[El Pokémon/Habilidades/Muro Mágico]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Ignorante]]

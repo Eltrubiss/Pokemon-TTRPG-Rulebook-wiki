@@ -24,7 +24,7 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 85    |
 >| velocidad   | 115    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Iluminación]]
 > - [[Cura natural]]
 >

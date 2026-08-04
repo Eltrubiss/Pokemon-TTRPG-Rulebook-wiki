@@ -24,9 +24,9 @@ tipo2: "Tipo volador"
 >| defensa.esp | 65    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sacapecho]]
-> - [[Pokémon/Habilidades/Funda\|Funda]]
+> - [[El Pokémon/Habilidades/Funda\|Funda]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Armadura frágil]]

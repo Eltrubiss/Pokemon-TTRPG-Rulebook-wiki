@@ -24,5 +24,5 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 88    |
 >| velocidad   | 88    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Títere tóxico]]
