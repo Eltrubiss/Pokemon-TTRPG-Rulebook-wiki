@@ -24,9 +24,9 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 100    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cuerpo puro]]
 > - [[Viscosecreción]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Cura lluvia]]
+> - [[El Pokémon/Habilidades/Cura Lluvia]]

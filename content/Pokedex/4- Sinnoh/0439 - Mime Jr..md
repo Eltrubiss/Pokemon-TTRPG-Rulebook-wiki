@@ -24,7 +24,7 @@ tipo2: "Tipo hada"
 >| defensa.esp | 90    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Insonorizar]]
 > - [[Filtro]]
 >

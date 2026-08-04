@@ -23,5 +23,5 @@ tipo1: "Tipo planta"
 >| defensa.esp | 96    |
 >| velocidad   | 110    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Competitivo]]

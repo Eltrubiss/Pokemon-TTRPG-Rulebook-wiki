@@ -24,7 +24,7 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 35    |
 >| velocidad   | 40    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cobardía]]
 > - [[Electricidad estática]]
 >

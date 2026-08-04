@@ -23,5 +23,5 @@ tipo1: "Tipo hielo"
 >| defensa.esp | 90    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
-> - [[Cara de hielo]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Cara de Hielo]]

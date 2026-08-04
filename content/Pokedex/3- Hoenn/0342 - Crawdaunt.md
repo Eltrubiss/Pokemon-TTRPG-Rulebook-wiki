@@ -24,7 +24,7 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 55    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Caparazón]]
 > - [[Corte fuerte]]
 >

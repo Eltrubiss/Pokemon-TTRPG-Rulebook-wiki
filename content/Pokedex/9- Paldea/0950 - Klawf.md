@@ -23,7 +23,7 @@ tipo1: "Tipo roca"
 >| defensa.esp | 55    |
 >| velocidad   | 75    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Coraza ira]]
 > - [[Caparazón]]
 >

@@ -24,8 +24,8 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 100    |
 >| velocidad   | 104    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Prestidigitador]]

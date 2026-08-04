@@ -23,7 +23,7 @@ tipo1: "Tipo roca"
 >| defensa.esp | 100    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cuerpo puro]]
 >
 > **[[Habilidad Oculta]]:**

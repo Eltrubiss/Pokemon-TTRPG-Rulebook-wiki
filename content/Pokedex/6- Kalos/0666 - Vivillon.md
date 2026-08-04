@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 50    |
 >| velocidad   | 89    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Polvo escudo]]
 > - [[Ojo compuesto]]
 >

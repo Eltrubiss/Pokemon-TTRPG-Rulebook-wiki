@@ -24,5 +24,5 @@ tipo2: "Tipo lucha"
 >| defensa.esp | 60    |
 >| velocidad   | 116    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Carga cuark]]

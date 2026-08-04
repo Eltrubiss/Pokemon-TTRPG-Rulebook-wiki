@@ -23,8 +23,8 @@ tipo1: "Tipo hielo"
 >| defensa.esp | 95    |
 >| velocidad   | 79    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
 > - [[Nevada]]
 >
 > **[[Habilidad Oculta]]:**

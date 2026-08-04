@@ -24,8 +24,8 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 70    |
 >| velocidad   | 123    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Espesura\|Espesura]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Espesura\|Espesura]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Mutatipo]]

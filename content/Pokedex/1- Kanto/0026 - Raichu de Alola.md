@@ -24,5 +24,5 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 85    |
 >| velocidad   | 110    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cola surf]]

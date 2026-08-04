@@ -23,9 +23,9 @@ tipo1: "Tipo lucha"
 >| defensa.esp | 30    |
 >| velocidad   | 25    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sebo]]
-> - [[Pokémon/Habilidades/Agallas\|Agallas]]
+> - [[El Pokémon/Habilidades/Agallas\|Agallas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Potencia bruta]]

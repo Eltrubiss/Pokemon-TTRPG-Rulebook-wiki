@@ -24,5 +24,5 @@ tipo2: "Tipo planta"
 >| defensa.esp | 80    |
 >| velocidad   | 80    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Nerviosismo]]

@@ -23,8 +23,8 @@ tipo1: "Tipo hielo"
 >| defensa.esp | 95    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
-> - [[Manto níveo]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Manto Níveo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
+> - [[El Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]

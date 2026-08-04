@@ -23,7 +23,7 @@ tipo1: "Tipo hada"
 >| defensa.esp | 80    |
 >| velocidad   | 95    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cuerpo horneado]]
 >
 > **[[Habilidad Oculta]]:**

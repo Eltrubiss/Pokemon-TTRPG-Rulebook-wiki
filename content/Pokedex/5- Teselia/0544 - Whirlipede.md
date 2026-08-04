@@ -24,8 +24,8 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 79    |
 >| velocidad   | 47    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Enjambre\|Enjambre]]
 > - [[Punto tóxico]]
 >
 > **[[Habilidad Oculta]]:**

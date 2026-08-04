@@ -24,9 +24,9 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 70    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cura natural]]
 > - [[Punto tóxico]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Defensa hoja]]
+> - [[El Pokémon/Habilidades/Defensa Hoja]]

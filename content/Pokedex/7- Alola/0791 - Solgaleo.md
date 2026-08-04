@@ -24,5 +24,5 @@ tipo2: "Tipo acero"
 >| defensa.esp | 89    |
 >| velocidad   | 97    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Guardia metálica]]

@@ -24,9 +24,9 @@ tipo2: "Tipo normal"
 >| defensa.esp | 81    |
 >| velocidad   | 95    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Audaz]]
-> - [[Pokémon/Habilidades/Agallas\|Agallas]]
+> - [[El Pokémon/Habilidades/Agallas\|Agallas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Competitivo]]

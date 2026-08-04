@@ -24,7 +24,7 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 80    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Hospitalidad]]
 >
 > **[[Habilidad Oculta]]:**

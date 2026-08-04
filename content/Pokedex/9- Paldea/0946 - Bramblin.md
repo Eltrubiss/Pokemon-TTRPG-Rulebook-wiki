@@ -24,7 +24,7 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 35    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Surcavientos]]
 >
 > **[[Habilidad Oculta]]:**

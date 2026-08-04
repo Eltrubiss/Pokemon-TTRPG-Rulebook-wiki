@@ -24,7 +24,7 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 20    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Polvo escudo]]
 >
 > **[[Habilidad Oculta]]:**

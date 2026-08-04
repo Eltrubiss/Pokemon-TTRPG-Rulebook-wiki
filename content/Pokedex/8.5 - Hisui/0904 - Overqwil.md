@@ -24,8 +24,8 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 65    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
-> - [[Nado rápido]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Nado Rápido]]
 > - [[Punto tóxico]]
 >
 > **[[Habilidad Oculta]]:**

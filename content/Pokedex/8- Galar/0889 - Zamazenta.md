@@ -23,5 +23,5 @@ tipo1: "Tipo lucha"
 >| defensa.esp | 115    |
 >| velocidad   | 138    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Escudo recio]]

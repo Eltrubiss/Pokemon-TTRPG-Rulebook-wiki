@@ -23,7 +23,7 @@ tipo1: "Tipo dragón"
 >| defensa.esp | 70    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Mudar]]
 >
 > **[[Habilidad Oculta]]:**

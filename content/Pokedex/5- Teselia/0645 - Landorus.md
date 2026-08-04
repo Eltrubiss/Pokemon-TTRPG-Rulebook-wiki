@@ -24,8 +24,8 @@ tipo2: "Tipo volador"
 >| defensa.esp | 80    |
 >| velocidad   | 101    |
 >___
-> **[[Habilidades]]:**
-> - [[Poder arena]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Poder Arena]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Potencia brutaFA]]

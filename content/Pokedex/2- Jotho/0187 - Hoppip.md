@@ -24,9 +24,9 @@ tipo2: "Tipo volador"
 >| defensa.esp | 55    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
-> - [[Defensa hoja]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]
+> - [[El Pokémon/Habilidades/Defensa Hoja]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Allanamiento]]

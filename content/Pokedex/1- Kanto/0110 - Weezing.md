@@ -23,7 +23,7 @@ tipo1: "Tipo veneno"
 >| defensa.esp | 70    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Levitación]]
 > - [[Gas reactivo]]
 >

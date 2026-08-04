@@ -24,8 +24,8 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 80    |
 >| velocidad   | 75    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Enjambre\|Enjambre]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Francotirador]]

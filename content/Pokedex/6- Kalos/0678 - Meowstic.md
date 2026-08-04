@@ -23,7 +23,7 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 81    |
 >| velocidad   | 104    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Vista lince]]
 > - [[Allanamiento]]
 >

@@ -24,9 +24,9 @@ tipo2: "Tipo acero"
 >| defensa.esp | 70    |
 >| velocidad   | 110    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
 > - [[Rizos rebeldes]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Poder arena]]
+> - [[El Pokémon/Habilidades/Poder Arena]]

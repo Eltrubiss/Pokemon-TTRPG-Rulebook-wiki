@@ -24,7 +24,7 @@ tipo2: "Tipo hada"
 >| defensa.esp | 103    |
 >| velocidad   | 29    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Alma cura]]
 > - [[Anticipación]]
 >

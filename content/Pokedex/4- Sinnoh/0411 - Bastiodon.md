@@ -24,7 +24,7 @@ tipo2: "Tipo acero"
 >| defensa.esp | 138    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Robustez]]
 >
 > **[[Habilidad Oculta]]:**

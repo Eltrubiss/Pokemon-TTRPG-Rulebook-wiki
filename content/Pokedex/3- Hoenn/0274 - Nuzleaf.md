@@ -24,8 +24,8 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 40    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]
 > - [[Madrugar]]
 >
 > **[[Habilidad Oculta]]:**

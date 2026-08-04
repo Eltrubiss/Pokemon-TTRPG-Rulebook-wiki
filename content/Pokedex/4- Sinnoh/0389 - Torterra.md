@@ -24,8 +24,8 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 85    |
 >| velocidad   | 56    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Espesura\|Espesura]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Espesura\|Espesura]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Caparazón]]

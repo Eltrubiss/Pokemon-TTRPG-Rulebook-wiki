@@ -23,7 +23,7 @@ tipo1: "Tipo bicho"
 >| defensa.esp | 86    |
 >| velocidad   | 35    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Insomnio]]
 >
 > **[[Habilidad Oculta]]:**

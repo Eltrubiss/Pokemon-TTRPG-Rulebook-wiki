@@ -23,9 +23,9 @@ tipo1: "Tipo eléctrico"
 >| defensa.esp | 49    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Rivalidad]]
 > - [[Intimidación]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Agallas\|Agallas]]
+> - [[El Pokémon/Habilidades/Agallas\|Agallas]]

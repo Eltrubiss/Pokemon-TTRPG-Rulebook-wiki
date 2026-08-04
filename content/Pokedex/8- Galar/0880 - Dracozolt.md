@@ -24,9 +24,9 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 70    |
 >| velocidad   | 75    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Absorbe electricidad]]
 > - [[Entusiasmo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Ímpetu arena]]
+> - [[El Pokémon/Habilidades/Ímpetu Arena]]

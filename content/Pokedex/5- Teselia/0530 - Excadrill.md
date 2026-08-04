@@ -24,9 +24,9 @@ tipo2: "Tipo acero"
 >| defensa.esp | 65    |
 >| velocidad   | 88    |
 >___
-> **[[Habilidades]]:**
-> - [[Ímpetu arena]]
-> - [[Poder arena]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Ímpetu Arena]]
+> - [[El Pokémon/Habilidades/Poder Arena]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
+> - [[El Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]

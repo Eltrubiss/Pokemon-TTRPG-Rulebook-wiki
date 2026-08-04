@@ -23,5 +23,5 @@ tipo1: "Tipo fantasma"
 >| defensa.esp | 70    |
 >| velocidad   | 10    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cobardía]]

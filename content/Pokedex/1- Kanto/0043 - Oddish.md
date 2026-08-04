@@ -24,8 +24,8 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 65    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Fuga]]

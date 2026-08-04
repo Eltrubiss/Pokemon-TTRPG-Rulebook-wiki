@@ -23,6 +23,6 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 89    |
 >| velocidad   | 79    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Armadura prisma]]
 > - [[Fuerza cerebral]]

@@ -24,8 +24,8 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 65    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Firmeza\|Firmeza]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Firmeza\|Firmeza]]
 > - [[Robustez]]
 >
 > **[[Habilidad Oculta]]:**

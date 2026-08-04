@@ -24,7 +24,7 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 65    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cabeza roca]]
 > - [[Robustez]]
 >

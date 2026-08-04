@@ -24,7 +24,7 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 50    |
 >| velocidad   | 25    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Toque tóxico]]
 > - [[Gula]]
 >

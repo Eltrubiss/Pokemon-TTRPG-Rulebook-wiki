@@ -24,5 +24,5 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 140    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cambio táctico]]

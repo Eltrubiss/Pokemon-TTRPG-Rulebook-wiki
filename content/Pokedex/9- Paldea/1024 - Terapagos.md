@@ -27,5 +27,5 @@ tipo1: "Tipo normal"
 >| defensa.esp | 85    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Teracambio]]

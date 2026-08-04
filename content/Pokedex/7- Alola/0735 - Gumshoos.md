@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 60    |
 >| velocidad   | 45    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Vigilante]]
 > - [[Mandíbula fuerte]]
 >

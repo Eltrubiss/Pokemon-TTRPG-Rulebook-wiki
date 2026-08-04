@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 80    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Olor persistente]]
 >
 > **[[Habilidad Oculta]]:**

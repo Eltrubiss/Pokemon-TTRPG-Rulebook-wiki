@@ -24,9 +24,9 @@ tipo2: "Tipo hielo"
 >| defensa.esp | 90    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Absorbe agua]]
-> - [[Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
+> - [[El Pokémon/Habilidades/Cuerpo de Hielo\|Cuerpo de Hielo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Quitanieves\|Quitanieves]]
+> - [[El Pokémon/Habilidades/Quitanieves\|Quitanieves]]

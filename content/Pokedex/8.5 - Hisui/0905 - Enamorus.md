@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 80    |
 >| velocidad   | 106    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Gran encanto]]
 > - [[1]]
 >

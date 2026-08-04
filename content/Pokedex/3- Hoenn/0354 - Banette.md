@@ -23,7 +23,7 @@ tipo1: "Tipo fantasma"
 >| defensa.esp | 63    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Insomnio]]
 > - [[Cacheo]]
 >

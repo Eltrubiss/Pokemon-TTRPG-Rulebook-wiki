@@ -24,5 +24,5 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 70    |
 >| velocidad   | 51    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Mudar]]

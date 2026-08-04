@@ -23,8 +23,8 @@ tipo1: "Tipo fantasma"
 >| defensa.esp | 97    |
 >| velocidad   | 68    |
 >___
-> **[[Habilidades]]:**
-> - [[Ímpetu arena]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Ímpetu Arena]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Peluche]]

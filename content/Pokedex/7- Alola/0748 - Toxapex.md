@@ -24,7 +24,7 @@ tipo2: "Tipo agua"
 >| defensa.esp | 142    |
 >| velocidad   | 35    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ensañamiento]]
 > - [[Flexibilidad]]
 >

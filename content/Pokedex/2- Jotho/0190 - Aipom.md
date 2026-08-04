@@ -23,9 +23,9 @@ tipo1: "Tipo normal"
 >| defensa.esp | 55    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Fuga]]
 > - [[Recogida]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Encadenado\|Encadenado]]
+> - [[El Pokémon/Habilidades/Encadenado\|Encadenado]]

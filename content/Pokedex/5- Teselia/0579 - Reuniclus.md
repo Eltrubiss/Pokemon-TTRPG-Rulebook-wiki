@@ -23,9 +23,9 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 85    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Funda\|Funda]]
-> - [[Muro mágico]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Funda\|Funda]]
+> - [[El Pokémon/Habilidades/Muro Mágico]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Regeneración]]

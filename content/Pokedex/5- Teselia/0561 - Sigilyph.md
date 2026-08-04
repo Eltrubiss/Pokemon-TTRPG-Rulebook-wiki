@@ -24,9 +24,9 @@ tipo2: "Tipo volador"
 >| defensa.esp | 80    |
 >| velocidad   | 97    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Piel milagro]]
-> - [[Muro mágico]]
+> - [[El Pokémon/Habilidades/Muro Mágico]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Cromolente]]

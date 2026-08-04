@@ -23,5 +23,5 @@ tipo1: "Tipo agua"
 >| defensa.esp | 40    |
 >| velocidad   | 75    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Velo agua]]

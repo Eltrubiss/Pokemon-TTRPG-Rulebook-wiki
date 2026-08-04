@@ -24,5 +24,5 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 90    |
 >| velocidad   | 98    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Levitación]]

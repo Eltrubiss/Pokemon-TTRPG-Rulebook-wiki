@@ -23,8 +23,8 @@ tipo1: "Tipo bicho"
 >| defensa.esp | 25    |
 >| velocidad   | 45    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Enjambre\|Enjambre]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Cromolente]]

@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 39    |
 >| velocidad   | 42    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Vista lince]]
 > - [[Fuga]]
 >

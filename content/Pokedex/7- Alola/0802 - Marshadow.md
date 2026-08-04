@@ -24,5 +24,5 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 90    |
 >| velocidad   | 125    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Experto]]

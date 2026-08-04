@@ -23,5 +23,5 @@ tipo1: "Tipo agua"
 >| defensa.esp | 62    |
 >| velocidad   | 100    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cambio heroico]]

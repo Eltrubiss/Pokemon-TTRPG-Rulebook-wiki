@@ -24,7 +24,7 @@ tipo2: "Tipo hielo"
 >| defensa.esp | 60    |
 >| velocidad   | 40    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Nevada]]
 >
 > **[[Habilidad Oculta]]:**

@@ -23,5 +23,5 @@ tipo1: "Tipo eléctrico"
 >| defensa.esp | 71    |
 >| velocidad   | 83    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ultraimpulso]]

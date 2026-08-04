@@ -23,7 +23,7 @@ tipo1: "Tipo hada"
 >| defensa.esp | 110    |
 >| velocidad   | 100    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Velo flor]]
 > - [[Primer auxilio]]
 >

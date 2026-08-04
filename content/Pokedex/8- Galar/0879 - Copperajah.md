@@ -23,7 +23,7 @@ tipo1: "Tipo acero"
 >| defensa.esp | 69    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Potencia bruta]]
 >
 > **[[Habilidad Oculta]]:**

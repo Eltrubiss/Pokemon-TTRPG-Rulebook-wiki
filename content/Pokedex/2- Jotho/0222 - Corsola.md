@@ -24,7 +24,7 @@ tipo2: "Tipo roca"
 >| defensa.esp | 95    |
 >| velocidad   | 35    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cura natural]]
 > - [[Entusiasmo]]
 >

@@ -24,5 +24,5 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 60    |
 >| velocidad   | 97    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Puño invisible]]

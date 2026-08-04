@@ -24,7 +24,7 @@ tipo2: "Tipo normal"
 >| defensa.esp | 80    |
 >| velocidad   | 77    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Gula]]
 > - [[Entusiasmo]]
 >

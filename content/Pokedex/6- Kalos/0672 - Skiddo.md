@@ -23,7 +23,7 @@ tipo1: "Tipo planta"
 >| defensa.esp | 57    |
 >| velocidad   | 52    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Herbívoro]]
 >
 > **[[Habilidad Oculta]]:**

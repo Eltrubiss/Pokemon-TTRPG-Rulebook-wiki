@@ -23,8 +23,8 @@ tipo1: "Tipo planta"
 >| defensa.esp | 30    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]
 > - [[Madrugar]]
 >
 > **[[Habilidad Oculta]]:**

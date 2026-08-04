@@ -23,9 +23,9 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 60    |
 >| velocidad   | 68    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Vista lince]]
 > - [[Allanamiento]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
+> - [[El Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]

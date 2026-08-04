@@ -24,5 +24,5 @@ tipo2: "Tipo volador"
 >| defensa.esp | 101    |
 >| velocidad   | 61    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ultraimpulso]]

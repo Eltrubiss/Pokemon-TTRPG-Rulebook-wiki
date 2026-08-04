@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 86    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Alma cura]]
 > - [[Regeneración]]
 >

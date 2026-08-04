@@ -24,7 +24,7 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 150    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Herbívoro]]
 > - [[Caparazón]]
 >

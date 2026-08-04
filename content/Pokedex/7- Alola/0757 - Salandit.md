@@ -24,7 +24,7 @@ tipo2: "Tipo fuego"
 >| defensa.esp | 40    |
 >| velocidad   | 77    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Corrosión]]
 >
 > **[[Habilidad Oculta]]:**

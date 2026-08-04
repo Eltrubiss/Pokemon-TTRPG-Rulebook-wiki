@@ -24,8 +24,8 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 75    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Cosecha\|Cosecha]]
+> - [[El Pokémon/Habilidades/Cosecha\|Cosecha]]

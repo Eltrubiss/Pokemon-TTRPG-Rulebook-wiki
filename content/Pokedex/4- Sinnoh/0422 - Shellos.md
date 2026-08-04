@@ -23,9 +23,9 @@ tipo1: "Tipo agua"
 >| defensa.esp | 62    |
 >| velocidad   | 34    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Viscosidad]]
 > - [[Colector]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Poder arena]]
+> - [[El Pokémon/Habilidades/Poder Arena]]

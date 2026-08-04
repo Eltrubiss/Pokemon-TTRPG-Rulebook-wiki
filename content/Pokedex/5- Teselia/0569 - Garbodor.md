@@ -23,7 +23,7 @@ tipo1: "Tipo veneno"
 >| defensa.esp | 82    |
 >| velocidad   | 75    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Hedor]]
 > - [[Armadura frágil]]
 >

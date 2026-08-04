@@ -24,5 +24,5 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 30    |
 >| velocidad   | 40    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Superguarda]]

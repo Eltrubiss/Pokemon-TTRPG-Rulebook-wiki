@@ -24,5 +24,5 @@ tipo2: "Tipo volador"
 >| defensa.esp | 45    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Flaqueza]]

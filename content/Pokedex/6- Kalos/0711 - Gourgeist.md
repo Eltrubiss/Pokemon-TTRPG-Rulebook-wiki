@@ -24,7 +24,7 @@ tipo2: "Tipo planta"
 >| defensa.esp | 75    |
 >| velocidad   | 99    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Recogida]]
 > - [[Cacheo]]
 >

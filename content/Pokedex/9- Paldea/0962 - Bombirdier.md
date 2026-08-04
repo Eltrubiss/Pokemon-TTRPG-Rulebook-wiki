@@ -24,7 +24,7 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 85    |
 >| velocidad   | 82    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sacapecho]]
 > - [[Vista lince]]
 >

@@ -24,7 +24,7 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 108    |
 >| velocidad   | 35    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Presión]]
 >
 > **[[Habilidad Oculta]]:**

@@ -24,8 +24,8 @@ tipo2: "Tipo agua"
 >| defensa.esp | 52    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
-> - [[Nado rápido]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Nado Rápido]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Cura lluvia]]
+> - [[El Pokémon/Habilidades/Cura Lluvia]]

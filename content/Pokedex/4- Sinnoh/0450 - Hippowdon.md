@@ -23,8 +23,8 @@ tipo1: "Tipo tierra"
 >| defensa.esp | 72    |
 >| velocidad   | 47    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Chorro arena]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Poder arena]]
+> - [[El Pokémon/Habilidades/Poder Arena]]

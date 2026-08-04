@@ -24,8 +24,8 @@ tipo2: "Tipo normal"
 >| defensa.esp | 78    |
 >| velocidad   | 33    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Madrugar]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Cosecha\|Cosecha]]
+> - [[El Pokémon/Habilidades/Cosecha\|Cosecha]]

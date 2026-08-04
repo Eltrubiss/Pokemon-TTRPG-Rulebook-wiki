@@ -24,9 +24,9 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 65    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Despiste]]
 > - [[Alerta]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
+> - [[El Pokémon/Habilidades/Hidratación\|Hidratación]]

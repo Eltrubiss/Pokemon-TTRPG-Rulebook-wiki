@@ -24,7 +24,7 @@ tipo2: "Tipo roca"
 >| defensa.esp | 80    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cuerpo llama]]
 > - [[Escudo magma]]
 >

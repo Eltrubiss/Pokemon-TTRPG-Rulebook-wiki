@@ -23,7 +23,7 @@ tipo1: "Tipo siniestro"
 >| defensa.esp | 30    |
 >| velocidad   | 35    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Fuga]]
 > - [[Pies rápidos]]
 >

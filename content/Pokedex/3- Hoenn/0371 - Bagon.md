@@ -23,7 +23,7 @@ tipo1: "Tipo dragón"
 >| defensa.esp | 30    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cabeza roca]]
 >
 > **[[Habilidad Oculta]]:**

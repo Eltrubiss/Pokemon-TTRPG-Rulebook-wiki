@@ -24,5 +24,5 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 73    |
 >| velocidad   | 121    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ultraimpulso]]

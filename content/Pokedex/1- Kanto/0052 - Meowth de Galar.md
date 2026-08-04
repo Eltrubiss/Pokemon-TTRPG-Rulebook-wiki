@@ -23,7 +23,7 @@ tipo1: "Tipo acero"
 >| defensa.esp | 40    |
 >| velocidad   | 40    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Recogida]]
 > - [[Garra dura]]
 >

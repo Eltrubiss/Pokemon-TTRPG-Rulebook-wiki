@@ -24,7 +24,7 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 75    |
 >| velocidad   | 40    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Escudo magma]]
 > - [[Roca sólida]]
 >

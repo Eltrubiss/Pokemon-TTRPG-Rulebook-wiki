@@ -24,7 +24,7 @@ tipo2: "Tipo lucha"
 >| defensa.esp | 86    |
 >| velocidad   | 80    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cadena tóxica]]
 >
 > **[[Habilidad Oculta]]:**

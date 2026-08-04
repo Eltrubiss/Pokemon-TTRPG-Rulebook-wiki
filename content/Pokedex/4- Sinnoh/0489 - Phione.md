@@ -23,5 +23,5 @@ tipo1: "Tipo agua"
 >| defensa.esp | 80    |
 >| velocidad   | 80    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Hidratación\|Hidratación]]

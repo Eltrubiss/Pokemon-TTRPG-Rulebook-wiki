@@ -24,7 +24,7 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 116    |
 >| velocidad   | 33    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Levitación]]
 > - [[Ignífugo]]
 >

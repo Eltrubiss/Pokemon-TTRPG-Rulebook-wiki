@@ -23,7 +23,7 @@ tipo1: "Tipo hada"
 >| defensa.esp | 65    |
 >| velocidad   | 20    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Entusiasmo]]
 > - [[Dicha]]
 >

@@ -24,8 +24,8 @@ tipo2: "Tipo acero"
 >| defensa.esp | 65    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
-> - [[Manto níveo]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Manto Níveo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Quitanieves\|Quitanieves]]
+> - [[El Pokémon/Habilidades/Quitanieves\|Quitanieves]]

@@ -24,5 +24,5 @@ tipo2: "Tipo volador"
 >| defensa.esp | 98    |
 >| velocidad   | 99    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Aura oscura]]

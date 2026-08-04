@@ -24,5 +24,5 @@ tipo2: "Tipo agua"
 >| defensa.esp | 60    |
 >| velocidad   | 136    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Carga cuark]]

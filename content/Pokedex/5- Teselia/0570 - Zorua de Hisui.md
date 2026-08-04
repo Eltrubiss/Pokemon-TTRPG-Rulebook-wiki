@@ -24,5 +24,5 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 40    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ilusión]]

@@ -24,5 +24,5 @@ tipo2: "Tipo lucha"
 >| defensa.esp | 90    |
 >| velocidad   | 108    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Justiciero]]

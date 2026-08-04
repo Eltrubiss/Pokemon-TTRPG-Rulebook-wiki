@@ -23,7 +23,7 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 60    |
 >| velocidad   | 105    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Oportunista]]
 > - [[Cacheo]]
 >

@@ -24,7 +24,7 @@ tipo2: "Tipo hielo"
 >| defensa.esp | 67    |
 >| velocidad   | 43    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Corte fuerte]]
 > - [[Puño férreo]]
 >

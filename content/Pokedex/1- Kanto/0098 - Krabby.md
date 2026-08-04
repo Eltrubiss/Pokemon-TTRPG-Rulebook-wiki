@@ -23,7 +23,7 @@ tipo1: "Tipo agua"
 >| defensa.esp | 25    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Corte fuerte]]
 > - [[Caparazón]]
 >

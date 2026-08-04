@@ -23,7 +23,7 @@ tipo1: "Tipo siniestro"
 >| defensa.esp | 65    |
 >| velocidad   | 115    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Pelaje recio]]
 > - [[Experto]]
 >

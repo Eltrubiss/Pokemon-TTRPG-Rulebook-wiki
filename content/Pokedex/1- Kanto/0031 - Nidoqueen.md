@@ -24,7 +24,7 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 85    |
 >| velocidad   | 76    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Punto tóxico]]
 > - [[Rivalidad]]
 >

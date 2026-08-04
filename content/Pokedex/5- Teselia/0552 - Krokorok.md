@@ -24,9 +24,9 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 45    |
 >| velocidad   | 74    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Intimidación]]
-> - [[Pokémon/Habilidades/Autoestima\|Autoestima]]
+> - [[El Pokémon/Habilidades/Autoestima\|Autoestima]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Irascible]]

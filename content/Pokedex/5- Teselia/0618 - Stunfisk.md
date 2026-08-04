@@ -24,9 +24,9 @@ tipo2: "Tipo eléctrico"
 >| defensa.esp | 99    |
 >| velocidad   | 32    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Electricidad estática]]
 > - [[Flexibilidad]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
+> - [[El Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]

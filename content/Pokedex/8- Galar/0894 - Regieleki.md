@@ -23,5 +23,5 @@ tipo1: "Tipo eléctrico"
 >| defensa.esp | 50    |
 >| velocidad   | 200    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Transistor]]

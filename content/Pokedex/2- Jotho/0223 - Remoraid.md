@@ -23,7 +23,7 @@ tipo1: "Tipo agua"
 >| defensa.esp | 35    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Entusiasmo]]
 > - [[Francotirador]]
 >

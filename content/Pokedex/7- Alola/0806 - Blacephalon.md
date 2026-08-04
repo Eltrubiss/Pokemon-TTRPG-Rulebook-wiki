@@ -24,5 +24,5 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 79    |
 >| velocidad   | 107    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ultraimpulso]]

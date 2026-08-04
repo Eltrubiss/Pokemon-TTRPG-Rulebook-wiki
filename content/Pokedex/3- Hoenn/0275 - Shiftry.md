@@ -24,8 +24,8 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 60    |
 >| velocidad   | 80    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]
 > - [[Surcavientos]]
 >
 > **[[Habilidad Oculta]]:**

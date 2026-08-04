@@ -24,8 +24,8 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 75    |
 >| velocidad   | 115    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
 > - [[Vista lince]]
 >
 > **[[Habilidad Oculta]]:**

@@ -24,5 +24,5 @@ tipo2: "Tipo lucha"
 >| defensa.esp | 53    |
 >| velocidad   | 79    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ultraimpulso]]

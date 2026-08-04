@@ -23,7 +23,7 @@ tipo1: "Tipo veneno"
 >| defensa.esp | 53    |
 >| velocidad   | 40    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Viscosecreción]]
 > - [[Viscosidad]]
 >

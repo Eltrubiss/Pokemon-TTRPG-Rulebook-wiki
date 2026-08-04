@@ -23,7 +23,7 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 53    |
 >| velocidad   | 39    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Alma cura]]
 > - [[Anticipación]]
 >

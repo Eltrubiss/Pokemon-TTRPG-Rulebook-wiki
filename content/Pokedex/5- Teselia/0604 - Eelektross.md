@@ -23,5 +23,5 @@ tipo1: "Tipo eléctrico"
 >| defensa.esp | 80    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Levitación]]

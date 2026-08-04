@@ -10,7 +10,7 @@ tipo2: "Tipo veneno"
 >#### **Ivysaur**
 >|  |
 >|-|
->| ![[{row.get('nombre')} .png]] |
+>| ![[Assets/Pokemon/Ivysaur.png]] |
 >___
 >**Peso:** 13,0 kg
 >**Altura:** 1,0 m
@@ -24,8 +24,8 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 80    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Espesura\|Espesura]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Espesura\|Espesura]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]

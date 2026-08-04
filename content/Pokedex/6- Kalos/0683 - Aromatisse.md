@@ -23,7 +23,7 @@ tipo1: "Tipo hada"
 >| defensa.esp | 89    |
 >| velocidad   | 29    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Alma cura]]
 >
 > **[[Habilidad Oculta]]:**

@@ -24,5 +24,5 @@ tipo2: "Tipo agua"
 >| defensa.esp | 95    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Tragamisil]]

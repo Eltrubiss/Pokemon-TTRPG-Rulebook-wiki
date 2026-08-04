@@ -24,9 +24,9 @@ tipo2: "Tipo planta"
 >| defensa.esp | 80    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Efecto espora]]
-> - [[Piel seca]]
+> - [[El Pokémon/Habilidades/Piel Seca]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Humedad]]

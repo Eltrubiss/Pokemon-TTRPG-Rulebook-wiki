@@ -24,7 +24,7 @@ tipo2: "Tipo roca"
 >| defensa.esp | 55    |
 >| velocidad   | 40    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Pararrayos]]
 > - [[Roca sólida]]
 >

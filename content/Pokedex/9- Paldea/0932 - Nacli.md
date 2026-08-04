@@ -23,7 +23,7 @@ tipo1: "Tipo roca"
 >| defensa.esp | 35    |
 >| velocidad   | 25    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sal purificadora]]
 > - [[Robustez]]
 >

@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 154    |
 >| velocidad   | 110    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Presión]]
 >
 > **[[Habilidad Oculta]]:**

@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 45    |
 >| velocidad   | 35    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Velo aroma]]
 > - [[Gula]]
 >

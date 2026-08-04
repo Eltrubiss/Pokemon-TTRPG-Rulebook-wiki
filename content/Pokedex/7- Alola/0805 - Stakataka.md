@@ -24,5 +24,5 @@ tipo2: "Tipo acero"
 >| defensa.esp | 101    |
 >| velocidad   | 13    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Ultraimpulso]]

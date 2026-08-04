@@ -23,7 +23,7 @@ tipo1: "Tipo acero"
 >| defensa.esp | 85    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Más]]
 > - [[Menos]]
 >

@@ -24,7 +24,7 @@ tipo2: "Tipo hada"
 >| defensa.esp | 70    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Levitación]]
 > - [[Gas reactivo]]
 >

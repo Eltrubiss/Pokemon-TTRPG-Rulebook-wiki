@@ -12,15 +12,15 @@ Como jugador, tu **Entrenador** es tu avatar en este mundo. Mientras que los P
 
 Un Entrenador no se define solo por los Pokémon que lleva en su equipo, sino por su propia progresión y sus capacidades personales. Estos rasgos determinan cómo interactúas con el mundo, cómo lideras a tus compañeros y qué tan lejos puedes llegar en tu viaje.
 
-### [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]
+### [[El Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]
 El **Nivel de Entrenador** es la medida principal de tu crecimiento y veteranía. A diferencia del nivel de un Pokémon, que mide su poder individual, tu nivel representa tu capacidad técnica y logística. 
 
-A medida que aumentas tu [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]:
+A medida que aumentas tu [[El Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]:
 - **Capacidad de Equipo:** Podrás gestionar y llevar contigo a más Pokémon simultáneamente (desde 1 hasta un máximo de 6).
 - **Autoridad y Captura:** Tu técnica mejora, permitiéndote capturar Pokémon más poderosos y elevar el potencial de aquellos que están bajo tu tutela.
-- **[[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]:** Obtienes un bono numérico que refleja tu veteranía y se aplica a diversas interacciones y mecánicas del juego.
+- **[[Reglas Generales/Bonificador de Experiencia\|Bonificador de Experiencia]]:** Obtienes un bono numérico que refleja tu veteranía y se aplica a diversas interacciones y mecánicas del juego.
 
-### [[Entrenador/Características del Entrenador/Características del Entrenador\|Características del Entrenador]]
+### [[El Entrenador/Características del Entrenador/Características del Entrenador\|Características del Entrenador]]
 Mientras que los Pokémon tienen sus propias estadísticas de combate, el Entrenador posee tres características fundamentales que definen su estilo de juego y su capacidad para resolver situaciones fuera y dentro del encuentro Pokémon:
 
 - ***[[Carisma]].*** El **Carisma** mide la fuerza de tu personalidad, tu c
@@ -28,15 +28,15 @@ Mientras que los Pokémon tienen sus propias estadísticas de combate, el Entren
 - ***[[Cuerpo]].*** El **Cuerpo** representa tu resistencia, fuerza atlética y salud general.
 - ***[[Saber]].*** El **Saber** refleja tu conocimiento académico, tu capacidad de observación y tu memoria sobre el mundo Pokémon
 
-#### [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades de Entrenador\|Habilidades de Entrenador]]
-Las **Habilidades** representan el entrenamiento, la experiencia y los conocimientos especializados que un Entrenador ha adquirido a lo largo de su vida. Cada Habilidad está asociada a una **Característica Base**, utilizando su puntuación como referencia para resolver las **[[Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]** relacionadas.
+#### [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades de Entrenador\|Habilidades de Entrenador]]
+Las **Habilidades** representan el entrenamiento, la experiencia y los conocimientos especializados que un Entrenador ha adquirido a lo largo de su vida. Cada Habilidad está asociada a una **Característica Base**, utilizando su puntuación como referencia para resolver las **[[El Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]** relacionadas.
 
-#### [[Entrenador/Características del Entrenador/Tiradas de Salvación del Entrenador\|Tiradas de Salvación]]
+#### [[El Entrenador/Características del Entrenador/Tiradas de Salvación del Entrenador\|Tiradas de Salvación]]
 Cuando un entrenador es afectado por un ataque, un fenómeno natural, un poder extraordinario o cualquier otro efecto que actúe directamente sobre él, deberá realizar una **Tirada de Salvación** utilizando la Característica indicada por el Director de Juego.
 
-### [[Entrenador/Profesión/Profesión\|Profesión]]
+### [[El Entrenador/Profesión/Profesión\|Profesión]]
 
-### [[Entrenador/Heridas\|Heridas]]
+### [[El Entrenador/Heridas\|Heridas]]
 Un entrenador dispone de **tres espacios de Herida**. Cada vez que una fuente de daño consigue herirlo, marca uno de esos espacios. Cuando todos los espacios están ocupados, el entrenador queda incapacitado para continuar combatiendo y dependerá de las circunstancias narrativas determinar su destino.
 
 ___
@@ -82,18 +82,18 @@ El **Bonificador de Experiencia** es un valor numérico que refleja la veteraní
 ### Sincronía de Nivel y Captura
 El Nivel de Entrenador actúa como un ancla para el poder de los Pokémon que le rodean:
 
-- **Nivel Mínimo de Captura:** Ningún Pokémon capturado por el entrenador puede tener un [[Pokémon/Nivel Pokémon\|Nivel Pokémon]] inferior al nivel actual del propio entrenador. Si se captura un Pokémon de nivel bajo, su potencial se ajusta inmediatamente al nivel del entrenador debido a su tutela.
+- **Nivel Mínimo de Captura:** Ningún Pokémon capturado por el entrenador puede tener un [[El Pokémon/Nivel Pokémon\|Nivel Pokémon]] inferior al nivel actual del propio entrenador. Si se captura un Pokémon de nivel bajo, su potencial se ajusta inmediatamente al nivel del entrenador debido a su tutela.
 - **Límite de Captura:** Un entrenador solo puede capturar Pokémon que sean, como máximo, **3 niveles superiores** al suyo. Los Pokémon que excedan este límite son demasiado salvajes o poderosos para ser contenidos por la técnica actual del entrenador.
 
 ## Características del Entrenador
 En el mundo de Pokémon, no todos los desafíos se resuelven en el campo de batalla. Mientras tus Pokémon aportan su fuerza elemental, tú, como Entrenador, aportas tus propias capacidades humanas. Las **Características** representan el potencial innato y el entrenamiento de tu personaje, definiendo qué tan bien puedes reaccionar ante el peligro, investigar un misterio o liderar a otros.
 
-Estas puntuaciones son el núcleo de las [[Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]. En este sistema, cada característica actúa como el valor objetivo que debes igualar o superar hacia abajo con una tirada de **1d100**.
+Estas puntuaciones son el núcleo de las [[El Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]. En este sistema, cada característica actúa como el valor objetivo que debes igualar o superar hacia abajo con una tirada de **1d100**.
 
 ### Características Base
 Los Pokémon aportan su fuerza y sus habilidades especiales, pero no todos los desafíos se resuelven mediante un combate. Explorar ruinas antiguas, sobrevivir en la naturaleza, convencer a un desconocido o investigar un fenómeno extraño son tareas que dependen del propio Entrenador.
 
-Las **Características Base** representan las capacidades generales del personaje. Reflejan tanto sus aptitudes naturales como la experiencia adquirida a lo largo de sus aventuras y constituyen la base de todas las **[[Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]**.
+Las **Características Base** representan las capacidades generales del personaje. Reflejan tanto sus aptitudes naturales como la experiencia adquirida a lo largo de sus aventuras y constituyen la base de todas las **[[El Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]**.
 
 Cada vez que un Entrenador intenta realizar una acción cuyo resultado es incierto, utilizará una de sus Características Base.
 
@@ -101,10 +101,10 @@ Todo Entrenador posee tres Características Base: **[[Cuerpo]]**, **[[Saber]]** 
 
 | Característica  | Descripción                                                               | Habilidades Derivadas                                         |
 | :-------------- | :------------------------------------------------------------------------ | :------------------------------------------------------------ |
-| **[[Cuerpo]]**  | Tu condición física, coordinación y resistencia.                          | [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Fortaleza\|Fortaleza]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]]                |
-| **[[Saber]]**   | Tus conocimientos, capacidad analítica y formación técnica.               | [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Investigación\|Investigación]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]] |
-| **[[Carisma]]** | Tu fuerza de voluntad, presencia y capacidad para relacionarte con otros. | [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Engaño\|Engaño]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]]                   |
-Cada Característica posee una puntuación numérica que refleja la competencia general del Entrenador en ese ámbito. Esta puntuación se utiliza como base para resolver las **[[Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]**.
+| **[[Cuerpo]]**  | Tu condición física, coordinación y resistencia.                          | [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Fortaleza\|Fortaleza]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]]                |
+| **[[Saber]]**   | Tus conocimientos, capacidad analítica y formación técnica.               | [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Investigación\|Investigación]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]] |
+| **[[Carisma]]** | Tu fuerza de voluntad, presencia y capacidad para relacionarte con otros. | [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Engaño\|Engaño]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]]                   |
+Cada Característica posee una puntuación numérica que refleja la competencia general del Entrenador en ese ámbito. Esta puntuación se utiliza como base para resolver las **[[El Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]**.
 
 | Valor     | Interpretación                             |
 | --------- | ------------------------------------------ |
@@ -118,7 +118,7 @@ Al crear un Entrenador, determina las puntuaciones de sus tres Características 
 De manera alternativa, puedes utilizar **Valores Estándar** para tus tres características en lugar de establecer sus valores a través de tiradas. Puedes asignar libremente entre **[[Cuerpo]]**, **[[Saber]]** y **[[Carisma]]** los valores 30, 37 y 42.
 
 ___
-### [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades de Entrenador\|Habilidades de Entrenador]]
+### [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades de Entrenador\|Habilidades de Entrenador]]
 Las **Características Base del Entrenador** representan las capacidades generales de un Entrenador, pero no todos los personajes destacan en las mismas disciplinas. Dos Entrenadores con un **Saber** similar pueden desenvolverse de formas muy distintas: uno puede ser un médico experimentado, mientras que el otro destaca como investigador o artesano. Del mismo modo, dos personas con una condición física equivalente pueden haber desarrollado habilidades completamente diferentes para afrontar los desafíos del mundo.
 
 Las **Habilidades** representan la formación, la experiencia y el entrenamiento especializado del Entrenador. Cada una está vinculada a una **Característica Base** y permite reflejar aquello en lo que el personaje realmente sobresale.
@@ -129,9 +129,9 @@ Además, algunas Habilidades permiten acceder a **Habilidades Especializadas**, 
 
 | Característica Base | Habilidades                                                   |
 | ------------------- | ------------------------------------------------------------- |
-| **Cuerpo**          | [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Fortaleza\|Fortaleza]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]]                |
-| **Saber**           | [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Investigación\|Investigación]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]] |
-| **Carisma**         | [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Engaño\|Engaño]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]]                   |
+| **Cuerpo**          | [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Fortaleza\|Fortaleza]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]]                |
+| **Saber**           | [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Investigación\|Investigación]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]] |
+| **Carisma**         | [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Engaño\|Engaño]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]]                   |
 Una misma situación puede resolverse mediante distintas Habilidades, dependiendo del enfoque que adopte el Entrenador. El Director de Juego determinará cuál resulta más apropiada según la descripción de la acción realizada.
 
 #### Competencias
@@ -154,27 +154,27 @@ Salvo que una regla especifique lo contrario, si un Entrenador obtiene competenc
 #### Habilidades
 ##### Cuerpo
 Las Habilidades de **Cuerpo** representan las capacidades físicas y la experiencia del Entrenador para superar desafíos mediante el esfuerzo, la coordinación o la adaptación al entorno.
-- **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Fortaleza\|Fortaleza]]:** Representa la fuerza física, la resistencia y la capacidad del Entrenador para superar desafíos mediante el esfuerzo corporal. Se utiliza para realizar acciones que dependan de la potencia muscular, el aguante o la resistencia al cansancio y a las condiciones adversas.
-- **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]]:** Representa la coordinación, el equilibrio, los reflejos y la precisión de los movimientos del Entrenador. Se utiliza para realizar acciones que requieran control corporal, rapidez o habilidad motriz.
-- **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]]:** Representa la experiencia del Entrenador para desenvolverse en entornos naturales y aprovechar los recursos que estos ofrecen. Se utiliza para orientarse, rastrear criaturas y afrontar los desafíos propios de la naturaleza.
+- **[[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Fortaleza\|Fortaleza]]:** Representa la fuerza física, la resistencia y la capacidad del Entrenador para superar desafíos mediante el esfuerzo corporal. Se utiliza para realizar acciones que dependan de la potencia muscular, el aguante o la resistencia al cansancio y a las condiciones adversas.
+- **[[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]]:** Representa la coordinación, el equilibrio, los reflejos y la precisión de los movimientos del Entrenador. Se utiliza para realizar acciones que requieran control corporal, rapidez o habilidad motriz.
+- **[[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]]:** Representa la experiencia del Entrenador para desenvolverse en entornos naturales y aprovechar los recursos que estos ofrecen. Se utiliza para orientarse, rastrear criaturas y afrontar los desafíos propios de la naturaleza.
 
 ##### Saber
 Las Habilidades de **Saber** representan los conocimientos, la formación y la experiencia práctica que un Entrenador ha adquirido mediante el estudio, la observación o el ejercicio de una profesión.
-- **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]]:** Representa los conocimientos teóricos adquiridos mediante el estudio y la formación académica. Se utiliza para recordar información sobre la historia, la cultura, la geografía, las especies Pokémon y otras disciplinas del conocimiento. 
-- **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Investigación\|Investigación]]:** Representa la capacidad del Entrenador para obtener información mediante la observación, el análisis y la búsqueda de pistas. Se utiliza para descubrir aquello que no es evidente a simple vista, interpretar evidencias y reconstruir hechos a partir de la información disponible.
-- **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]]:** Representa los conocimientos necesarios para diagnosticar, tratar y prevenir lesiones, enfermedades y otras afecciones que puedan sufrir personas o Pokémon. Se utiliza para prestar primeros auxilios, reconocer síntomas y aplicar tratamientos adecuados.
-- **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]]:** Representa la experiencia práctica adquirida mediante un oficio o actividad especializada. A diferencia de otras Habilidades, **Oficio** siempre debe elegirse junto a una [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades Especializas\|Habilidad Especializada]] que defina el ámbito profesional del Entrenador.
+- **[[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]]:** Representa los conocimientos teóricos adquiridos mediante el estudio y la formación académica. Se utiliza para recordar información sobre la historia, la cultura, la geografía, las especies Pokémon y otras disciplinas del conocimiento. 
+- **[[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Investigación\|Investigación]]:** Representa la capacidad del Entrenador para obtener información mediante la observación, el análisis y la búsqueda de pistas. Se utiliza para descubrir aquello que no es evidente a simple vista, interpretar evidencias y reconstruir hechos a partir de la información disponible.
+- **[[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]]:** Representa los conocimientos necesarios para diagnosticar, tratar y prevenir lesiones, enfermedades y otras afecciones que puedan sufrir personas o Pokémon. Se utiliza para prestar primeros auxilios, reconocer síntomas y aplicar tratamientos adecuados.
+- **[[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]]:** Representa la experiencia práctica adquirida mediante un oficio o actividad especializada. A diferencia de otras Habilidades, **Oficio** siempre debe elegirse junto a una [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades Especializas\|Habilidad Especializada]] que defina el ámbito profesional del Entrenador.
 
 ##### Carisma
 Las Habilidades de **Carisma** representan la capacidad del Entrenador para relacionarse con otras personas y Pokémon, comprender sus emociones e influir en ellas mediante la comunicación.
-- **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]]:** Representa la capacidad del Entrenador para influir en los demás mediante el diálogo, la empatía y la cooperación. Se utiliza para establecer relaciones, negociar acuerdos y convencer a otras personas o Pokémon sin recurrir a la fuerza o al engaño.
-- **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Engaño\|Engaño]]:** Representa la capacidad del Entrenador para manipular la percepción de los demás mediante mentiras, disfraces o falsas apariencias. Se utiliza para ocultar la verdad, desviar sospechas o inducir a otros a creer información falsa.
-- **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]]:** Representa la capacidad del Entrenador para interpretar el comportamiento, las emociones y las intenciones de otras personas o Pokémon. Se utiliza para detectar mentiras, comprender el estado emocional de un individuo y anticipar sus posibles acciones.
+- **[[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]]:** Representa la capacidad del Entrenador para influir en los demás mediante el diálogo, la empatía y la cooperación. Se utiliza para establecer relaciones, negociar acuerdos y convencer a otras personas o Pokémon sin recurrir a la fuerza o al engaño.
+- **[[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Engaño\|Engaño]]:** Representa la capacidad del Entrenador para manipular la percepción de los demás mediante mentiras, disfraces o falsas apariencias. Se utiliza para ocultar la verdad, desviar sospechas o inducir a otros a creer información falsa.
+- **[[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]]:** Representa la capacidad del Entrenador para interpretar el comportamiento, las emociones y las intenciones de otras personas o Pokémon. Se utiliza para detectar mentiras, comprender el estado emocional de un individuo y anticipar sus posibles acciones.
 
-### [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades Especializas\|Habilidades Especializas]]
+### [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades Especializas\|Habilidades Especializas]]
 Algunas disciplinas abarcan un campo de conocimiento demasiado amplio para representarse mediante una única Habilidad. Las **Habilidades Especializadas** representan una formación, profesión o experiencia mucho más específica dentro de una Habilidad.
 
-Cuando una Habilidad Especializada resulte aplicable a una **[[Entrenador/Pruebas de Habilidad\|Prueba de Habilidad]]**, el Entrenador obtiene un **bono de Especialización de +15** a la tirada, además de cualquier beneficio otorgado por su grado de competencia en la Habilidad principal.
+Cuando una Habilidad Especializada resulte aplicable a una **[[El Entrenador/Pruebas de Habilidad\|Prueba de Habilidad]]**, el Entrenador obtiene un **bono de Especialización de +15** a la tirada, además de cualquier beneficio otorgado por su grado de competencia en la Habilidad principal.
 
 Cada Habilidad Especializada pertenece siempre a una única Habilidad y nunca puede utilizarse de forma independiente. Si una situación no está cubierta por una Especialización, la Prueba se resuelve utilizando únicamente la Habilidad principal.
 
@@ -188,11 +188,11 @@ A diferencia del resto de las Habilidades, **Oficio** no puede utilizarse por s�
 
 Algunos ejemplos incluyen:
 
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Cocina)
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Mecánica)
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Fotografía)
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Cerrajería)
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Apricorns)
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Cocina)
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Mecánica)
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Fotografía)
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Cerrajería)
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]] (Apricorns)
 
 Cada Especialización de **Oficio** representa una profesión independiente y posee sus propias aplicaciones dentro del juego.
 
@@ -204,19 +204,19 @@ Algunos ejemplos incluyen:
 
 | Habilidad         | Especializaciones                                  |
 | ----------------- | -------------------------------------------------- |
-| [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]]  | Historia, Mitología, Biología Pokémon, Arqueología |
-| [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]]      | Cirugía, Veterinaria Pokémon, Farmacología         |
-| [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]] | Montañismo, Navegación, Espeleología               |
-| [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]]        | Cocina, Mecánica, Fotografía, Cerrajería           |
+| [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]]  | Historia, Mitología, Biología Pokémon, Arqueología |
+| [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]]      | Cirugía, Veterinaria Pokémon, Farmacología         |
+| [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]] | Montañismo, Navegación, Espeleología               |
+| [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]]        | Cocina, Mecánica, Fotografía, Cerrajería           |
 La disponibilidad de cada Habilidad Especializada dependerá de las opciones ofrecidas por las distintas reglas del juego.
 ___
-## [[Entrenador/Características del Entrenador/Tiradas de Salvación del Entrenador\|Tiradas de Salvación]]
+## [[El Entrenador/Características del Entrenador/Tiradas de Salvación del Entrenador\|Tiradas de Salvación]]
 A lo largo de sus aventuras, los entrenadores se enfrentarán a peligros que no siempre podrán evitar. Derrumbes, ataques de Pokémon, fenómenos naturales, poderes psíquicos o efectos capaces de alterar la mente pondrán constantemente a prueba su capacidad para mantenerse en pie.
 
 Las **Tiradas de Salvación** se realizan cuando un entrenador debe resistir un peligro que actúa directamente sobre él. A diferencia de las Pruebas de Habilidad, el entrenador no intenta conseguir un objetivo, sino soportar los efectos de una amenaza externa.
 
 ### Bonificadores a las Salvaciones
-Las **Tiradas de Salvación** representan la experiencia del entrenador para reaccionar ante situaciones de peligro. Por este motivo, todas las Salvaciones reciben un bonificador igual al **doble del [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]**, el cual se suma al **Valor Objetivo** de la tirada.
+Las **Tiradas de Salvación** representan la experiencia del entrenador para reaccionar ante situaciones de peligro. Por este motivo, todas las Salvaciones reciben un bonificador igual al **doble del [[Reglas Generales/Bonificador de Experiencia\|Bonificador de Experiencia]]**, el cual se suma al **Valor Objetivo** de la tirada.
 
 Además, algunos **Rasgos**, **Profesiones** u otros efectos pueden otorgar bonificadores adicionales a una o más Tiradas de Salvación específicas.
 
@@ -253,12 +253,12 @@ Cada efecto indica qué ocurre si la Tirada de Salvación tiene éxito o fracasa
 En algunos casos, una Tirada de Salvación exitosa puede evitar completamente sus consecuencias. En otros, puede reducir su duración, disminuir su gravedad o permitir que el entrenador sufra únicamente una parte de sus efectos.
 ___
 
-## [[Entrenador/Profesión/Profesión\|Profesión]]
+## [[El Entrenador/Profesión/Profesión\|Profesión]]
 Todo entrenador desarrolla su propia forma de afrontar los desafíos del mundo Pokémon. Mientras algunos dedican su vida a explorar territorios salvajes, otros perfeccionan sus capacidades psíquicas, investigan fenómenos extraños, dominan un oficio o se convierten en expertos en el cuidado y entrenamiento de los Pokémon. 
 
 Una **Profesión** representa la especialización del entrenador y define las habilidades únicas que adquiere a lo largo de su aventura. Más que un trabajo o una ocupación, una Profesión refleja la experiencia, el entrenamiento y el camino que el personaje ha decidido seguir.
 
-A medida que el **[[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]** aumenta, el personaje obtiene acceso a nuevos **Grados de Profesión**, permitiéndole profundizar en una especialización existente o comenzar una completamente nueva. De esta forma, cada entrenador construye una identidad propia a partir de las decisiones que toma durante su progreso.
+A medida que el **[[El Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]** aumenta, el personaje obtiene acceso a nuevos **Grados de Profesión**, permitiéndole profundizar en una especialización existente o comenzar una completamente nueva. De esta forma, cada entrenador construye una identidad propia a partir de las decisiones que toma durante su progreso.
 
 Todas las Profesiones se dividen en **cuatro Grados**, cada uno de los cuales representa un nuevo nivel de dominio sobre esa disciplina. Los primeros Grados proporcionan los fundamentos de la especialización, mientras que los últimos otorgan capacidades que distinguen al entrenador como un verdadero referente en ese campo.
 
@@ -266,7 +266,7 @@ Un entrenador puede dedicar toda su carrera a perfeccionar una única Profesión
 
 A continuación se presentan las Profesiones disponibles para los entrenadores.
 
-#### [[Entrenador/Profesión/Cazador\|Cazador]]
+#### [[El Entrenador/Profesión/Cazador\|Cazador]]
 Especialista en aproximarse a Pokémon salvajes sin ser detectado, estudiando sus comportamientos y aprovechando el terreno para obtener ventaja.
 
 #### [[Rastreador]]
@@ -282,7 +282,7 @@ Manipula objetos mediante el poder de su mente, desarrollando un control cada ve
 Crea ilusiones y engaños para confundir a sus rivales, infiltrarse o manipular la percepción de quienes lo rodean.
 
 ___
-## [[Entrenador/Heridas\|Heridas]]
+## [[El Entrenador/Heridas\|Heridas]]
 Aunque los entrenadores rara vez participan directamente en los combates, el mundo Pokémon está lleno de peligros capaces de poner en riesgo su integridad. Ataques de Pokémon, caídas, desastres naturales o cualquier otra amenaza pueden provocar lesiones lo suficientemente graves como para impedirles continuar.
 
 Las **Heridas** representan el estado físico de un entrenador y el desgaste acumulado tras enfrentarse a situaciones realmente peligrosas. A diferencia de los **Puntos de Salud** de los Pokémon, las Heridas no miden el daño recibido de forma gradual, sino las lesiones significativas que comprometen la capacidad del entrenador para seguir actuando.
@@ -294,7 +294,7 @@ Las Heridas no desaparecen por sí solas durante la aventura. Recuperarse de una
 ### Sufrir una Herida
 Siempre que un entrenador sea afectado por un efecto capaz de causarle daño, deberá realizar una **Tirada de Salvación** utilizando la Característica indicada por el efecto o por el Director de Juego.
 
-#### Realizar la [[Entrenador/Características del Entrenador/Tiradas de Salvación del Entrenador\|Tirada de Salvación]]
+#### Realizar la [[El Entrenador/Características del Entrenador/Tiradas de Salvación del Entrenador\|Tirada de Salvación]]
 El entrenador realiza una Tirada de Salvación con la Característica correspondiente.
 
 - Si la Tirada de Salvación **tiene éxito**, el entrenador evita la Herida, pero queda **Desequilibrado** hasta el inicio de su siguiente turno.

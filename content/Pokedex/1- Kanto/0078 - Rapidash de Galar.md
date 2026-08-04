@@ -24,7 +24,7 @@ tipo2: "Tipo hada"
 >| defensa.esp | 80    |
 >| velocidad   | 105    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Fuga]]
 > - [[Velo pastel]]
 >

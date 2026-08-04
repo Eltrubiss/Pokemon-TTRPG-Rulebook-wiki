@@ -23,8 +23,8 @@ tipo1: "Tipo planta"
 >| defensa.esp | 45    |
 >| velocidad   | 38    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Espesura\|Espesura]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Espesura\|Espesura]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Antibalas]]

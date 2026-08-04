@@ -24,5 +24,5 @@ tipo2: "Tipo siniestro"
 >| defensa.esp | 99    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]

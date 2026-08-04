@@ -23,8 +23,8 @@ tipo1: "Tipo roca"
 >| defensa.esp | 30    |
 >| velocidad   | 58    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Rompemoldes\|Rompemoldes]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Potencia bruta]]

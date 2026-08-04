@@ -24,5 +24,5 @@ tipo2: "Tipo eléctrico"
 >| defensa.esp | 84    |
 >| velocidad   | 72    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Carga cuark]]

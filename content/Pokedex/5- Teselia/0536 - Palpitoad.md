@@ -24,9 +24,9 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 55    |
 >| velocidad   | 69    |
 >___
-> **[[Habilidades]]:**
-> - [[Nado rápido]]
-> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Nado Rápido]]
+> - [[El Pokémon/Habilidades/Hidratación\|Hidratación]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Absorbe agua]]

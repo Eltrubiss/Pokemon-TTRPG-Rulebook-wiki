@@ -24,5 +24,5 @@ tipo2: "Tipo fuego"
 >| defensa.esp | 120    |
 >| velocidad   | 90    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Turbollama\|Turbollama]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Turbollama\|Turbollama]]

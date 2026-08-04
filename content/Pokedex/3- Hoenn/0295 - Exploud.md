@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 73    |
 >| velocidad   | 68    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Insonorizar]]
 >
 > **[[Habilidad Oculta]]:**

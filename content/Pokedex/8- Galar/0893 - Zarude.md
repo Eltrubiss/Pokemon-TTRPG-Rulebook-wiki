@@ -24,5 +24,5 @@ tipo2: "Tipo planta"
 >| defensa.esp | 95    |
 >| velocidad   | 105    |
 >___
-> **[[Habilidades]]:**
-> - [[Defensa hoja]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Defensa Hoja]]

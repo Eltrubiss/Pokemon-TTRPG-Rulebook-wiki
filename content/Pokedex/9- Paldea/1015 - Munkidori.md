@@ -24,7 +24,7 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 90    |
 >| velocidad   | 106    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cadena tóxica]]
 >
 > **[[Habilidad Oculta]]:**

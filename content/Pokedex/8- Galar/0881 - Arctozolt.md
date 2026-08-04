@@ -24,9 +24,9 @@ tipo2: "Tipo hielo"
 >| defensa.esp | 80    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Absorbe electricidad]]
 > - [[Electricidad estática]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Quitanieves\|Quitanieves]]
+> - [[El Pokémon/Habilidades/Quitanieves\|Quitanieves]]

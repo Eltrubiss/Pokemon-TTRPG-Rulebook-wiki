@@ -23,8 +23,8 @@ tipo1: "Tipo fuego"
 >| defensa.esp | 44    |
 >| velocidad   | 61    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
 >
 > **[[Habilidad Oculta]]:**
 > - [[Puño férreo]]

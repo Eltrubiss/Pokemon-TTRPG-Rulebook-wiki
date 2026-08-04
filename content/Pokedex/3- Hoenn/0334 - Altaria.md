@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 105    |
 >| velocidad   | 80    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cura natural]]
 >
 > **[[Habilidad Oculta]]:**

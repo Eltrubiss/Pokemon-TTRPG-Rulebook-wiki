@@ -23,5 +23,5 @@ tipo1: "Tipo roca"
 >| defensa.esp | 20    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Fuente energía]]

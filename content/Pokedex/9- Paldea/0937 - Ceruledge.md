@@ -24,7 +24,7 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 100    |
 >| velocidad   | 85    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Absorbe fuego]]
 >
 > **[[Habilidad Oculta]]:**

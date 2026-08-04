@@ -23,7 +23,7 @@ tipo1: "Tipo roca"
 >| defensa.esp | 45    |
 >| velocidad   | 10    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cabeza roca]]
 > - [[Robustez]]
 >

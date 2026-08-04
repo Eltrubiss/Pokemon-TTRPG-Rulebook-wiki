@@ -24,5 +24,5 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 115    |
 >| velocidad   | 111    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]

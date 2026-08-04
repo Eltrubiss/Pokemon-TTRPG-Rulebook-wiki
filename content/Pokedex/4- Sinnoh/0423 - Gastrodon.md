@@ -24,9 +24,9 @@ tipo2: "Tipo tierra"
 >| defensa.esp | 82    |
 >| velocidad   | 39    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Viscosidad]]
 > - [[Colector]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Poder arena]]
+> - [[El Pokémon/Habilidades/Poder Arena]]

@@ -23,8 +23,8 @@ tipo1: "Tipo bicho"
 >| defensa.esp | 60    |
 >| velocidad   | 145    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Hidratación\|Hidratación]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Hidratación\|Hidratación]]
 > - [[Viscosidad]]
 >
 > **[[Habilidad Oculta]]:**

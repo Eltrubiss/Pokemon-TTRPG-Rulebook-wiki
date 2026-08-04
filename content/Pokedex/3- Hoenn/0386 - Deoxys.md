@@ -23,5 +23,5 @@ tipo1: "Tipo psíquico"
 >| defensa.esp | 50    |
 >| velocidad   | 150    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Presión]]

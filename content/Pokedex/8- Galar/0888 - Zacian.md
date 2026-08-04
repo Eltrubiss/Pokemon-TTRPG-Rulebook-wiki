@@ -23,5 +23,5 @@ tipo1: "Tipo hada"
 >| defensa.esp | 115    |
 >| velocidad   | 138    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Espada indómita]]

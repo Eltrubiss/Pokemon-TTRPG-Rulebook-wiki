@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 75    |
 >| velocidad   | 20    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Carrillo]]
 >
 > **[[Habilidad Oculta]]:**

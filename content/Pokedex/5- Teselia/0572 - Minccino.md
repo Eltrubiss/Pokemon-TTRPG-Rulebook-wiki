@@ -23,9 +23,9 @@ tipo1: "Tipo normal"
 >| defensa.esp | 40    |
 >| velocidad   | 75    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Gran encanto]]
 > - [[Experto]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Encadenado\|Encadenado]]
+> - [[El Pokémon/Habilidades/Encadenado\|Encadenado]]

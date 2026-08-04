@@ -24,8 +24,8 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 90    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Enjambre\|Enjambre]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Enjambre\|Enjambre]]
 > - [[Ojo compuesto]]
 >
 > **[[Habilidad Oculta]]:**

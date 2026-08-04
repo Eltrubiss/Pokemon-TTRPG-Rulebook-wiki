@@ -24,7 +24,7 @@ tipo2: "Tipo lucha"
 >| defensa.esp | 64    |
 >| velocidad   | 90    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Intrépido]]
 > - [[Tumbos]]
 >

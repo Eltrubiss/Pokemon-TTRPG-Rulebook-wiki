@@ -23,7 +23,7 @@ tipo1: "Tipo roca"
 >| defensa.esp | 40    |
 >| velocidad   | 60    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Vista lince]]
 > - [[Espíritu vital]]
 >

@@ -24,7 +24,7 @@ tipo2: "Tipo hada"
 >| defensa.esp | 115    |
 >| velocidad   | 80    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sincronía]]
 > - [[Calco]]
 >

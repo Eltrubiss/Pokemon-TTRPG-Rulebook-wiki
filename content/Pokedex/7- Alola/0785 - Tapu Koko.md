@@ -24,7 +24,7 @@ tipo2: "Tipo hada"
 >| defensa.esp | 75    |
 >| velocidad   | 130    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Electrogénesis]]
 >
 > **[[Habilidad Oculta]]:**

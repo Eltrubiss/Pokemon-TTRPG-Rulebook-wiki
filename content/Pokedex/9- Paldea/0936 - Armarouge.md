@@ -24,7 +24,7 @@ tipo2: "Tipo psíquico"
 >| defensa.esp | 80    |
 >| velocidad   | 75    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Absorbe fuego]]
 >
 > **[[Habilidad Oculta]]:**

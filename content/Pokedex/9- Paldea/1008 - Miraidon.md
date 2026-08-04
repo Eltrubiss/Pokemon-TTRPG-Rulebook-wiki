@@ -24,5 +24,5 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 115    |
 >| velocidad   | 135    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Motor hadrónico]]

@@ -24,5 +24,5 @@ tipo2: "Tipo lucha"
 >| defensa.esp | 53    |
 >| velocidad   | 87    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]

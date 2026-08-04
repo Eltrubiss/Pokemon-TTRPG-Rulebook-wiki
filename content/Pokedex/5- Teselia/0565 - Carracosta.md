@@ -24,9 +24,9 @@ tipo2: "Tipo roca"
 >| defensa.esp | 65    |
 >| velocidad   | 32    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Roca sólida]]
 > - [[Robustez]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Nado rápido]]
+> - [[El Pokémon/Habilidades/Nado Rápido]]

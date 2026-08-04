@@ -24,7 +24,7 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 123    |
 >| velocidad   | 44    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Punto tóxico]]
 > - [[Toque tóxico]]
 >

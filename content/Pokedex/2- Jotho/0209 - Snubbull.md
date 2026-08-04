@@ -23,7 +23,7 @@ tipo1: "Tipo hada"
 >| defensa.esp | 40    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Intimidación]]
 > - [[Fuga]]
 >

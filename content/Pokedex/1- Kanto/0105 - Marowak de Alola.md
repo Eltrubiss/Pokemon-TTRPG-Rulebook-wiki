@@ -24,7 +24,7 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 80    |
 >| velocidad   | 45    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cuerpo maldito]]
 > - [[Pararrayos]]
 >

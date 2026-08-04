@@ -10,7 +10,7 @@ lastAccessedAt: 1784431281253
 [Context: Notes: Reglas/Entrenador/Entrenador.md]
 [Timestamp: 2026/07/18 22:08:12]
 
-**ai**: ¡Claro! Para darle cuerpo a tu nota [[Entrenador/Entrenador\|Entrenador]], aquí tienes una propuesta de introducción que captura la esencia de lo que significa ser un personaje en un TTRPG de Pokémon. Puedes integrarla directamente debajo de lo que ya tienes escrito.
+**ai**: ¡Claro! Para darle cuerpo a tu nota [[El Entrenador/El Entrenador\|Entrenador]], aquí tienes una propuesta de introducción que captura la esencia de lo que significa ser un personaje en un TTRPG de Pokémon. Puedes integrarla directamente debajo de lo que ya tienes escrito.
 
 Aquí tienes una estructura sugerida:
 
@@ -27,7 +27,7 @@ En este sistema, el Entrenador cumple varias funciones vitales:
 - **Compañero:** El crecimiento de un Pokémon está intrínsecamente ligado al cuidado y la guía que tú le proporcionas. Un Entrenador es, ante todo, un amigo.
 
 ### Tu Identidad
-Cada Entrenador es único. Algunos buscan la gloria en la Liga Pokémon, otros desean desentrañar los misterios de la evolución, y algunos simplemente quieren proteger el equilibrio natural. Al crear a tu personaje en [[Entrenador/Entrenador\|Entrenador]], piensa en qué es lo que te impulsa a salir de casa con una Poké Ball en el cinturón y un mundo entero por descubrir.
+Cada Entrenador es único. Algunos buscan la gloria en la Liga Pokémon, otros desean desentrañar los misterios de la evolución, y algunos simplemente quieren proteger el equilibrio natural. Al crear a tu personaje en [[El Entrenador/El Entrenador\|Entrenador]], piensa en qué es lo que te impulsa a salir de casa con una Poké Ball en el cinturón y un mundo entero por descubrir.
 
 ---
 
@@ -37,14 +37,14 @@ Si quieres expandir más adelante, podrías añadir secciones como:
 - **Especializaciones:** (Criador, Investigador, Combatiente, Coordinador).
 - **Equipo Inicial:** Lo que todo Entrenador lleva en su mochila al empezar.
 
-¿Te gustaría que te ayude a definir alguna de estas mecánicas específicas para tu regla de [[Entrenador/Entrenador\|Entrenador]]?
+¿Te gustaría que te ayude a definir alguna de estas mecánicas específicas para tu regla de [[El Entrenador/El Entrenador\|Entrenador]]?
 [Timestamp: 2026/07/18 22:08:25]
 
-**user**: Ayudame a escribir sobre los rasgos del Entrenador. Necesito hablar brevemente del [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]] , luego de las Características del Entrenador. En esta nos enfocaremos más adelante. Las Características base del entrenador son Carisma, Físico y Saber
+**user**: Ayudame a escribir sobre los rasgos del Entrenador. Necesito hablar brevemente del [[El Entrenador/Nivel de Entrenador\|Nivel de Entrenador]] , luego de las Características del Entrenador. En esta nos enfocaremos más adelante. Las Características base del entrenador son Carisma, Físico y Saber
 [Context: Notes: Reglas/Pokémon/Pokémon.md, Reglas/Entrenador/Nivel de Entrenador.md, Reglas/Entrenador/Entrenador.md]
 [Timestamp: 2026/07/18 22:12:25]
 
-**ai**: Esta es una propuesta para la sección de **Rasgos del Entrenador** en tu nota [[Entrenador/Entrenador\|Entrenador]]. He estructurado la información integrando lo que ya tienes en [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]] y definiendo las tres características base que mencionaste.
+**ai**: Esta es una propuesta para la sección de **Rasgos del Entrenador** en tu nota [[El Entrenador/El Entrenador\|Entrenador]]. He estructurado la información integrando lo que ya tienes en [[El Entrenador/Nivel de Entrenador\|Nivel de Entrenador]] y definiendo las tres características base que mencionaste.
 
 ---
 
@@ -52,13 +52,13 @@ Si quieres expandir más adelante, podrías añadir secciones como:
 
 Un Entrenador no se define solo por los Pokémon que lleva en su equipo, sino por su propia progresión y sus capacidades personales. Estos rasgos determinan cómo interactúas con el mundo, cómo lideras a tus compañeros y qué tan lejos puedes llegar en tu viaje.
 
-## [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]
+## [[El Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]
 El **Nivel de Entrenador** es la medida principal de tu crecimiento y veteranía. A diferencia del nivel de un Pokémon, que mide su poder individual, tu nivel representa tu capacidad técnica y logística. 
 
-A medida que aumentas tu [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]:
+A medida que aumentas tu [[El Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]:
 - **Capacidad de Equipo:** Podrás gestionar y llevar contigo a más Pokémon simultáneamente (desde 1 hasta un máximo de 6).
 - **Autoridad y Captura:** Tu técnica mejora, permitiéndote capturar Pokémon más poderosos y elevar el potencial de aquellos que están bajo tu tutela.
-- **[[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]:** Obtienes un bono numérico que refleja tu veteranía y se aplica a diversas interacciones y mecánicas del juego.
+- **[[Reglas Generales/Bonificador de Experiencia\|Bonificador de Experiencia]]:** Obtienes un bono numérico que refleja tu veteranía y se aplica a diversas interacciones y mecánicas del juego.
 
 ## Características del Entrenador
 Mientras que los Pokémon tienen sus propias estadísticas de combate, el Entrenador posee tres características fundamentales que definen su estilo de juego y su capacidad para resolver situaciones fuera y dentro del encuentro Pokémon:
@@ -104,8 +104,8 @@ En Mothership, los críticos no suelen ser solo el 1 o el 100. Se utiliza la **r
 
 *Esto añade mucha emoción sin tener que hacer cálculos extra.*
 
-### 2. Integración del [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]
-Ya que en tu nota [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]] mencionaste un **Bonificador de Experiencia** (que va de +1 a +7), debes decidir cómo afecta a la tirada d100. Tienes dos opciones:
+### 2. Integración del [[Reglas Generales/Bonificador de Experiencia\|Bonificador de Experiencia]]
+Ya que en tu nota [[El Entrenador/Nivel de Entrenador\|Nivel de Entrenador]] mencionaste un **Bonificador de Experiencia** (que va de +1 a +7), debes decidir cómo afecta a la tirada d100. Tienes dos opciones:
 - **Opción A (Suma a la característica):** Si tienes Físico 40 y un Bono de +5, tu objetivo es 45. (Es más intuitivo).
 - **Opción B (Multiplicador):** El bono se multiplica por 5 o 10 para que tenga un impacto real en un dado de 100 caras. Por ejemplo, un bono de +2 sumaría +10 a la característica para esa prueba.
 
@@ -133,7 +133,7 @@ Cuando un Entrenador intenta realizar una acción cuyo resultado es incierto y t
 
 1. **Identificar la Característica:** El Director de Juego (DJ) determina si la acción requiere **Carisma**, **Físico** o **Saber**.
 2. **Lanzar 1d100:** El jugador lanza un dado de cien caras.
-3. **Determinar el Éxito:** Si el resultado es **menor o igual ($\le$)** a la puntuación de la característica del Entrenador (sumando su [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]), la acción tiene éxito.
+3. **Determinar el Éxito:** Si el resultado es **menor o igual ($\le$)** a la puntuación de la característica del Entrenador (sumando su [[Reglas Generales/Bonificador de Experiencia\|Bonificador de Experiencia]]), la acción tiene éxito.
 
 > [!tip] Regla de Oro
 > En este sistema, **mientras más bajo sea el resultado, mejor**, a menos que estés en una tirada enfrentada contra otro personaje.
@@ -149,13 +149,13 @@ Cuando un Entrenador intenta realizar una acción cuyo resultado es incierto y t
 
 **ai**: Perfecto, enfoquémonos en las **Características del Entrenador**. Siguiendo la filosofía de Mothership, las características son la base numérica (el porcentaje de éxito), mientras que las habilidades derivadas actúan como especializaciones que otorgan un bono (usualmente +10% o +20%) a la tirada cuando son aplicables.
 
-Aquí tienes una propuesta para estructurar la nota [[Entrenador/Características del Entrenador/Características del Entrenador\|Características del Entrenador]], incluyendo las tres habilidades derivadas para cada una y algunos consejos de diseño:
+Aquí tienes una propuesta para estructurar la nota [[El Entrenador/Características del Entrenador/Características del Entrenador\|Características del Entrenador]], incluyendo las tres habilidades derivadas para cada una y algunos consejos de diseño:
 
 ---
 
 # Características del Entrenador
 
-Las Características representan el potencial bruto del Entrenador. En una **[[Entrenador/Pruebas de Habilidad\|Prueba de Habilidad]]**, el valor de la característica es el número objetivo que debes igualar o superar hacia abajo con 1d100.
+Las Características representan el potencial bruto del Entrenador. En una **[[El Entrenador/Pruebas de Habilidad\|Prueba de Habilidad]]**, el valor de la característica es el número objetivo que debes igualar o superar hacia abajo con 1d100.
 
 ## Físico |
 Representa la potencia muscular, la coordinación motriz y la salud sistémica del Entrenador.
@@ -187,7 +187,7 @@ Al implementar este sistema basado en Mothership, te sugiero considerar lo sigui
     - **Entrenado (+10):** Conocimiento básico profesional.
     - **Experto (+20):** Un especialista reconocido en esa área.
 3. **Evita el solapamiento:** Asegúrate de que el DJ tenga claro cuándo pedir una tirada de característica pura y cuándo aplica una habilidad. Por ejemplo, "Mover una roca pesada" es **Físico** puro, pero "Escalar una pared de roca" es **Físico (Atletismo)**.
-4. **Habilidades y el [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]:** Podrías establecer que, al subir ciertos niveles, el jugador pueda elegir una nueva habilidad o mejorar una existente, reflejando su especialización (ej. un Entrenador que se vuelve "Médico Pokémon" o "Montañero").
+4. **Habilidades y el [[El Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]:** Podrías establecer que, al subir ciertos niveles, el jugador pueda elegir una nueva habilidad o mejorar una existente, reflejando su especialización (ej. un Entrenador que se vuelve "Médico Pokémon" o "Montañero").
 
 ¿Qué te parece esta distribución de habilidades? ¿Crees que falta alguna faceta importante del mundo Pokémon que no esté cubierta por estas nueve?
 [Timestamp: 2026/07/18 22:31:29]
@@ -196,7 +196,7 @@ Al implementar este sistema basado en Mothership, te sugiero considerar lo sigui
 [Context: Notes: Reglas/Entrenador/Pruebas de Habilidad.md, Reglas/Entrenador/Características del Entrenador.md]
 [Timestamp: 2026/07/18 22:32:59]
 
-**ai**: Aquí tienes una propuesta para la introducción de la nota [[Entrenador/Características del Entrenador/Características del Entrenador\|Características del Entrenador]]. Esta sección servirá para que el jugador entienda de un vistazo qué define a su personaje y cómo se traducen sus capacidades al sistema de juego.
+**ai**: Aquí tienes una propuesta para la introducción de la nota [[El Entrenador/Características del Entrenador/Características del Entrenador\|Características del Entrenador]]. Esta sección servirá para que el jugador entienda de un vistazo qué define a su personaje y cómo se traducen sus capacidades al sistema de juego.
 
 ---
 
@@ -204,7 +204,7 @@ Al implementar este sistema basado en Mothership, te sugiero considerar lo sigui
 
 En el mundo de Pokémon, no todos los desafíos se resuelven en el campo de batalla. Mientras tus Pokémon aportan su fuerza elemental, tú, como Entrenador, aportas tus propias capacidades humanas. Las **Características** representan el potencial innato y el entrenamiento de tu personaje, definiendo qué tan bien puedes reaccionar ante el peligro, investigar un misterio o liderar a otros.
 
-Estas puntuaciones son el núcleo de las [[Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]. En este sistema, cada característica actúa como el valor objetivo que debes igualar o superar hacia abajo con una tirada de **1d100**.
+Estas puntuaciones son el núcleo de las [[El Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]. En este sistema, cada característica actúa como el valor objetivo que debes igualar o superar hacia abajo con una tirada de **1d100**.
 
 ### Las Tres Columnas del Entrenador
 Tu personaje se define mediante tres pilares fundamentales. Cada uno de ellos agrupa un conjunto de conocimientos y capacidades físicas específicas:
@@ -225,7 +225,7 @@ Cada característica tiene una puntuación numérica (normalmente entre 10 y 80)
 - **Habilidades Derivadas:** Son especializaciones dentro de cada característica. Poseer una habilidad te otorga una ventaja competitiva (como un bono numérico o un dado de ventaja) cuando realizas una acción muy específica.
 - **El Factor Humano:** A diferencia de los Pokémon, que dependen de sus tipos y movimientos, el Entrenador depende de su ingenio. Un alto **Saber** puede permitirte identificar la debilidad de un Pokémon legendario, mientras que un **Físico** envidiable podría salvarte de una caída en una cueva profunda.
 
-A medida que aumentas tu [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]], tendrás la oportunidad de mejorar estas puntuaciones, reflejando cómo las penurias y descubrimientos del viaje te han moldeado.
+A medida que aumentas tu [[El Entrenador/Nivel de Entrenador\|Nivel de Entrenador]], tendrás la oportunidad de mejorar estas puntuaciones, reflejando cómo las penurias y descubrimientos del viaje te han moldeado.
 
 ---
 
@@ -278,7 +278,7 @@ Para tu juego de Pokémon, podrías organizarlo así para las 9 habilidades que 
 
 ---
 
-### Propuesta para tu nota [[Entrenador/Características del Entrenador/Características del Entrenador\|Características del Entrenador]]
+### Propuesta para tu nota [[El Entrenador/Características del Entrenador/Características del Entrenador\|Características del Entrenador]]
 
 Puedes añadir esta sección para explicar la creación y las habilidades:
 
@@ -352,12 +352,12 @@ Para que el jugador sepa qué elegir, podrías añadir una breve frase de "Para 
 [Context: Notes: Reglas/Entrenador/Pruebas de Habilidad.md, Reglas/Entrenador/Características del Entrenador.md]
 [Timestamp: 2026/07/18 23:45:24]
 
-**ai**: Tienes razón, te pido disculpas. En el contexto que recibo actualmente, la nota [[Entrenador/Características del Entrenador/Características del Entrenador\|Características del Entrenador]] me aparece aún sin contenido (solo con los tags). Es posible que no se haya guardado o sincronizado el texto todavía en el sistema que compartimos.
+**ai**: Tienes razón, te pido disculpas. En el contexto que recibo actualmente, la nota [[El Entrenador/Características del Entrenador/Características del Entrenador\|Características del Entrenador]] me aparece aún sin contenido (solo con los tags). Es posible que no se haya guardado o sincronizado el texto todavía en el sistema que compartimos.
 
 ¿Podrías **pegar aquí el listado de habilidades** que escribiste en la nota? Así podré ver exactamente cuáles elegiste, cómo las agrupaste y darte una opinión precisa sobre si cubren todas las necesidades de un Entrenador en tu sistema.
 [Timestamp: 2026/07/18 23:46:19]
 
-**user**: [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Fortaleza\|Fortaleza]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Investigación\|Investigación]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Engaño\|Engaño]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]]
+**user**: [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Fortaleza\|Fortaleza]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Investigación\|Investigación]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Engaño\|Engaño]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]]
 [Context: Notes: Reglas/Entrenador/Características del Entrenador.md]
 [Timestamp: 2026/07/18 23:47:49]
 
@@ -368,20 +368,20 @@ Aquí te doy mi opinión sobre cómo encajan y si son suficientes:
 ### Distribución Sugerida
 
 **Físico**
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Fortaleza\|Fortaleza]]: Para fuerza bruta, cargar equipo pesado o retener a un Pokémon pequeño.
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]]: Para esquivar ataques ambientales, correr o lanzar Poké Balls con precisión.
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]]: Para rastrear Pokémon en la maleza, acampar y resistir climas adversos.
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Fortaleza\|Fortaleza]]: Para fuerza bruta, cargar equipo pesado o retener a un Pokémon pequeño.
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]]: Para esquivar ataques ambientales, correr o lanzar Poké Balls con precisión.
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]]: Para rastrear Pokémon en la maleza, acampar y resistir climas adversos.
 
 **Saber**
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Investigación\|Investigación]]: Para buscar pistas en la escena de un crimen (estilo Detective Pikachu) o encontrar objetos ocultos.
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]]: Para usar el PC, reparar la Pokédex o hackear sistemas de equipos villanos.
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]]: Para entender mitos de Pokémon Legendarios y descifrar ruinas antiguas (como los Unown).
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]]: Para curar estados alterados y heridas de los Pokémon en el campo.
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Investigación\|Investigación]]: Para buscar pistas en la escena de un crimen (estilo Detective Pikachu) o encontrar objetos ocultos.
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]]: Para usar el PC, reparar la Pokédex o hackear sistemas de equipos villanos.
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]]: Para entender mitos de Pokémon Legendarios y descifrar ruinas antiguas (como los Unown).
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]]: Para curar estados alterados y heridas de los Pokémon en el campo.
 
 **Carisma**
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]]: Para negociar con otros entrenadores o calmar a un Líder de Gimnasio molesto.
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Engaño\|Engaño]]: Para infiltrarse en bases enemigas o distraer a guardias.
-- [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]]: Para leer las intenciones de un NPC o entender qué siente un Pokémon (empatía).
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]]: Para negociar con otros entrenadores o calmar a un Líder de Gimnasio molesto.
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Engaño\|Engaño]]: Para infiltrarse en bases enemigas o distraer a guardias.
+- [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]]: Para leer las intenciones de un NPC o entender qué siente un Pokémon (empatía).
 
 ---
 
@@ -393,12 +393,12 @@ Sí, cubren el 95% de las situaciones de juego. Tienes un buen equilibrio entre 
 **Observaciones y Sugerencias:**
 
 1. **El factor "Pokémon":** Noto que no hay una habilidad específica de "Trato Pokémon" o "Vínculo".
-    - Si quieres mantener la lista tal cual, [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]] podría usarse para entender a los Pokémon y [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]] para ganarse su confianza.
-    - Si sientes que falta algo más "salvaje", [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]] podría cubrir el manejo de criaturas.
+    - Si quieres mantener la lista tal cual, [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]] podría usarse para entender a los Pokémon y [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]] para ganarse su confianza.
+    - Si sientes que falta algo más "salvaje", [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]] podría cubrir el manejo de criaturas.
 
 2. **Saber está un poco más cargado:** Tienes 4 habilidades en **Saber** y 3 en las demás. Esto no es malo, ya que el mundo Pokémon es muy tecnológico y lleno de lore, pero tenlo en cuenta para que los personajes con mucho Saber no acaparen todas las escenas de investigación.
 
-3. **Puntería:** En un TTRPG de Pokémon, lanzar la Poké Ball es un momento clave. ¿Usarías [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]] para esto? Si es así, asegúrate de que los jugadores lo sepan, ya que será una de las habilidades más usadas.
+3. **Puntería:** En un TTRPG de Pokémon, lanzar la Poké Ball es un momento clave. ¿Usarías [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]] para esto? Si es así, asegúrate de que los jugadores lo sepan, ya que será una de las habilidades más usadas.
 
 4. **Perspicacia:** Es una excelente adición. En Mothership se usa mucho para no ser engañado, y en Pokémon es vital para saber si un Pokémon salvaje está asustado o es agresivo antes de acercarse.
 
@@ -409,7 +409,7 @@ Sí, cubren el 95% de las situaciones de juego. Tienes un buen equilibrio entre 
 [Context: Notes: Reglas/Entrenador/Características del Entrenador.md]
 [Timestamp: 2026/07/18 23:50:19]
 
-**ai**: Aquí tienes una propuesta para redactar de forma breve la sección de **Habilidades** dentro de tu nota de [[Entrenador/Características del Entrenador/Características del Entrenador\|Características del Entrenador]]. Esto servirá como puente antes de que desarrolles cada una en su propia nota técnica.
+**ai**: Aquí tienes una propuesta para redactar de forma breve la sección de **Habilidades** dentro de tu nota de [[El Entrenador/Características del Entrenador/Características del Entrenador\|Características del Entrenador]]. Esto servirá como puente antes de que desarrolles cada una en su propia nota técnica.
 
 ---
 
@@ -420,19 +420,19 @@ Las **Habilidades** representan el entrenamiento especializado, los estudios o l
 ### Funcionamiento General
 Mecánicamente, las habilidades no poseen un valor numérico propio. En su lugar, actúan como **modificadores positivos** para tus Características base:
 
-- **Bonificación:** Cuando realizas una [[Entrenador/Pruebas de Habilidad\|Prueba de Habilidad]] y posees una habilidad relevante para la tarea, sumas un bono (normalmente **+10**) a tu Característica, aumentando tu probabilidad de éxito.
-- **Especialización:** Un Entrenador puede ser muy fuerte (**Físico** alto), pero solo aquel con la habilidad de [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]] destacará al intentar esquivar un ataque o escalar una pared con rapidez.
+- **Bonificación:** Cuando realizas una [[El Entrenador/Pruebas de Habilidad\|Prueba de Habilidad]] y posees una habilidad relevante para la tarea, sumas un bono (normalmente **+10**) a tu Característica, aumentando tu probabilidad de éxito.
+- **Especialización:** Un Entrenador puede ser muy fuerte (**Físico** alto), pero solo aquel con la habilidad de [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]] destacará al intentar esquivar un ataque o escalar una pared con rapidez.
 
 ### Listado de Habilidades por Característica
 
 | Característica | Habilidades Relacionadas |
 | :--- | :--- |
-| **Físico** | [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Fortaleza\|Fortaleza]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]] |
-| **Saber** | [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Investigación\|Investigación]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]] |
-| **Carisma** | [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Engaño\|Engaño]], [[Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]] |
+| **Físico** | [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Fortaleza\|Fortaleza]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Destreza\|Destreza]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Supervivencia\|Supervivencia]] |
+| **Saber** | [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Investigación\|Investigación]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Oficio\|Oficio]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Academicismo\|Academicismo]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Medicina\|Medicina]] |
+| **Carisma** | [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Diplomacia\|Diplomacia]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Engaño\|Engaño]], [[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Perspicacia\|Perspicacia]] |
 
 > [!info] Nota de Regla
-> Para profundizar en la descripción, usos específicos y ejemplos de cada una de estas capacidades, consulta la nota completa de **[[Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades de Entrenador\|Habilidades de Entrenador]]**.
+> Para profundizar en la descripción, usos específicos y ejemplos de cada una de estas capacidades, consulta la nota completa de **[[El Entrenador/Características del Entrenador/Habilidades de Entrenador/Habilidades de Entrenador\|Habilidades de Entrenador]]**.
 
 ---
 
@@ -452,7 +452,7 @@ Empecemos con la introducción
 [Context: Notes: Reglas/Entrenador/Nivel de Entrenador.md, Reglas/Pokémon/Nivel Pokémon.md]
 [Timestamp: 2026/07/19 00:03:16]
 
-**ai**: Esta es una propuesta para la introducción de la nota [[Pokémon/Nivel Pokémon\|Nivel Pokémon]]. He estructurado el contenido para que primero se entienda cómo funciona en tu sistema y luego cómo se traduce desde el material oficial.
+**ai**: Esta es una propuesta para la introducción de la nota [[El Pokémon/Nivel Pokémon\|Nivel Pokémon]]. He estructurado el contenido para que primero se entienda cómo funciona en tu sistema y luego cómo se traduce desde el material oficial.
 
 ---
 
@@ -470,8 +470,8 @@ A diferencia de los videojuegos tradicionales, este TTRPG utiliza una escala de 
 - **Nivel 11-19:** Pokémon veteranos, altamente poderosos y experimentados.
 - **Nivel 20:** La cúspide del potencial. Criaturas capaces de desafiar a seres milenarios y leyendas.
 
-### El [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]
-Al igual que ocurre con el [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]], el nivel de un Pokémon determina su **Bonificador de Experiencia**. Este valor numérico crece de forma constante y se suma a diversas estadísticas y tiradas del Pokémon, reflejando su veteranía y maestría en sus propios movimientos y habilidades.
+### El [[Reglas Generales/Bonificador de Experiencia\|Bonificador de Experiencia]]
+Al igual que ocurre con el [[El Entrenador/Nivel de Entrenador\|Nivel de Entrenador]], el nivel de un Pokémon determina su **Bonificador de Experiencia**. Este valor numérico crece de forma constante y se suma a diversas estadísticas y tiradas del Pokémon, reflejando su veteranía y maestría en sus propios movimientos y habilidades.
 
 ---
 
@@ -491,7 +491,7 @@ $$\text{Nivel TTRPG} = \frac{\text{Nivel Oficial}}{5}$$
 ---
 
 ### ¿Qué te parece esta base?
-He dejado claro que el nivel afecta al [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]], manteniendo la coherencia con lo que ya escribiste en [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]. 
+He dejado claro que el nivel afecta al [[Reglas Generales/Bonificador de Experiencia\|Bonificador de Experiencia]], manteniendo la coherencia con lo que ya escribiste en [[El Entrenador/Nivel de Entrenador\|Nivel de Entrenador]]. 
 
 Si estás de acuerdo, podríamos continuar con:
 1.  **Efectos del Nivel:** ¿Qué gana exactamente un Pokémon al subir de nivel? (Mejora de características, nuevos movimientos, etc.)
@@ -510,7 +510,7 @@ Si estás de acuerdo, podríamos continuar con:
 [Context: Notes: Reglas/Bonificador de Experiencia.md]
 [Timestamp: 2026/07/19 00:13:06]
 
-**ai**: Aquí tienes una propuesta para la nota [[Reglas/Bonificador de Experiencia\|Bonificador de Experiencia]]. He estructurado la introducción para que abarque tanto a Entrenadores como a Pokémon, y he detallado las reglas específicas que mencionaste para las criaturas.
+**ai**: Aquí tienes una propuesta para la nota [[Reglas Generales/Bonificador de Experiencia\|Bonificador de Experiencia]]. He estructurado la introducción para que abarque tanto a Entrenadores como a Pokémon, y he detallado las reglas específicas que mencionaste para las criaturas.
 
 ---
 
@@ -569,7 +569,7 @@ Para los Entrenadores, el Bonificador de Experiencia representa su pericia logí
 | **16 - 18** | +6 | $6d4$ |
 | **19 - 20** | +7 | $7d4$ |
 
-*(Nota: Esta tabla es una sugerencia basada en la progresión de [[Entrenador/Nivel de Entrenador\|Nivel de Entrenador]] que ya tienes definida).*
+*(Nota: Esta tabla es una sugerencia basada en la progresión de [[El Entrenador/Nivel de Entrenador\|Nivel de Entrenador]] que ya tienes definida).*
 
-¿Te gustaría ajustar los valores de la tabla o añadir alguna interacción específica para el Bonificador del Entrenador en las [[Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]?
+¿Te gustaría ajustar los valores de la tabla o añadir alguna interacción específica para el Bonificador del Entrenador en las [[El Entrenador/Pruebas de Habilidad\|Pruebas de Habilidad]]?
 [Timestamp: 2026/07/19 00:13:21]

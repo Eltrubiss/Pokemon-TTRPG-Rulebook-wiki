@@ -23,8 +23,8 @@ tipo1: "Tipo normal"
 >| defensa.esp | 95    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Ritmo Propio\|Ritmo Propio]]
 > - [[Despiste]]
 >
 > **[[Habilidad Oculta]]:**

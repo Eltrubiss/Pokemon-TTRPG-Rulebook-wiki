@@ -24,7 +24,7 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 55    |
 >| velocidad   | 15    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Efecto espora]]
 >
 > **[[Habilidad Oculta]]:**

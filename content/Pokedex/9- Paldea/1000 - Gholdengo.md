@@ -24,5 +24,5 @@ tipo2: "Tipo fantasma"
 >| defensa.esp | 91    |
 >| velocidad   | 84    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cuerpo áureo]]

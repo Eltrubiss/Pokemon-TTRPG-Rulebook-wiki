@@ -23,5 +23,5 @@ tipo1: "Tipo normal"
 >| defensa.esp | 95    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Letargo perenne]]

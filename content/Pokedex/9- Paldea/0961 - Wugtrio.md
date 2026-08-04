@@ -23,9 +23,9 @@ tipo1: "Tipo agua"
 >| defensa.esp | 70    |
 >| velocidad   | 120    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Baba]]
 > - [[Cobardía]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
+> - [[El Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]

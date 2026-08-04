@@ -23,8 +23,8 @@ tipo1: "Tipo fuego"
 >| defensa.esp | 48    |
 >| velocidad   | 64    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Gula]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]
+> - [[El Pokémon/Habilidades/Mar Llamas\|Mar Llamas]]

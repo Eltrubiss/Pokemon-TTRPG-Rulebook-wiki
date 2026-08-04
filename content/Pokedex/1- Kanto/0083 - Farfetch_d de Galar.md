@@ -23,7 +23,7 @@ tipo1: "Tipo lucha"
 >| defensa.esp | 62    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Impasible]]
 >
 > **[[Habilidad Oculta]]:**

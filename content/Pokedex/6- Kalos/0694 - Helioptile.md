@@ -24,9 +24,9 @@ tipo2: "Tipo normal"
 >| defensa.esp | 43    |
 >| velocidad   | 70    |
 >___
-> **[[Habilidades]]:**
-> - [[Piel seca]]
-> - [[Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Piel Seca]]
+> - [[El Pokémon/Habilidades/Velo de Arena\|Velo de Arena]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Poder solar]]
+> - [[El Pokémon/Habilidades/Poder Solar]]

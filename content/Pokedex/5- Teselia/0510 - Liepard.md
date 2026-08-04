@@ -23,7 +23,7 @@ tipo1: "Tipo siniestro"
 >| defensa.esp | 50    |
 >| velocidad   | 106    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Flexibilidad]]
 > - [[Liviano]]
 >

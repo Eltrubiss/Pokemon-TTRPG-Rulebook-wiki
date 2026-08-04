@@ -23,7 +23,7 @@ tipo1: "Tipo hada"
 >| defensa.esp | 121    |
 >| velocidad   | 64    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Velo dulce]]
 >
 > **[[Habilidad Oculta]]:**

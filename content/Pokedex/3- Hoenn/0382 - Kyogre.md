@@ -23,5 +23,5 @@ tipo1: "Tipo agua"
 >| defensa.esp | 140    |
 >| velocidad   | 90    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Llovizna]]

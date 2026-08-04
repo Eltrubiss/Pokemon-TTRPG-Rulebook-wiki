@@ -23,5 +23,5 @@ tipo1: "Tipo planta"
 >| defensa.esp | 72    |
 >| velocidad   | 46    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Levitación]]

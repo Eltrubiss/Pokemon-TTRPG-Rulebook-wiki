@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 45    |
 >| velocidad   | 55    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Espíritu vital]]
 > - [[Recogida]]
 >

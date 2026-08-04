@@ -23,9 +23,9 @@ tipo1: "Tipo normal"
 >| defensa.esp | 80    |
 >| velocidad   | 90    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Madrugar]]
 > - [[Intrépido]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
+> - [[El Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]

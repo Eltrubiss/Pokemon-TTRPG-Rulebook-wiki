@@ -23,9 +23,9 @@ tipo1: "Tipo lucha"
 >| defensa.esp | 110    |
 >| velocidad   | 76    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Vista lince]]
 > - [[Puño férreo]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
+> - [[El Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]

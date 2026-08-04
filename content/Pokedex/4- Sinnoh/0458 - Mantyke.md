@@ -24,8 +24,8 @@ tipo2: "Tipo volador"
 >| defensa.esp | 120    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
-> - [[Nado rápido]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Nado Rápido]]
 > - [[Absorbe agua]]
 >
 > **[[Habilidad Oculta]]:**

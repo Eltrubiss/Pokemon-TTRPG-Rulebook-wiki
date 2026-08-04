@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 70    |
 >| velocidad   | 100    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sebo]]
 > - [[Intrépido]]
 >

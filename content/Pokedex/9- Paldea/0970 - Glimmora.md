@@ -24,7 +24,7 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 81    |
 >| velocidad   | 86    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Capa tóxica]]
 >
 > **[[Habilidad Oculta]]:**

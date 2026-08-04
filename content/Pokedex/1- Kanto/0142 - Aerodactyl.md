@@ -24,7 +24,7 @@ tipo2: "Tipo volador"
 >| defensa.esp | 75    |
 >| velocidad   | 130    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cabeza roca]]
 > - [[Presión]]
 >

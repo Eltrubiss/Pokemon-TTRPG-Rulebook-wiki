@@ -24,5 +24,5 @@ tipo2: "Tipo dragón"
 >| defensa.esp | 93    |
 >| velocidad   | 91    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Paleosíntesis\|Paleosíntesis]]

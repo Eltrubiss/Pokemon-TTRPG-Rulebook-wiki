@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 96    |
 >| velocidad   | 105    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Gran encanto]]
 > - [[Zoquete]]
 >

@@ -24,5 +24,5 @@ tipo2: "Tipo volador"
 >| defensa.esp | 90    |
 >| velocidad   | 95    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Esclusa de aire]]

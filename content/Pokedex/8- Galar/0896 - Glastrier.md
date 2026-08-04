@@ -23,5 +23,5 @@ tipo1: "Tipo hielo"
 >| defensa.esp | 110    |
 >| velocidad   | 30    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Relincho blanco]]

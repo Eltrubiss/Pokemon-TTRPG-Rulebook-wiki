@@ -24,8 +24,8 @@ tipo2: "Tipo planta"
 >| defensa.esp | 50    |
 >| velocidad   | 75    |
 >___
-> **[[Habilidades]]:**
-> - [[Pokémon/Habilidades/Clorofila\|Clorofila]]
+> **[[El Pokémon/Habilidades/Habilidades]]:**
+> - [[El Pokémon/Habilidades/Clorofila\|Clorofila]]
 > - [[Herbívoro]]
 >
 > **[[Habilidad Oculta]]:**

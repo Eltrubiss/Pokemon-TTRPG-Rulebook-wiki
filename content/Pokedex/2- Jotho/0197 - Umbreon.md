@@ -23,8 +23,8 @@ tipo1: "Tipo siniestro"
 >| defensa.esp | 130    |
 >| velocidad   | 65    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Sincronía]]
 >
 > **[[Habilidad Oculta]]:**
-> - [[Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]
+> - [[El Pokémon/Habilidades/Fuerza Mental\|Fuerza Mental]]

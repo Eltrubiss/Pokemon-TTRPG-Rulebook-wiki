@@ -23,7 +23,7 @@ tipo1: "Tipo fantasma"
 >| defensa.esp | 130    |
 >| velocidad   | 25    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Presión]]
 >
 > **[[Habilidad Oculta]]:**

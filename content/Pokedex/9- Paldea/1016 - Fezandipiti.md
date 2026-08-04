@@ -24,7 +24,7 @@ tipo2: "Tipo hada"
 >| defensa.esp | 125    |
 >| velocidad   | 99    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cadena tóxica]]
 >
 > **[[Habilidad Oculta]]:**

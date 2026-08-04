@@ -23,7 +23,7 @@ tipo1: "Tipo normal"
 >| defensa.esp | 105    |
 >| velocidad   | 50    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Cura natural]]
 > - [[Dicha]]
 >

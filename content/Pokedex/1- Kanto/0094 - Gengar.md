@@ -24,6 +24,6 @@ tipo2: "Tipo veneno"
 >| defensa.esp | 75    |
 >| velocidad   | 110    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Levitación]]
 > - [[2]]

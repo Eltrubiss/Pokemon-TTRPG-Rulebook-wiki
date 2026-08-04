@@ -23,5 +23,5 @@ tipo1: "Tipo fantasma"
 >| defensa.esp | 80    |
 >| velocidad   | 130    |
 >___
-> **[[Habilidades]]:**
+> **[[El Pokémon/Habilidades/Habilidades]]:**
 > - [[Relincho negro]]
